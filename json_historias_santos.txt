@@ -1,0 +1,144 @@
+[
+	{
+		"id": 45,
+		"titulo": "São Gregório Magno",
+		"historia": 
+			[
+				{
+					"titulo": "História",
+					"descricao": "Magno significa Grande. Assim foi a vida deste 
+			   					  Grande Papa, São Gregório I, pois foi grande 
+			   					  em sabedoria, inteligência e caridade.;
+			   					  
+			   					  São Gregório Magno nasceu no ano de 540, 
+			   					  em Roma.;
+			   					  
+			   					  De família nobre e tradicional romana, Gregório 
+			   					  foi motivado à vida pública por seus pais, 
+			   					  Sílvia e Gordiano.;
+			   					  
+			   					  Gregório, em sua juventude, possuía um 
+			   					  grande conhecimento em filosofia.;
+			   					  
+			   					  Apesar de sua grande riqueza material, ele 
+			   					  pensava em deixar tudo para se dedicar a 
+			   					  religião.;
+			   					  
+			   					  Mas levou um certo tempo até se cumprir essa 
+			   					  vocação, pois ele acreditava que era melhor 
+			   					  servir a Cristo no mundo laico, ficando 
+			   					  muito ocupado com assuntos seculares."
+			   				
+			   	}
+			],
+		"oracao": "Deus eterno e todo-poderoso, quiseste que São 
+                   Gregório Magno governasse todo o vosso povo, 
+                   servindo-o pela palavra e pelo exemplo.;
+                   
+                   Guardai, por suas preces, os pastores de 
+                   vossa Igreja e as ovelhas a eles confiadas, 
+                   guiando-as no caminho da salvação.;
+                   
+                   Por Cristo nosso Senhor. Amém!;",
+		"video": 
+			{
+				"descricao": "Grande Papa e Doutor da Igreja, foi grande em sabedoria, inteligência e caridade. Instituiu o canto das litanias (súplicas) e promoveu o canto litúrgico, conhecido como canto gregoriano.",
+				"dataPublicacao": "2020-09-20T12:00:10Z",
+				"videoUrl": "slrJ6I7q5os",
+				"videoFoto": "https://img.youtube.com/vi/slrJ6I7q5os/hqdefault.jpg",
+				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Sao_Gregorio_Magno.jpg?alt=media&token=2f47e608-139e-49f8-b1e7-3c29a4752868",
+				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Sao_Gregorio_Magno.png?alt=media&token=3aa154fb-3aea-40ed-8cab-7e3b8858417e"		
+			}
+	},
+	{
+		"id": 44,
+		"titulo": "Santa Edwiges",	
+		"historia": 
+			[
+				{
+					"titulo": "História",
+					"descricao": "Mulher cheia de amor, carinho e compaixão 
+                                  pelos pobres, foi uma mulher que marcou seu 
+                                  tempo.;
+                                  
+                                  Santa Edwiges nasceu no ano de 1174. Filha 
+                                  de Bertoldo de Andech, Marquês de Meran e 
+                                  Conde do Tirol, duque da Caríntia e da Ístria, 
+                                  e de Inês, filha do Conde de Rottech.;
+                                  
+                                  A pequena duquesa foi batizada na Capela do 
+                                  Palácio.;
+                                  
+                                  Loirinha, de faces rosadas, estava sempre 
+                                  alegre e risonha.;
+                                  
+                                  Sua mãe a ensinava a rezar desde pequena. 
+                                  Junto com seus irmãos, Edwiges ouviu as 
+                                  histórias dos santos e como eles deram suas 
+                                  vidas para defender a fé em Jesus Cristo.;
+                                  
+                                  
+                                  Aos 6 anos, Edwiges foi internada em um 
+                                  mosteiro para ser educada, como era o 
+                                  costume da época.;
+                                  
+                                  O mosteiro de Kicing, onde uma de suas irmãs 
+                                  seria abadessa.;"
+							
+				},
+				{
+					"titulo": "O casamento",
+					"descricao": "Aos 12 anos Edwiges demonstrava uma maturidade incomum. Nesta mesma idade, seu pai havia lhe arrumado um noivo, Henrique, Duque da Silésia e da Polônia; Casaram-se pouco tempo depois, no ano de 1186, tendo uma grande festa; Em sua chegada ao novo lar, todo o povo da cidade foi recebê-la e viu nela não uma Duquesa apenas, mas uma mãe para todos, bondosa, piedosa; Logo isso foi visto pelos empregados do Palácio, que eram convidados a rezar junto com a duquesa; Edwiges fez do lar uma igreja doméstica, junto a colaboração de seu esposo; Eram considerados um casal exemplar; Tiveram seis filhos – Henrique, Conrado, Boleslau, Inês, Sofia e Gertrudes; Edwiges levava a família todos os dias até a capela próxima do castelo onde moravam, para assistirem, juntos à Santa Missa; Mas infelizmente o exemplo dos pais não frutificou nos filhos, que lhes deram motivos para amargos sofrimentos;"
+							
+				}
+			],
+		"oracao": "Protetora dos pobres e endividados;
+
+                   A Vós, Santa Edwiges, que fostes na terra o 
+                   amparo dos pobres e desvalidos e socorro dos 
+                   endividados, no céu onde gozais o eterno 
+                   prêmio de caridade que praticastes, confiante 
+                   vo-lo peço:;
+                   
+                   sede a minha advogada para que eu obtenha a 
+                   graça de Deus que necessito, e por fim a graça 
+                   suprema da salvação eterna.;
+                   
+                   Assim seja! Amém.;
+                   
+                   Santa Edwiges, rogai por nós, pelos nossos 
+                   irmãos prisioneiros e por todos os que 
+                   passam dificuldades financeiras. Amém.;",
+		"video": 
+			{				
+				"descricao": "Protetora dos pobres e endividados. Fundou diversos mosteiros, atraindo à Silésia religiosos de várias ordens e congregações, incluindo as ordens franciscanos e cistercienses, levando a região de novas formas de espiritualidade.",
+				"dataPublicacao": "2020-09-13T12:00:10Z",
+				"videoUrl": "bwLAzhtMt8Q",
+				"videoFoto": "https://img.youtube.com/vi/bwLAzhtMt8Q/hqdefault.jpg",
+				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Santa_Edwiges.jpg?alt=media&token=b605e7a7-4ae3-428c-8eaf-6e86c05d7d9f",
+				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Santa_Edwiges.jpg?alt=media&token=43a1d2c3-9fd2-4d56-98cd-32439754f81e"		
+			}
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
