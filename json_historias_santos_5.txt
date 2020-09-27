@@ -1,13 +1,33 @@
 [
 	{
+		"id": 46,
+		"titulo": "Santa Paulina do Coração Agonizante de Jesus",
+		"historia": 
+			[
+				{
+					"titulo": "História",
+					"descricao": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados.; Santa Paulina nasceu em Trento, Itália, no dia 16 de dezembro de 1865.; Seus pais, Antônio Napoleone Visintainer e Anna Pianezzer lhe deram o nome de Amábile Lúcia Visinteiner, sendo a segunda filha do casal.;"			   				
+			   	}
+			],
+		"oracao": "Ó Santa Paulina, que puseste toda a confiança no Pai e em Jesus e que, inspirada por Maria, decidiste ajudar o povo sofrido, nós te confiamos a Igreja que tanto amas, nossas vidas, nossas famílias, a Vida Consagrada e todo o povo de Deus.; (Pedir a graça desejada); Santa Paulina, intercede por nós, junto a Jesus, a fim de que tenhamos a coragem de lutar sempre, na conquista de um mundo mais humano, justo e fraterno. Amém.; Pai-Nosso – Ave Maria – Glória; V. Santa Paulina.; R. Rogai por nós!",
+		"video": 
+			{
+				"descricao": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados.",
+				"dataPublicacao": "2020-09-27T12:00:10Z",
+				"videoId": "V2tCj5nuMnY",
+				"videoFoto": "https://img.youtube.com/vi/V2tCj5nuMnY/hqdefault.jpg",
+				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Santa_Paulina.png?alt=media&token=74539101-60f5-4c9c-b840-d87a2f8258f5",
+				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Santa_Paulina.png?alt=media&token=b3f2c913-e1d2-42df-86e1-46902863eed3"		
+			}
+	},
+	{
 		"id": 45,
 		"titulo": "São Gregório Magno",
 		"historia": 
 			[
 				{
 					"titulo": "História",
-					"descricao": "Magno significa Grande. Assim foi a vida deste Grande Papa, São Gregório I, pois foi grande em sabedoria, inteligência e caridade.; São Gregório Magno nasceu no ano de 540, em Roma.; De família nobre e tradicional romana, Gregório foi motivado à vida pública por seus pais, Sílvia e Gordiano.; Gregório, em sua juventude, possuía um grande conhecimento em filosofia.; Apesar de sua grande riqueza material, ele pensava em deixar tudo para se dedicar a religião.; Mas levou um certo tempo até se cumprir essa vocação, pois ele acreditava que era melhor servir a Cristo no mundo laico, ficando muito ocupado com assuntos seculares."
-			   				
+					"descricao": "Magno significa Grande. Assim foi a vida deste Grande Papa, São Gregório I, pois foi grande em sabedoria, inteligência e caridade.; São Gregório Magno nasceu no ano de 540, em Roma.; De família nobre e tradicional romana, Gregório foi motivado à vida pública por seus pais, Sílvia e Gordiano.; Gregório, em sua juventude, possuía um grande conhecimento em filosofia.; Apesar de sua grande riqueza material, ele pensava em deixar tudo para se dedicar a religião.; Mas levou um certo tempo até se cumprir essa vocação, pois ele acreditava que era melhor servir a Cristo no mundo laico, ficando muito ocupado com assuntos seculares."			   				
 			   	}
 			],
 		"oracao": "Deus eterno e todo-poderoso, quiseste que São Gregório Magno governasse todo o vosso povo, servindo-o pela palavra e pelo exemplo.; Guardai, por suas preces, os pastores de vossa Igreja e as ovelhas a eles confiadas, guiando-as no caminho da salvação.; Por Cristo nosso Senhor. Amém!;",
@@ -127,25 +147,3 @@
 			}
 	}
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
