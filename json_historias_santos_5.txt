@@ -10,10 +10,10 @@
 				"descricao": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados.",
 				"dataPublicacao": "2020-09-27T12:00:10Z",
 				"videoId": "V2tCj5nuMnY",
-				"videoFoto": "https://img.youtube.com/vi/V2tCj5nuMnY/hqdefault.jpg",
-				"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
-				"foto": "https://i.ibb.co/y8GXBZQ/foto-Santa-Paulina.png"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/V2tCj5nuMnY/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
+		"foto": "https://i.ibb.co/y8GXBZQ/foto-Santa-Paulina.png"		
 	},
 	{
 		"id": 45,
@@ -26,10 +26,10 @@
 				"descricao": "Grande Papa e Doutor da Igreja, foi grande em sabedoria, inteligência e caridade. Instituiu o canto das litanias (súplicas) e promoveu o canto litúrgico, conhecido como canto gregoriano.",
 				"dataPublicacao": "2020-09-20T12:00:10Z",
 				"videoId": "slrJ6I7q5os",
-				"videoFoto": "https://img.youtube.com/vi/slrJ6I7q5os/hqdefault.jpg",
-				"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
-				"foto": "https://i.ibb.co/Rjm9Fr5/foto-Sao-Gregorio-Magno.png"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/slrJ6I7q5os/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
+		"foto": "https://i.ibb.co/Rjm9Fr5/foto-Sao-Gregorio-Magno.png"		
 	},
 	{
 		"id": 44,
@@ -42,10 +42,10 @@
 				"descricao": "Protetora dos pobres e endividados. Fundou diversos mosteiros, atraindo à Silésia religiosos de várias ordens e congregações, incluindo as ordens franciscanos e cistercienses, levando a região de novas formas de espiritualidade.",
 				"dataPublicacao": "2020-09-13T12:00:10Z",
 				"videoId": "bwLAzhtMt8Q",
-				"videoFoto": "https://img.youtube.com/vi/bwLAzhtMt8Q/hqdefault.jpg",
-				"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
-				"foto": "https://i.ibb.co/Z6jRYk9/foto-Santa-Edwiges.jpg"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/bwLAzhtMt8Q/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
+		"foto": "https://i.ibb.co/Z6jRYk9/foto-Santa-Edwiges.jpg"		
 	},
 	{
 		"id": 43,
@@ -58,10 +58,10 @@
 				"descricao": "Mãe do Bom Conselho, cheia de ternura, nossa luz e segurança nas incertezas da vida. Mãe que nos orienta e guia ao verdadeiro caminho, ao porto seguro do Céu.",
     			"dataPublicacao": "2020-08-26T12:00:10Z",
     			"videoId": "-CcepGGKQEA",
-    			"videoFoto": "https://img.youtube.com/vi/-CcepGGKQEA/hqdefault.jpg",
-    			"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
-    			"foto": "https://i.ibb.co/dJyvLkp/foto-Nossa-Senhora-do-Bom-Conselho.jpg"		
-			}
+    			"videoFoto": "https://img.youtube.com/vi/-CcepGGKQEA/hqdefault.jpg"		
+			},
+    	"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
+    	"foto": "https://i.ibb.co/dJyvLkp/foto-Nossa-Senhora-do-Bom-Conselho.jpg"
 	},
 	{
 		"id": 42,
@@ -74,10 +74,10 @@
 				"descricao": "Saúde dos Enfermos, Consoladora dos Aflitos, Auxílio e Amparo do povo cristão. Nossa Senhora da Saúde é celebrada no dia 15 de Agosto",
 				"dataPublicacao": "2020-08-15T12:00:10Z",				
 				"videoId": "zVxDJwmkabs",
-				"videoFoto": "https://img.youtube.com/vi/zVxDJwmkabs/hqdefault.jpg",
-				"banner": "https://i.ibb.co/w765Th6/capa.jpg",
-				"foto": "https://i.ibb.co/qyKhcdQ/foto-Nossa-Senhora-da-Saude.jpg"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/zVxDJwmkabs/hqdefault.jpg"	
+			},
+		"banner": "https://i.ibb.co/w765Th6/capa.jpg",
+		"foto": "https://i.ibb.co/qyKhcdQ/foto-Nossa-Senhora-da-Saude.jpg"	
 	},
 	{
 		"id": 41,
@@ -90,10 +90,10 @@
 				"descricao": "Mas os apóstolos vieram para construir, não com pedras, mas com virtudes, uma torre para todos que crerem subir ao Céu. São Mateus é celebrado no dia 21 de setembro.",
 				"dataPublicacao": "2020-08-02T12:00:10Z",				
 				"videoId": "C7sAY8EaWH4",
-				"videoFoto": "https://img.youtube.com/vi/C7sAY8EaWH4/hqdefault.jpg",
-				"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
-				"foto": "https://i.ibb.co/PC4VZVf/foto-Sao-Mateus-Evangelista.jpg"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/C7sAY8EaWH4/hqdefault.jpg"	
+			},
+		"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
+		"foto": "https://i.ibb.co/PC4VZVf/foto-Sao-Mateus-Evangelista.jpg"	
 	},
 	{
 		"id": 40,
@@ -106,9 +106,9 @@
 				"descricao": "São Cristóvão é celebrado no dia 25 de julho, padroeiro dos motoristas e viajantes.",
 				"dataPublicacao": "2020-07-24T12:00:10Z",				
 				"videoId": "a_El24mV1uQ",
-				"videoFoto": "https://img.youtube.com/vi/a_El24mV1uQ/hqdefault.jpg",
-				"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
-				"foto": "https://i.ibb.co/dJRchGR/foto-Sao-Cristovao.jpg"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/a_El24mV1uQ/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
+		"foto": "https://i.ibb.co/dJRchGR/foto-Sao-Cristovao.jpg"		
 	}
 ]
