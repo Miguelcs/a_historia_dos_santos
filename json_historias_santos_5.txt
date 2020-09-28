@@ -2,13 +2,8 @@
 	{
 		"id": 46,
 		"titulo": "Santa Paulina do Coração Agonizante de Jesus",
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados.; Santa Paulina nasceu em Trento, Itália, no dia 16 de dezembro de 1865.; Seus pais, Antônio Napoleone Visintainer e Anna Pianezzer lhe deram o nome de Amábile Lúcia Visinteiner, sendo a segunda filha do casal.;"			   				
-			   	}
-			],
+		"historia": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados.; Santa Paulina nasceu em Trento, Itália, no dia 16 de dezembro de 1865.; Seus pais, Antônio Napoleone Visintainer e Anna Pianezzer lhe deram o nome de Amábile Lúcia Visinteiner, sendo a segunda filha do casal.;",
+		"tituloOracao": "Oração a Santa Paulina",
 		"oracao": "Ó Santa Paulina, que puseste toda a confiança no Pai e em Jesus e que, inspirada por Maria, decidiste ajudar o povo sofrido, nós te confiamos a Igreja que tanto amas, nossas vidas, nossas famílias, a Vida Consagrada e todo o povo de Deus.; (Pedir a graça desejada); Santa Paulina, intercede por nós, junto a Jesus, a fim de que tenhamos a coragem de lutar sempre, na conquista de um mundo mais humano, justo e fraterno. Amém.; Pai-Nosso – Ave Maria – Glória; V. Santa Paulina.; R. Rogai por nós!",
 		"video": 
 			{
@@ -16,20 +11,15 @@
 				"dataPublicacao": "2020-09-27T12:00:10Z",
 				"videoId": "V2tCj5nuMnY",
 				"videoFoto": "https://img.youtube.com/vi/V2tCj5nuMnY/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Santa_Paulina.png?alt=media&token=74539101-60f5-4c9c-b840-d87a2f8258f5",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Santa_Paulina.png?alt=media&token=b3f2c913-e1d2-42df-86e1-46902863eed3"		
+				"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
+				"foto": "https://i.ibb.co/y8GXBZQ/foto-Santa-Paulina.png"		
 			}
 	},
 	{
 		"id": 45,
 		"titulo": "São Gregório Magno",
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "Magno significa Grande. Assim foi a vida deste Grande Papa, São Gregório I, pois foi grande em sabedoria, inteligência e caridade.; São Gregório Magno nasceu no ano de 540, em Roma.; De família nobre e tradicional romana, Gregório foi motivado à vida pública por seus pais, Sílvia e Gordiano.; Gregório, em sua juventude, possuía um grande conhecimento em filosofia.; Apesar de sua grande riqueza material, ele pensava em deixar tudo para se dedicar a religião.; Mas levou um certo tempo até se cumprir essa vocação, pois ele acreditava que era melhor servir a Cristo no mundo laico, ficando muito ocupado com assuntos seculares."			   				
-			   	}
-			],
+		"historia": "Magno significa Grande. Assim foi a vida deste Grande Papa, São Gregório I, pois foi grande em sabedoria, inteligência e caridade.; São Gregório Magno nasceu no ano de 540, em Roma.; De família nobre e tradicional romana, Gregório foi motivado à vida pública por seus pais, Sílvia e Gordiano.; Gregório, em sua juventude, possuía um grande conhecimento em filosofia.; Apesar de sua grande riqueza material, ele pensava em deixar tudo para se dedicar a religião.; Mas levou um certo tempo até se cumprir essa vocação, pois ele acreditava que era melhor servir a Cristo no mundo laico, ficando muito ocupado com assuntos seculares.",
+		"tituloOracao": "Oração a São Gregório Magno",
 		"oracao": "Deus eterno e todo-poderoso, quiseste que São Gregório Magno governasse todo o vosso povo, servindo-o pela palavra e pelo exemplo.; Guardai, por suas preces, os pastores de vossa Igreja e as ovelhas a eles confiadas, guiando-as no caminho da salvação.; Por Cristo nosso Senhor. Amém!;",
 		"video": 
 			{
@@ -37,20 +27,15 @@
 				"dataPublicacao": "2020-09-20T12:00:10Z",
 				"videoId": "slrJ6I7q5os",
 				"videoFoto": "https://img.youtube.com/vi/slrJ6I7q5os/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Sao_Gregorio_Magno.jpg?alt=media&token=2f47e608-139e-49f8-b1e7-3c29a4752868",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Sao_Gregorio_Magno.png?alt=media&token=3aa154fb-3aea-40ed-8cab-7e3b8858417e"		
+				"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
+				"foto": "https://i.ibb.co/Rjm9Fr5/foto-Sao-Gregorio-Magno.png"		
 			}
 	},
 	{
 		"id": 44,
 		"titulo": "Santa Edwiges",	
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "Mulher cheia de amor, carinho e compaixão pelos pobres, foi uma mulher que marcou seu tempo.; Santa Edwiges nasceu no ano de 1174. Filha de Bertoldo de Andech, Marquês de Meran e Conde do Tirol, duque da Caríntia e da Ístria, e de Inês, filha do Conde de Rottech.; A pequena duquesa foi batizada na Capela do Palácio.; Loirinha, de faces rosadas, estava sempre alegre e risonha.; Sua mãe a ensinava a rezar desde pequena. Junto com seus irmãos, Edwiges ouviu as histórias dos santos e como eles deram suas vidas para defender a fé em Jesus Cristo.; Aos 6 anos, Edwiges foi internada em um mosteiro para ser educada, como era o costume da época.; O mosteiro de Kicing, onde uma de suas irmãs seria abadessa.;"	
-				}
-			],
+		"historia": "Mulher cheia de amor, carinho e compaixão pelos pobres, foi uma mulher que marcou seu tempo.; Santa Edwiges nasceu no ano de 1174. Filha de Bertoldo de Andech, Marquês de Meran e Conde do Tirol, duque da Caríntia e da Ístria, e de Inês, filha do Conde de Rottech.; A pequena duquesa foi batizada na Capela do Palácio.; Loirinha, de faces rosadas, estava sempre alegre e risonha.; Sua mãe a ensinava a rezar desde pequena. Junto com seus irmãos, Edwiges ouviu as histórias dos santos e como eles deram suas vidas para defender a fé em Jesus Cristo.; Aos 6 anos, Edwiges foi internada em um mosteiro para ser educada, como era o costume da época.; O mosteiro de Kicing, onde uma de suas irmãs seria abadessa.;",
+		"tituloOracao": "Oração a Santa Edwiges",
 		"oracao": "Protetora dos pobres e endividados; A Vós, Santa Edwiges, que fostes na terra o amparo dos pobres e desvalidos e socorro dos endividados, no céu onde gozais o eterno prêmio de caridade que praticastes, confiante vo-lo peço:; sede a minha advogada para que eu obtenha a graça de Deus que necessito, e por fim a graça suprema da salvação eterna.; Assim seja! Amém.; Santa Edwiges, rogai por nós, pelos nossos irmãos prisioneiros e por todos os que passam dificuldades financeiras. Amém.;",
 		"video": 
 			{				
@@ -58,20 +43,15 @@
 				"dataPublicacao": "2020-09-13T12:00:10Z",
 				"videoId": "bwLAzhtMt8Q",
 				"videoFoto": "https://img.youtube.com/vi/bwLAzhtMt8Q/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Santa_Edwiges.jpg?alt=media&token=b605e7a7-4ae3-428c-8eaf-6e86c05d7d9f",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Santa_Edwiges.jpg?alt=media&token=43a1d2c3-9fd2-4d56-98cd-32439754f81e"		
+				"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
+				"foto": "https://i.ibb.co/Z6jRYk9/foto-Santa-Edwiges.jpg"		
 			}
 	},
 	{
 		"id": 43,
 		"titulo": "Nossa Senhora do Bom Conselho",	
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "A história da Mãe do Bom Conselho de Genazzano teve início no dia 25 de abril de 1467, festa de São Marcos.; Vinda de Scútari, Albânia, o afresco da Santíssima Virgem, tão fina como a casca de um ovo, veio do alto, de uma nuvem luminosa, percorrendo grandes distâncias, até chegar à uma Igreja em ruínas na cidade de Genazzano, Itália.; O povo de Genazzano celebrava como o costume a festa de seu padroeiro.; Havia próximo dali uma antiga Igreja em ruínas que era dedicada à Nossa Senhora do Bom Conselho.;"	
-				}
-			],
+		"historia": "A história da Mãe do Bom Conselho de Genazzano teve início no dia 25 de abril de 1467, festa de São Marcos.; Vinda de Scútari, Albânia, o afresco da Santíssima Virgem, tão fina como a casca de um ovo, veio do alto, de uma nuvem luminosa, percorrendo grandes distâncias, até chegar à uma Igreja em ruínas na cidade de Genazzano, Itália.; O povo de Genazzano celebrava como o costume a festa de seu padroeiro.; Havia próximo dali uma antiga Igreja em ruínas que era dedicada à Nossa Senhora do Bom Conselho.;",
+		"tituloOracao": "Oração à Mãe do Bom Conselho",
 		"oracao": "Gloriosíssima Virgem Maria, escolhida pelo eterno Conselho para Mãe do Verbo Humanado, tesoureira das divinas graças e advogada dos pecadores, eu, o mais indigno de vossos servos, a vós recorro para que sejais guia e conselheira neste vale de lágrimas.; Alcançai-me, pelo preciosíssimo sangue de vosso divino Filho, o perdão de meus pecados, a salvação de minha alma e os meios necessários para obtê-la.; Alcançai também para a Santa Igreja o triunfo sobre os inimigos e a propagação do reino de Jesus Cristo em todo o mundo. Amém.;",
 		"video": 
 			{				
@@ -79,20 +59,15 @@
     			"dataPublicacao": "2020-08-26T12:00:10Z",
     			"videoId": "-CcepGGKQEA",
     			"videoFoto": "https://img.youtube.com/vi/-CcepGGKQEA/hqdefault.jpg",
-    			"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Nossa_Senhora_do_Bom_Conselho.jpg?alt=media&token=a6cb4ac4-ab12-4809-8c97-7f0899bfaf52",
-    			"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Nossa_Senhora_do_Bom_Conselho.jpg?alt=media&token=a3c4eb20-4f58-4f32-ac49-9977eb747ebc"		
+    			"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
+    			"foto": "https://i.ibb.co/dJyvLkp/foto-Nossa-Senhora-do-Bom-Conselho.jpg"		
 			}
 	},
 	{
 		"id": 42,
 		"titulo": "Nossa Senhora da Saúde",	
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "A piedade cristã sempre recorreu à solicitude amorosa da Mãe Celeste, principalmente em momentos de maior dor e sofrimento.; Nossa Senhora possui o dom da cura porque Ela deu à luz ao Médico supremo que nos cura de todos os males.; O remédio onipotente, único capaz de devolver a saúde e a vida à humanidade, saiu de Maria.; É, pois, justo chamá-la a Saúde dos Enfermos.; Por isso São João Damasceno a faz dizer:; 'Eu sou como um laboratório de remédios para os pobres doentes. Sou esta inextinguível fonte de cura'(Jourdain, Soma das grandezas de Maria).; Nossa Senhora cooperou e coopera com Seu Divino Filho de modo único na cura da maior e pior doença sofrida pelo homem, o pecado.; Mãe e advogada nossa, Nossa Senhora não cessa de interceder por cada um de seus filhos que,  desde o surgimento da Igreja, a chamam de Saúde dos Enfermos, Consoladora dos Aflitos, Auxílio e Amparo do povo cristão.;"	
-				}
-			],
+		"historia": "A piedade cristã sempre recorreu à solicitude amorosa da Mãe Celeste, principalmente em momentos de maior dor e sofrimento.; Nossa Senhora possui o dom da cura porque Ela deu à luz ao Médico supremo que nos cura de todos os males.; O remédio onipotente, único capaz de devolver a saúde e a vida à humanidade, saiu de Maria.; É, pois, justo chamá-la a Saúde dos Enfermos.; Por isso São João Damasceno a faz dizer:; 'Eu sou como um laboratório de remédios para os pobres doentes. Sou esta inextinguível fonte de cura'(Jourdain, Soma das grandezas de Maria).; Nossa Senhora cooperou e coopera com Seu Divino Filho de modo único na cura da maior e pior doença sofrida pelo homem, o pecado.; Mãe e advogada nossa, Nossa Senhora não cessa de interceder por cada um de seus filhos que,  desde o surgimento da Igreja, a chamam de Saúde dos Enfermos, Consoladora dos Aflitos, Auxílio e Amparo do povo cristão.;",
+		"tituloOracao": "Oração a Nossa Senhora da Saúde",
 		"oracao": "À vossa proteção recorremos, ó Santa Mãe de Deus, consoladora dos aflitos e saúde dos enfermos.; Não desprezeis nossas súplicas em nossas necessidades, e livrai-nos sempre de todos os perigos, e das doenças, ó Virgem Gloriosa e Bendita.; Senhora nossa, Medianeira nossa, Advogada nossa, com vosso Filho, reconciliai-nos, a vosso Filho recomendai-nos, a vosso Filho apresentai-nos.; Virgem Puríssima, que sois a Saúde dos Enfermos, o Refúgio dos Pecadores, a Consoladora dos Aflitos e a distribuidora de todas as graças, na minha fraqueza e no meu desânimo apelo hoje, para os tesouros da vossa divina misericórdia e bondade e atrevo-me a chamar-vos pelo doce nome de Mãe.; Sim, ó Mãe, atendei-me em minha enfermidade, dai-me a saúde do corpo para que possa cumprir os meus deveres com ânimo e alegria, e com a mesma disposição sirva a vosso Filho Jesus e agradeça a vós, Saúde dos Enfermos.; Nossa Senhora da Saúde, rogai por nós. Amém.;",
 		"video": 
 			{				
@@ -100,20 +75,15 @@
 				"dataPublicacao": "2020-08-15T12:00:10Z",				
 				"videoId": "zVxDJwmkabs",
 				"videoFoto": "https://img.youtube.com/vi/zVxDJwmkabs/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Nossa_Senhora_da_Saude.jpg?alt=media&token=7e5441a4-edd0-47d2-9659-fe09e0b1f674",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Nossa_Senhora_da_Saude.jpg?alt=media&token=8bb26891-8e85-4806-8703-4dda5b4f0a30"		
+				"banner": "https://i.ibb.co/w765Th6/capa.jpg",
+				"foto": "https://i.ibb.co/qyKhcdQ/foto-Nossa-Senhora-da-Saude.jpg"		
 			}
 	},
 	{
 		"id": 41,
 		"titulo": "São Mateus Evangelista",	
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "São Mateus, Apóstolo e Evangelista, nasceu em Cafarnaum, onde cresceu e lá foi criado, vivendo ali parte de sua vida adulta.; Possuía boa riqueza por ser coletor de impostos. Também chamado de Levi, foi um dos doze apóstolos.; Largou tudo o que tinha e seguiu a Jesus. Mateus significa 'Dom de Deus'.;"	
-				}
-			],
+		"historia": "São Mateus, Apóstolo e Evangelista, nasceu em Cafarnaum, onde cresceu e lá foi criado, vivendo ali parte de sua vida adulta.; Possuía boa riqueza por ser coletor de impostos. Também chamado de Levi, foi um dos doze apóstolos.; Largou tudo o que tinha e seguiu a Jesus. Mateus significa 'Dom de Deus'.;",
+		"tituloOracao": "Oração a São Mateus",
 		"oracao": "São Mateus que deixastes a riqueza para seguir com entusiasmo o chamado do Mestre, fazendo da pobreza um hino de louvor a Jesus, intercedei por mim, que me encontro em aflição.; Ensinai-me por fim, a ajuntar tesouros no céu e a servir a Deus e não ao dinheiro. Amém.",
 		"video": 
 			{				
@@ -121,20 +91,15 @@
 				"dataPublicacao": "2020-08-02T12:00:10Z",				
 				"videoId": "C7sAY8EaWH4",
 				"videoFoto": "https://img.youtube.com/vi/C7sAY8EaWH4/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Sao_Mateus_Evangelista.jpg?alt=media&token=d20f83d8-1bd0-40c9-84be-71142bab52cc",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Sao_Mateus_Evangelista.jpg?alt=media&token=d138142b-8edd-453d-bffe-d68adadb714a"		
+				"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
+				"foto": "https://i.ibb.co/PC4VZVf/foto-Sao-Mateus-Evangelista.jpg"		
 			}
 	},
 	{
 		"id": 40,
 		"titulo": "São Cristóvão",		
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "Cristóvão era de origem cananéia, pouco se sabe sobre sua origem. Antes de sua conversão, seu nome era Réprobo.; Era guerreiro de profissão e por ser um homem muito alto e forte, era temido por muitos, sendo sinônimo de vitória por onde chegasse."	
-				}
-			],
+		"historia": "Cristóvão era de origem cananéia, pouco se sabe sobre sua origem. Antes de sua conversão, seu nome era Réprobo.; Era guerreiro de profissão e por ser um homem muito alto e forte, era temido por muitos, sendo sinônimo de vitória por onde chegasse.",
+		"tituloOracao": "Oração a São Cristóvão",
 		"oracao": "Ó São Cristóvão, que atravessastes a correnteza furiosa de um rio com toda a firmeza e segurança, porque carregáveis nos ombros o Menino Jesus, fazei que Deus se sinta sempre bem em meu coração, porque então eu terei sempre firmeza e segurança no guidão do meu carro e enfrentarei corajosamente todas as correntezas que eu encontrar, venham elas dos homens ou do espírito infernal.; São Cristóvão, rogai por nós. Amém.",
 		"video": 
 			{			
@@ -142,8 +107,8 @@
 				"dataPublicacao": "2020-07-24T12:00:10Z",				
 				"videoId": "a_El24mV1uQ",
 				"videoFoto": "https://img.youtube.com/vi/a_El24mV1uQ/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Sao_Cristovao.jpg?alt=media&token=7edefd25-a6e7-4a17-a7cb-a4d35be17746",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Sao_Cristovao.jpg?alt=media&token=ffe75989-84fa-4517-9ded-ccaf69cfdd9a"		
+				"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
+				"foto": "https://i.ibb.co/dJRchGR/foto-Sao-Cristovao.jpg"		
 			}
 	}
 ]
