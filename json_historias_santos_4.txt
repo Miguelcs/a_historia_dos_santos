@@ -2,7 +2,7 @@
 	{
 		"id": 39,
 		"titulo": "São Marcos Evangelista",
-		"historia": "São Marcos era de origem hebraica, da tribo de Levi. Seu nome era João Marcos, João - hebreu, Marcos - romano.; Sua mãe é mencionada na Bíblia em Atos dos apóstolos: "Refletiu um momento  e dirigiu-se para a casa de Maria, mãe de João, quem tem por sobrenome Marcos, onde muitos se tinham reunido e faziam oração" (Atos 12, 12).;",
+		"historia": "São Marcos era de origem hebraica, da tribo de Levi. Seu nome era João Marcos, João - hebreu, Marcos - romano.; Sua mãe é mencionada na Bíblia em Atos dos apóstolos: 'Refletiu um momento  e dirigiu-se para a casa de Maria, mãe de João, quem tem por sobrenome Marcos, onde muitos se tinham reunido e faziam oração' (Atos 12, 12).;",
 		"tituloOracao": "Oração a São Marcos",
 		"oracao": "Louvado seja Nosso Senhor Jesus Cristo, que deu a seu discípulo Marcos a graça do apostolado cristão e a narração de seu Santo Evangelho.; São Marcos, rogue por nós, para que sejamos iluminados pela força do Evangelho.; Deus Eterno e Todo Poderoso, nós vos pedimos as bençãos e as graças necessárias, para a nossa salvação, pela intercessão poderosíssima do evangelista São Marcos.; Tudo isso vos pedimos Pai Celeste, em nome de nosso Senhor Jesus Cristo, na Unidade do Espírito Santo. Que assim seja.;",
 		"video": 
@@ -10,10 +10,10 @@
 				"descricao": "São Marcos Evangelista é celebrado no dia 25 de Abril. Discípulo e intérprete de São Pedro e Mártir",
 				"dataPublicacao": "2020-09-19T12:00:10Z",
 				"videoId": "m7iBcefysVs",
-				"videoFoto": "https://img.youtube.com/vi/m7iBcefysVs/hqdefault.jpg",
-				"banner": "https://i.ibb.co/QNMBWMT/Capa-Imagem-Sao-Marcos-1.jpg",
-				"foto": "https://i.ibb.co/zHqBymh/foto-Sao-Marcos-Evangelista.jpg"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/m7iBcefysVs/hqdefault.jpg"		
+			},
+		"banner": "https://i.ibb.co/QNMBWMT/Capa-Imagem-Sao-Marcos-1.jpg",
+		"foto": "https://i.ibb.co/zHqBymh/foto-Sao-Marcos-Evangelista.jpg"
 	},
 	{
 		"id": 38,
@@ -26,13 +26,13 @@
 				"descricao": "São Simão Stock, o Amado de Maria, rogai por nós. Sua festa é celebrada no dia 16 de maio.",
 				"dataPublicacao": "2020-09-13T12:00:10Z",
 				"videoId": "YKKDyDFqa7Q",
-				"videoFoto": "https://img.youtube.com/vi/YKKDyDFqa7Q/hqdefault.jpg",
-				"banner": "https://i.ibb.co/8bYDvCp/Capa-Imagem-Sao-Simao-Stock.jpg",
-				"foto": "https://i.ibb.co/JvwYzSf/ora-o-S-o-Sim-o-Stock-STORIE2.jpg"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/YKKDyDFqa7Q/hqdefault.jpg"		
+			},
+		"banner": "https://i.ibb.co/8bYDvCp/Capa-Imagem-Sao-Simao-Stock.jpg",
+		"foto": "https://i.ibb.co/JvwYzSf/ora-o-S-o-Sim-o-Stock-STORIE2.jpg"
 	},
 	{
-		"id": 38,
+		"id": 37,
 		"titulo": "Nossa Senhora do Carmo",
 		"historia": "A devoção à Nossa Senhora do Carmo teve início a partir do século XIII, quando um grupo de eremitas se fixaram no Monte Carmelo, localizado ao norte de Israel.; Ergueram um pequeno mosteiro junto à chamada 'Fonte de Elias', e ali tiveram suas vidas voltadas ao louvor à Santíssima Virgem Maria, sempre observando os ensinamentos do Evangelho.; Solicitaram a Santo Alberto, que era patriarca latino de Jerusalém, uma regra para vivenciarem.; Dentre os preceitos estava o de fazer um oratório para a celebração da Eucaristia.; A capela foi dedicada à Nossa Senhora e os eremitas passaram a ser conhecidos como 'Irmãos da Bem-aventurada Virgem Maria do Monte Carmelo';",
 		"tituloOracao": "Oração a Nossa Senhora do Carmo",
@@ -42,9 +42,9 @@
 				"descricao": "Flor do Carmelo, vinha florida, esplendor do Céu: Virgem fecunda e singular! Ó doce Mãe,; de varão não conhecida, aos carmelitas dá; privilégio, Estrela do Mar!;",
 				"dataPublicacao": "2020-08-29T12:00:10Z",
 				"videoId": "fZsd4v_r4lE",
-				"videoFoto": "https://img.youtube.com/vi/fZsd4v_r4lE/hqdefault.jpg",
-				"banner": "https://i.ibb.co/L0CpVTF/Capa-Imagem-Nossa-Senhora-do-Carmo.jpg",
-				"foto": "https://i.ibb.co/qnw4cZR/nossasenhora.png"		
-			}
+				"videoFoto": "https://img.youtube.com/vi/fZsd4v_r4lE/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/L0CpVTF/Capa-Imagem-Nossa-Senhora-do-Carmo.jpg",
+		"foto": "https://i.ibb.co/qnw4cZR/nossasenhora.png"		
 	}
 ]
