@@ -2,9 +2,9 @@
 	{
 		"id": 39,
 		"titulo": "São Marcos Evangelista",
-		"historia": "São Marcos era de origem hebraica, da tribo de Levi. Seu nome era João Marcos, João - hebreu, Marcos - romano.; Sua mãe é mencionada na Bíblia em Atos dos apóstolos: 'Refletiu um momento  e dirigiu-se para a casa de Maria, mãe de João, quem tem por sobrenome Marcos, onde muitos se tinham reunido e faziam oração' (Atos 12, 12).;",
+		"historia": "São Marcos era de origem hebraica, da tribo de Levi. Seu nome era João Marcos, João - hebreu, Marcos - romano.; Sua mãe é mencionada na Bíblia em Atos dos apóstolos: 'Refletiu um momento  e dirigiu-se para a casa de Maria, mãe de João, quem tem por sobrenome Marcos, onde muitos se tinham reunido e faziam oração' (Atos 12, 12).",
 		"tituloOracao": "Oração a São Marcos",
-		"oracao": "Louvado seja Nosso Senhor Jesus Cristo, que deu a seu discípulo Marcos a graça do apostolado cristão e a narração de seu Santo Evangelho.; São Marcos, rogue por nós, para que sejamos iluminados pela força do Evangelho.; Deus Eterno e Todo Poderoso, nós vos pedimos as bençãos e as graças necessárias, para a nossa salvação, pela intercessão poderosíssima do evangelista São Marcos.; Tudo isso vos pedimos Pai Celeste, em nome de nosso Senhor Jesus Cristo, na Unidade do Espírito Santo. Que assim seja.;",
+		"oracao": "Louvado seja Nosso Senhor Jesus Cristo, que deu a seu discípulo Marcos a graça do apostolado cristão e a narração de seu Santo Evangelho.; São Marcos, rogue por nós, para que sejamos iluminados pela força do Evangelho.; Deus Eterno e Todo Poderoso, nós vos pedimos as bençãos e as graças necessárias, para a nossa salvação, pela intercessão poderosíssima do evangelista São Marcos.; Tudo isso vos pedimos Pai Celeste, em nome de nosso Senhor Jesus Cristo, na Unidade do Espírito Santo. Que assim seja.",
 		"video": 
 			{
 				"descricao": "São Marcos Evangelista é celebrado no dia 25 de Abril. Discípulo e intérprete de São Pedro e Mártir",
@@ -18,13 +18,13 @@
 	{
 		"id": 38,
 		"titulo": "São Simão Stock",
-		"historia": "São Simão Stock nasceu no ano de 1165, no Condado de Kent, Inglaterra. Seus pais eram nobres e sua mãe o consagrou desde cedo à Nossa Senhora.; Simão aprendeu a ler ainda pequeno, mostrava sinais de inteligência e piedade e recitava o Pequeno Ofício da Santíssima Virgem.; Tendo sete anos, iniciou o curso de Belas Artes no Colégio de Oxford, ali recebeu a Primeira Comunhão e dedicou sua virgindade à Santíssima Virgem Maria.;",
+		"historia": "São Simão Stock nasceu no ano de 1165, no Condado de Kent, Inglaterra. Seus pais eram nobres e sua mãe o consagrou desde cedo à Nossa Senhora.; Simão aprendeu a ler ainda pequeno, mostrava sinais de inteligência e piedade e recitava o Pequeno Ofício da Santíssima Virgem.; Tendo sete anos, iniciou o curso de Belas Artes no Colégio de Oxford, ali recebeu a Primeira Comunhão e dedicou sua virgindade à Santíssima Virgem Maria.",
 		"tituloOracao": "Oração Matinal",
 		"oracao": "Ó meu Deus, unido ao Imaculado Coração de Maria, (beija-se o escápulário como sinal de consagração e para receber um indulgência parcial) eu Vos ofereço o precioso Sangue de Jesus de todos os altares ao redor do mundo, juntando a isso a oferta de cada um dos meus pensamentos, palavras e ações deste dia.; Ó meu Jesus, desejo hoje receber todas as indulgências e méritos que puder e ofereço-os, e a mim também, à Maria Imaculada, para que Ela possa melhor usá-los aos interesses de Vosso Sacratíssimo Coração.; Precioso Sangue de Jesus, salvai-nos. Amém.",
 		"video": 
 			{
 				"descricao": "São Simão Stock, o Amado de Maria, rogai por nós. Sua festa é celebrada no dia 16 de maio.",
-				"dataPublicacao": "2020-09-13T12:00:10Z",
+				"dataPublicacao": "2020-07-13T12:00:10Z",
 				"videoId": "YKKDyDFqa7Q",
 				"videoFoto": "https://img.youtube.com/vi/YKKDyDFqa7Q/hqdefault.jpg"		
 			},
@@ -34,17 +34,81 @@
 	{
 		"id": 37,
 		"titulo": "Nossa Senhora do Carmo",
-		"historia": "A devoção à Nossa Senhora do Carmo teve início a partir do século XIII, quando um grupo de eremitas se fixaram no Monte Carmelo, localizado ao norte de Israel.; Ergueram um pequeno mosteiro junto à chamada 'Fonte de Elias', e ali tiveram suas vidas voltadas ao louvor à Santíssima Virgem Maria, sempre observando os ensinamentos do Evangelho.; Solicitaram a Santo Alberto, que era patriarca latino de Jerusalém, uma regra para vivenciarem.; Dentre os preceitos estava o de fazer um oratório para a celebração da Eucaristia.; A capela foi dedicada à Nossa Senhora e os eremitas passaram a ser conhecidos como 'Irmãos da Bem-aventurada Virgem Maria do Monte Carmelo';",
+		"historia": "A devoção à Nossa Senhora do Carmo teve início a partir do século XIII, quando um grupo de eremitas se fixaram no Monte Carmelo, localizado ao norte de Israel.; Ergueram um pequeno mosteiro junto à chamada 'Fonte de Elias', e ali tiveram suas vidas voltadas ao louvor à Santíssima Virgem Maria, sempre observando os ensinamentos do Evangelho.; Solicitaram a Santo Alberto, que era patriarca latino de Jerusalém, uma regra para vivenciarem.; Dentre os preceitos estava o de fazer um oratório para a celebração da Eucaristia.; A capela foi dedicada à Nossa Senhora e os eremitas passaram a ser conhecidos como 'Irmãos da Bem-aventurada Virgem Maria do Monte Carmelo'",
 		"tituloOracao": "Oração a Nossa Senhora do Carmo",
 		"oracao": "Ó bendita e imaculada Virgem Maria, honra e esplendor do Carmelo! Vós que olhais com especial bondade para quem trás o Vosso Bendito escapulário, olhai para mim benignamente e cobri-me com o manto de Vossa maternal proteção.; Fortificai minha fraqueza com o Vosso poder, iluminai as trevas do meu espírito com a Vossa sabedoria, aumentai em mim a fé, a esperança e a caridade.; Olhai minha alma com as graças e as virtudes que a tornem agradável ao Vosso divino Filho.; Assisti-me durante a vida, consolai-me na hora da morte com a Vossa amável presença e apresentai-me à Santíssima Trindade como Vosso filho e servo dedicado.; E lá no céu eu quero louvar-Vos e bendizer-Vos por toda a eternidade.; Nossa Senhora do Carmo rogai por nós. Amém.",
 		"video": 
 			{
-				"descricao": "Flor do Carmelo, vinha florida, esplendor do Céu: Virgem fecunda e singular! Ó doce Mãe,; de varão não conhecida, aos carmelitas dá; privilégio, Estrela do Mar!;",
+				"descricao": "Flor do Carmelo, vinha florida, esplendor do Céu: Virgem fecunda e singular! Ó doce Mãe,; de varão não conhecida, aos carmelitas dá; privilégio, Estrela do Mar!",
 				"dataPublicacao": "2020-08-29T12:00:10Z",
 				"videoId": "fZsd4v_r4lE",
 				"videoFoto": "https://img.youtube.com/vi/fZsd4v_r4lE/hqdefault.jpg"
 			},
 		"banner": "https://i.ibb.co/L0CpVTF/Capa-Imagem-Nossa-Senhora-do-Carmo.jpg",
 		"foto": "https://i.ibb.co/qnw4cZR/nossasenhora.png"		
+	},
+	{
+		"id": 36,
+		"titulo": "São Judas Tadeu",
+		"historia": "São Judas Tadeu era primo de Jesus e também foi um dos apóstolos. Filho de Maria Cléofas, prima de Maria Santíssima, e de Alfeu ou Cléofas, irmão de São José. Nasceu em Caná da Galiléia. Seus irmãos eram: São Tiago, chamado 'O Menor', São Simão Zelote, ambos discípulos de Cristo, e Maria Salomé. A pregação e o testemunho de Judas Tadeu impressionavam os pagãos que logo se convertiam.; Diziam que se parecia muito com o Mestre. Seu nome significa 'Deus seja louvado'.; São Mateus e São Marcos o nomeiam simplesmente como 'Tadeu' (Mt 10, 3; Mc 3, 18) e São Lucas o chama de 'Judas, irmão de Tiago' (Lc 6, 16; At 1, 13).; São Judas Tadeu não deve ser confundido com Judas Iscariotes, aquele que foi o traidor.",
+		"tituloOracao": "Oração a São Judas Tadeu (casos urgentes)",
+		"oracao": "São Judas Tadeu, Glorioso Apóstolo, Fiel servo e amigo de Jesus!; A Igreja vos honra e invoca por todo o mundo como Patrono dos casos desesperados e dos Negócios sem remédio.; Rogai por mim que estou desolado. Eu vos imploro, fazei uso do privilégio; Que tendes de trazer socorro imediato, Onde o socorro desapareceu quase que por completo.; Assiste-me nesta grande necessidade,Para que eu possa receber as consolações e auxílio Do céu em todas as minhas precisões, tribulações e sofrimentos.; São Judas Tadeu, lembrar-me-ei sempre deste grande favor E nunca deixarei de vos louvar e honrar como meu especial E poderoso patrono; E fazer tudo que estiver ao meu alcancePara espalhar a Vossa devoção por toda parte. Amém…; São Judas Tadeu rogai por nós.; Rezar um Pai Nosso, uma Ave Maria e Glória ao Pai.",
+		"video": 
+			{
+				"descricao": "São Judas Tadeu é celebrado no dia 28 de outubro. Padroeiro das causas perdidas ou impossíveis.",
+				"dataPublicacao": "2020-08-21T12:00:10Z",
+				"videoId": "T0N0DkJl-n8",
+				"videoFoto": "https://img.youtube.com/vi/T0N0DkJl-n8/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/Jzq2bCZ/Capa-Imagem.jpg",
+		"foto": "https://i.ibb.co/z4KBYL2/saojudas.jpg"		
+	},
+	{
+		"id": 35,
+		"titulo": "São Lucas Evangelista",
+		"historia": "São Lucas nasceu em Antioquia, Síria. Era médico, tinha talento para pintura e foi autor de dois livros do Novo Testamento, sendo eles: O Terceiro Evangelho ou Evangelho segundo São Lucas, e o livro dos Atos dos Apóstolos.; Foi convertido por São Paulo, tornando-se seu inseparável e fiel companheiro de missão.; Junto com São Paulo, São Lucas realizava várias viagens apostólicas, tornando-se um dos primeiros missionários do mundo greco-romano.; Dócil ao Espírito Santo, recebeu a capacitação com o carisma da inspiração e da vivência comunitária, resultando no Evangelho segundo Lucas e na primeira história da Igreja, conhecida como Atos dos Apóstolos.; São Lucas não conheceu Jesus pessoalmente, mas chegou a conhecer o Salvador através dos apóstolos e por São Paulo. Seu nome significa 'portador de Luz'.",
+		"tituloOracao": "Oração a São Lucas",
+		"oracao": "Ó Deus, que escolhestes São Lucas para revelar em suas palavras e escritos o mistério do vosso amor para com os pobres, concedei aos que já se gloriam do vosso nome perseverar num só coração e numa só alma, e a todos os povos do mundo ver a vossa salvação.; Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo. Amém.; São Lucas evangelista, rogai por nós.",
+		"video": 
+			{
+				"descricao": "São Lucas é celebrado no dia 18 de outubro.  Padroeiro dos médicos e dos pintores.",
+				"dataPublicacao": "2020-06-11T12:00:10Z",
+				"videoId": "HX6-3xUIy4E",
+				"videoFoto": "https://img.youtube.com/vi/HX6-3xUIy4E/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/R3thNPz/banner-S-o-Lucas-Evangelista.jpg",
+		"foto": "https://i.ibb.co/jL3kwzM/foto-S-o-Lucas-Evangelista.jpg"		
+	},
+	{
+		"id": 34,
+		"titulo": "São Sebastião",
+		"historia": "São Sebastião nasceu em Narbona, no ano de 256. Pertencia a uma família cristã e foi batizado ainda criança.; Mudaram-se para Milão, Itália, e lá realizou seus estudos e seguiu a carreira militar de seu pai.; Foi um dos oficiais prediletos do Imperador Diocleciano.; Sebastião não participava dos martírios e idolatrias do povo romano, pois, apesar de pertencer ao exército romano, ele era cristão.",
+		"tituloOracao": "Oração a São Sebastião",
+		"oracao": "Glorioso mártir São Sebastião, soldado de Cristo e exemplo de cristão, hoje viemos pedir a vossa intercessão junto ao trono do Senhor Jesus, nosso Salvador, por Quem destes a vida.; Vós que vivestes a fé e perseverastes até o fim, pedi a Jesus por nós para que sejamos testemunhas do amor de Deus.; Vós que esperastes com firmeza nas palavras de Jesus, pedi-Lhe por nós, para que aumente a nossa esperança na ressurreição.; Vós que vivestes a caridade para com os irmãos, pedi a Jesus para que aumenteo nosso amor para com todos.; Enfim, glorioso mártir São Sebastião, protegei-nos contra a peste, a fome e a guerra; defendei as nossas plantações e os nossos rebanhos, que são dons de Deus para o nosso bem e para o bem de todos.; E defendei-nos do pecado, que é o maior de todos os males. Assim seja. Amém.; São Sebastião, rogai por nós.",
+		"video": 
+			{
+				"descricao": "São Sebastião, defensor da Igreja e apóstolo dos confessores. Celebrado no dia 20 de janeiro.",
+				"dataPublicacao": "2020-05-31T12:00:10Z",
+				"videoId": "APh256UrhGE",
+				"videoFoto": "https://img.youtube.com/vi/APh256UrhGE/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/g79cG2G/banner-Sao-Sebastiao.jpg",
+		"foto": "https://i.ibb.co/Jc6Zrvp/foto-Sao-Sebastiao.jpg"		
+	},
+	{
+		"id": 33,
+		"titulo": "Nossa Senhora do Cenáculo",
+		"historia": "O título de Nossa Senhora do Cenáculo tem origem com a presença maternal de Maria no Cenáculo, onde houve a vinda do Espírito Santo sobre os Apóstolos. Conta a Tradição da Igreja que Maria, exercendo um papel de liderança, motivou os discípulos a serem perseverantes na fé e na oração.; A presença de Maria no Cenáculo é confirmada em Atos dos Apóstolos: Tendo entrado no cenáculo, subiram ao quarto de cima, onde costumavam permanecer.; Eram eles: Pedro e João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago, filho de Alfeu, Simão, o zelador e Judas, irmão de Tiago.; Todos eles perseveravam unanimemente na oração, juntamente com as mulheres, entre elas, Maria, mãe de Jesus e os irmãos dele.' (Atos 1, 13-14)",
+		"tituloOracao": "Oração a Nossa Senhora do Cenáculo",
+		"oracao": "Ó virgem Santíssima do Cenáculo, nossa Mãe, Maria imaculada, nós vos suplicamos humildemente:; Alcançai-nos os dons do Espírito Santo para que, vivendo na caridade, perseverando unanimemente na oração e vos tendo por guia e mestra, mereçamos, para a maior glória de Deus, trabalhar para a salvação das almas através de nossos exemplos e obras e, assim fazendo chegar à vida eterna.; Nossa Senhora do Cenáculo, sede-nos propícia na necessidade que nos oprime e vinde em nosso socorro, a fim de que o Senhor onipotente e misericordioso se digne conceder-nos, pela vossa intercessão, a graça que instantemente solicitamos.; Nossa Senhora do Cenáculo, rogai por nós",
+		"video": 
+			{
+				"descricao": "Nossa Senhora do Cenáculo. 'Que o Espírito do Senhor Repouse sobre nós, e Maria Sempre Conosco'",
+				"dataPublicacao": "2020-05-31T12:00:10Z",
+				"videoId": "dN3I-qxmBCs",
+				"videoFoto": "https://img.youtube.com/vi/dN3I-qxmBCs/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/xYRCg2X/banner-Nossa-Senhora-Cenaculo.jpg",
+		"foto": "https://i.ibb.co/rtqTtGS/imagem-Nossa-Senhora-Cenaculo.jpg"		
 	}
 ]
