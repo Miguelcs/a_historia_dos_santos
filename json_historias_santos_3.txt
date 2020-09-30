@@ -1,0 +1,18 @@
+[
+	{
+		"id": 29,
+		"titulo": "São Boaventura",
+		"historia": "São Boaventura nasceu no ano de 1217, em Bagnoregio, na província italiana de Viterbo. Seu nome era João Fidanza. ;Ainda pequeno, João sofreu uma grave enfermidade. ;Desesperados, seus pais e familiares pediram a intercessão de São Francisco, que havia sido canonizado há pouco tempo. ;Foi haurindo do santo a 'boa ventura', nome que seria adotado mais tarde por de João.",
+		"tituloOracao": "Oração de São Boaventura",
+		"oracao": "Trespassai, dulcíssimo Senhor Jesus, a medula de minha alma com o suave e salutar dardo do vosso amor, com a verdadeira, pura e santíssima caridade apostólica, a  fim de que a minha alma desfaleça e se  desfaça sempre só com o amor e o desejo  de Vos possuir ;que por Vós suspire, e  desfaleça por achar-se nos átrios da  vossa casa ;deseje separar-se do corpo para se unir a Vós. ;Fazei que minha alma tenha fome de Vós, Pão dos anjos, Alimento das almas santas, Pão nosso de cada dia, cheio de força, de toda a doçura e sabor, e de todo o suave deleite. ;Ó Jesus, a quem os anjos desejam contemplar, tenha sempre o meu coração fome de Vós, e o interior de minha alma transborde com a doçura do vosso sabor ;tenha sempre sede de Vós, fonte de vida, manancial de sabedoria e de ciência, rio de luz de luz eterna, torrente de delícias, abundância da Casa de Deus ;que Vos deseje, Vos procure, Vos encontre ;que para Vós caminhe e a Vós chegue ;que em Vós pense, de Vós fale, e todas as minhas ações encaminhe para a honra e glória do vosso nome, com humildade e discrição, com amor e deleite, com facilidade e afeto, com perseverança até o fim ;para que só Vós sejais sempre minha esperança, meu gozo, meu descanso e minha tranqüilidade, minha paz, minha suavidade, meu perfume, minha doçura, minha comida, meu alimento, meu refúgio, meu auxílio, minha sabedoria, minha herança, minha posse, meu tesouro, no qual estejam sempre fixos e firme e inabalavelmente arraigados a minha alma e o meu coração. Amém.",
+		"video": 
+			{
+				"descricao": "São Boaventura, Doutor da Igreja, é celebrado no dia 15 de julho.",
+				"dataPublicacao": "2020-04-28T12:00:10Z",
+				"videoId": "kuoNfRb2C3o",
+				"videoFoto": "https://img.youtube.com/vi/kuoNfRb2C3o/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
+		"foto": "https://i.ibb.co/z8vmj9m/foto-S-o-Boaventura.jpg"		
+	}
+]
