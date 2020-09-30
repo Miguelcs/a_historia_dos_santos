@@ -12,7 +12,8 @@
 				"videoId": "kuoNfRb2C3o",
 				"videoFoto": "https://img.youtube.com/vi/kuoNfRb2C3o/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
+		"bannerSanto": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
+		"bannerOracao": "https://i.ibb.co/LpFR7xy/banner-S-o-Boaventure-Ora-o.jpg",
 		"foto": "https://i.ibb.co/z8vmj9m/foto-S-o-Boaventura.jpg"		
 	}
 ]
