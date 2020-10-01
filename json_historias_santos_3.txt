@@ -15,5 +15,39 @@
 		"bannerSanto": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
 		"bannerOracao": "https://i.ibb.co/LpFR7xy/banner-S-o-Boaventure-Ora-o.jpg",
 		"foto": "https://i.ibb.co/z8vmj9m/foto-S-o-Boaventura.jpg"		
+	},
+	{
+		"id": 28,
+		"titulo": "São Jorge",
+		"historia": "São Jorge nasceu na Capadócia, por volta do século III. Pouco se sabe sobre seus pais, apenas que eram cristãos. ;Jorge pertencia ao exército romano. Nesta época, o império passou a ser governado por Diocleciano, que havia dado início à perseguição aos cristãos. ;Jorge, apesar de ser do exército, não queria ser perseguidor e opressor aos cristãos, pois ele era cristão e amava Jesus Cristo.",
+		"tituloOracao": "Oração a São Jorge",
+		"oracao": "Ó São Jorge, meu Santo Guerreiro,invencível na fé em Deus, que trazeis em vosso rosto a esperança e confiança, abre meus caminhos. ;Eu andarei vestido e armado com vossas armas para que meus inimigos tendo pés não me alcancem, tendo mãos não peguem, tendo olhos não me enxerguem e nem pensamentos possam ter para me fazerem mal. ;Armas de fogo o meu corpo não alcançarão, facas e lanças se quebrarão sem ao meu corpo chegar, cordas e correntes se arrebentarão sem o meu corpo amarrar. ;Glorioso São Jorge, em nome de Deus, estendei vosso escudo e vossas poderosas armas, defendendo-me com vossa força e grandeza. ;Ajudai-me a superar todo desânimo e a alcançar a graça que vos peço (pedido). ;Dai-me coragem e esperança, fortalecei minha fé e auxiliai-me nesta necessidade. ;São Jorge, rogai por nós! Amém.",
+		"video": 
+			{
+				"descricao": "São Jorge Guerreiro, padroeiro do Rio de Janeiro e da Inglaterra. Celebrado no dia 23 de Abril.",
+				"dataPublicacao": "2020-04-23T12:00:10Z",
+				"videoId": "yltRPuQpaqo",
+				"videoFoto": "https://img.youtube.com/vi/yltRPuQpaqo/hqdefault.jpg"
+			},			
+		"bannerSanto": "https://i.ibb.co/jW7C44m/S-o-Jorge-santo-guerreiro-protege-seu-caminho-Clube-das-Comadres.jpg",
+		"bannerOracao": "https://i.ibb.co/TwZTXwY/sao-jorge-2-1.jpg",
+		"foto": "https://i.ibb.co/xgsfWS8/d830abbd11b419521cb1c81bdb9edb9f.jpg"		
+	},
+	{
+		"id": 27,
+		"titulo": "Santo Anjo da Guarda",
+		"historia": "A existência dos anjos é uma verdade de fé que a Igreja Católica professa, baseada nas Sagradas Escrituras. ;Os anjos estão presentes tanto no Antigo quanto no Novo Testamento. ;Os Santos Anjos da Guarda são celebrados no dia 2 de outubro. ",
+		"tituloOracao": "Oração ao Santo Anjo da Guarda",
+		"oracao": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa e ilumina, amém!",
+		"video": 
+			{
+				"descricao": "Santo Anjo da Guarda, Nosso amigo protetor, é celebrado no dia 2 de Outubro.",
+				"dataPublicacao": "2020-04-19T12:00:10Z",
+				"videoId": "UVoTjb-_ZQc",
+				"videoFoto": "https://img.youtube.com/vi/UVoTjb-_ZQc/hqdefault.jpg"
+			},			
+		"bannerSanto": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
+		"bannerOracao": "https://i.ibb.co/XVzd866/Santo-do-dia-1.jpg",
+		"foto": "https://i.ibb.co/fpH36nk/anjodaguarda.jpg"		
 	}
 ]
