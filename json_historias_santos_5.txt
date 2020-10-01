@@ -14,6 +14,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/w7wF0C6/banner-Santa-Paulina-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
+		"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
 		"foto": "https://i.ibb.co/y8GXBZQ/foto-Santa-Paulina.png"		
 	},
 	{
@@ -31,6 +32,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/XzzJT9f/Santo-do-dia.jpg",
 		"bannerSanto": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
+		"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
 		"foto": "https://i.ibb.co/vqCv42Y/S-o-Greg-rio-Magno-1.jpg"		
 	},
 	{
@@ -48,6 +50,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/NrDrR9k/Santa-Edwiges-Santos.jpg",
 		"bannerSanto": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
+		"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
 		"foto": "https://i.ibb.co/Z6jRYk9/foto-Santa-Edwiges.jpg"		
 	},
 	{
@@ -65,6 +68,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/dM97FKJ/1-23.jpg",
     	"bannerSanto": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
+    	"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
     	"foto": "https://i.ibb.co/dJyvLkp/foto-Nossa-Senhora-do-Bom-Conselho.jpg"
 	},
 	{
@@ -82,6 +86,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/1G5sSCZ/crop-20180621143406-Iuf-Yy8-SGk-1.jpg",
 		"bannerSanto": "https://i.ibb.co/w765Th6/capa.jpg",
+		"banner": "https://i.ibb.co/w765Th6/capa.jpg",
 		"foto": "https://i.ibb.co/qyKhcdQ/foto-Nossa-Senhora-da-Saude.jpg"	
 	},
 	{
@@ -99,6 +104,7 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/McXDvjh/1569238953thumbnail.jpg",
 		"bannerSanto": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
+		"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
 		"foto": "https://i.ibb.co/PC4VZVf/foto-Sao-Mateus-Evangelista.jpg"	
 	},
 	{
@@ -116,6 +122,7 @@
 			},
 		"bannerOracao": "https://i.ibb.co/fQJ3csx/s-o-crist-v-o-1.jpg",
 		"bannerSanto": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
+		"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
 		"foto": "https://i.ibb.co/dJRchGR/foto-Sao-Cristovao.jpg"		
 	}
 ]
