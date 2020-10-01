@@ -11,8 +11,9 @@
 				"dataPublicacao": "2020-09-26T12:00:10Z",
 				"videoId": "V2tCj5nuMnY",
 				"videoFoto": "https://img.youtube.com/vi/V2tCj5nuMnY/hqdefault.jpg"
-			},
-		"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
+			},		
+		"bannerOracao": "https://i.ibb.co/w7wF0C6/banner-Santa-Paulina-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
 		"foto": "https://i.ibb.co/y8GXBZQ/foto-Santa-Paulina.png"		
 	},
 	{
@@ -27,9 +28,10 @@
 				"dataPublicacao": "2020-09-20T12:00:10Z",
 				"videoId": "slrJ6I7q5os",
 				"videoFoto": "https://img.youtube.com/vi/slrJ6I7q5os/hqdefault.jpg"
-			},
-		"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
-		"foto": "https://i.ibb.co/Rjm9Fr5/foto-Sao-Gregorio-Magno.png"		
+			},		
+		"bannerOracao": "https://i.ibb.co/XzzJT9f/Santo-do-dia.jpg",
+		"bannerSanto": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
+		"foto": "https://i.ibb.co/vqCv42Y/S-o-Greg-rio-Magno-1.jpg"		
 	},
 	{
 		"id": 44,
@@ -43,8 +45,9 @@
 				"dataPublicacao": "2020-09-13T12:00:10Z",
 				"videoId": "bwLAzhtMt8Q",
 				"videoFoto": "https://img.youtube.com/vi/bwLAzhtMt8Q/hqdefault.jpg"
-			},
-		"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
+			},		
+		"bannerOracao": "https://i.ibb.co/NrDrR9k/Santa-Edwiges-Santos.jpg",
+		"bannerSanto": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
 		"foto": "https://i.ibb.co/Z6jRYk9/foto-Santa-Edwiges.jpg"		
 	},
 	{
@@ -59,8 +62,9 @@
     			"dataPublicacao": "2020-08-26T12:00:10Z",
     			"videoId": "-CcepGGKQEA",
     			"videoFoto": "https://img.youtube.com/vi/-CcepGGKQEA/hqdefault.jpg"		
-			},
-    	"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
+			},		
+		"bannerOracao": "https://i.ibb.co/dM97FKJ/1-23.jpg",
+    	"bannerSanto": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
     	"foto": "https://i.ibb.co/dJyvLkp/foto-Nossa-Senhora-do-Bom-Conselho.jpg"
 	},
 	{
@@ -75,8 +79,9 @@
 				"dataPublicacao": "2020-08-15T12:00:10Z",				
 				"videoId": "zVxDJwmkabs",
 				"videoFoto": "https://img.youtube.com/vi/zVxDJwmkabs/hqdefault.jpg"	
-			},
-		"banner": "https://i.ibb.co/w765Th6/capa.jpg",
+			},		
+		"bannerOracao": "https://i.ibb.co/1G5sSCZ/crop-20180621143406-Iuf-Yy8-SGk-1.jpg",
+		"bannerSanto": "https://i.ibb.co/w765Th6/capa.jpg",
 		"foto": "https://i.ibb.co/qyKhcdQ/foto-Nossa-Senhora-da-Saude.jpg"	
 	},
 	{
@@ -91,8 +96,9 @@
 				"dataPublicacao": "2020-08-02T12:00:10Z",				
 				"videoId": "C7sAY8EaWH4",
 				"videoFoto": "https://img.youtube.com/vi/C7sAY8EaWH4/hqdefault.jpg"	
-			},
-		"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
+			},	
+		"bannerOracao": "https://i.ibb.co/McXDvjh/1569238953thumbnail.jpg",
+		"bannerSanto": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
 		"foto": "https://i.ibb.co/PC4VZVf/foto-Sao-Mateus-Evangelista.jpg"	
 	},
 	{
@@ -108,7 +114,8 @@
 				"videoId": "a_El24mV1uQ",
 				"videoFoto": "https://img.youtube.com/vi/a_El24mV1uQ/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
+		"bannerOracao": "https://i.ibb.co/fQJ3csx/s-o-crist-v-o-1.jpg",
+		"bannerSanto": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
 		"foto": "https://i.ibb.co/dJRchGR/foto-Sao-Cristovao.jpg"		
 	}
 ]
