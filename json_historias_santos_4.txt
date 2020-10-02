@@ -12,10 +12,10 @@
 				"videoId": "m7iBcefysVs",
 				"videoFoto": "https://img.youtube.com/vi/m7iBcefysVs/hqdefault.jpg"		
 			},
-		"bannerOracao": "https://i.ibb.co/zfVf29k/Bm-N0-KUVQ2-Sw-1.jpg",		
-		"bannerSanto": "https://i.ibb.co/QNMBWMT/Capa-Imagem-Sao-Marcos-1.jpg",
+		"bannerOracao": "https://i.ibb.co/rMdPcPn/banner-Sao-Marcos-Evangelista-Oracao.jpg",		
+		"bannerSanto": "https://i.ibb.co/dPJqhXD/banner-Sao-Marcos-Evangelista.jpg",
 		"banner": "https://i.ibb.co/QNMBWMT/Capa-Imagem-Sao-Marcos-1.jpg",
-		"foto": "https://i.ibb.co/zHqBymh/foto-Sao-Marcos-Evangelista.jpg"
+		"foto": "https://i.ibb.co/y8jwzy7/foto-Sao-Marcos-Evangelista.jpg"
 	},
 	{
 		"id": 38,
@@ -29,11 +29,11 @@
 				"dataPublicacao": "2020-07-13T12:00:10Z",
 				"videoId": "YKKDyDFqa7Q",
 				"videoFoto": "https://img.youtube.com/vi/YKKDyDFqa7Q/hqdefault.jpg"		
-			},
+			},			
 		"bannerOracao": "https://i.ibb.co/NNBc20B/sim-o-1.jpg",		
-		"bannerSanto": "https://i.ibb.co/8bYDvCp/Capa-Imagem-Sao-Simao-Stock.jpg",
+		"bannerSanto": "https://i.ibb.co/ZYM0Xbx/banner-Sao-Simao-Stock-Oracao.jpg",
 		"banner": "https://i.ibb.co/8bYDvCp/Capa-Imagem-Sao-Simao-Stock.jpg",
-		"foto": "https://i.ibb.co/JvwYzSf/ora-o-S-o-Sim-o-Stock-STORIE2.jpg"
+		"foto": "https://i.ibb.co/6W9rkpW/foto-Sao-Simao-Stock.jpg"
 	},
 	{
 		"id": 37,
@@ -48,10 +48,10 @@
 				"videoId": "fZsd4v_r4lE",
 				"videoFoto": "https://img.youtube.com/vi/fZsd4v_r4lE/hqdefault.jpg"
 			},
-		"bannerOracao": "https://i.ibb.co/TtXqG4H/ora-o-de-nossa-senhora-do-carmo-1.jpg",
-		"bannerSanto": "https://i.ibb.co/L0CpVTF/Capa-Imagem-Nossa-Senhora-do-Carmo.jpg",
+		"bannerOracao": "https://i.ibb.co/fN5xbKd/banner-Nossa-Senhora-do-Carmo-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/WBrbL37/banner-Nossa-Senhora-do-Carmo.jpg",
 		"banner": "https://i.ibb.co/L0CpVTF/Capa-Imagem-Nossa-Senhora-do-Carmo.jpg",
-		"foto": "https://i.ibb.co/qnw4cZR/nossasenhora.png"		
+		"foto": "https://i.ibb.co/cXzst2F/foto-Nossa-Senhora-do-Carmo.jpg"		
 	},
 	{
 		"id": 36,
@@ -66,10 +66,10 @@
 				"videoId": "T0N0DkJl-n8",
 				"videoFoto": "https://img.youtube.com/vi/T0N0DkJl-n8/hqdefault.jpg"
 			},
-		"bannerOracao": "https://i.ibb.co/px05jV7/Novo-Projeto.jpg",
-		"bannerSanto": "https://i.ibb.co/Jzq2bCZ/Capa-Imagem.jpg",
+		"bannerOracao": "https://i.ibb.co/rmHwTwr/banner-Sao-Judas-Tadeu-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/k0dbLXk/banner-Sao-Judas-Tadeu.jpg",
 		"banner": "https://i.ibb.co/Jzq2bCZ/Capa-Imagem.jpg",
-		"foto": "https://i.ibb.co/z4KBYL2/saojudas.jpg"		
+		"foto": "https://i.ibb.co/8D951wP/foto-Sao-Judas-Tadeu.jpg"		
 	},
 	{
 		"id": 35,
@@ -84,10 +84,10 @@
 				"videoId": "HX6-3xUIy4E",
 				"videoFoto": "https://img.youtube.com/vi/HX6-3xUIy4E/hqdefault.jpg"
 			},
-		"bannerOracao": "https://i.ibb.co/QjNqBj5/viena-afresco-do-st-o-evangelista-lucas-por-josef-kastner-de-anos-1906-1911-na-igreja-das-carmelitas.jpg",
-		"bannerSanto": "https://i.ibb.co/R3thNPz/banner-S-o-Lucas-Evangelista.jpg",
+		"bannerOracao": "https://i.ibb.co/jHZgd8G/banner-Sao-Lucas-Evangelista-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/pnNc4mW/banner-Sao-Lucas-Evangelista.jpg",
 		"banner": "https://i.ibb.co/R3thNPz/banner-S-o-Lucas-Evangelista.jpg",
-		"foto": "https://i.ibb.co/jL3kwzM/foto-S-o-Lucas-Evangelista.jpg"		
+		"foto": "https://i.ibb.co/rH6V45S/foto-Sao-Lucas-Evangelista.jpg"		
 	},
 	{
 		"id": 34,
@@ -102,10 +102,10 @@
 				"videoId": "APh256UrhGE",
 				"videoFoto": "https://img.youtube.com/vi/APh256UrhGE/hqdefault.jpg"
 			},
-		"bannerOracao": "https://i.ibb.co/bJG3cNF/sao-sebastiao-1.jpg",
-		"bannerSanto": "https://i.ibb.co/g79cG2G/banner-Sao-Sebastiao.jpg",
+		"bannerOracao": "https://i.ibb.co/XYvSPq4/banner-Sao-Sebastiao-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/hckvdx3/banner-Sao-Sebastiao.jpg",
 		"banner": "https://i.ibb.co/g79cG2G/banner-Sao-Sebastiao.jpg",
-		"foto": "https://i.ibb.co/Jc6Zrvp/foto-Sao-Sebastiao.jpg"		
+		"foto": "https://i.ibb.co/xMKQ4q0/foto-Sao-Sebastiao.jpg"		
 	},
 	{
 		"id": 33,
@@ -120,10 +120,10 @@
 				"videoId": "dN3I-qxmBCs",
 				"videoFoto": "https://img.youtube.com/vi/dN3I-qxmBCs/hqdefault.jpg"
 			},
-		"bannerOracao": "https://i.ibb.co/xYRCg2X/banner-Nossa-Senhora-Cenaculo.jpg",
-		"bannerSanto": "https://i.ibb.co/xYRCg2X/banner-Nossa-Senhora-Cenaculo.jpg",
+		"bannerOracao": "https://i.ibb.co/vhnyPg1/banner-Nossa-Senhora-Cenaculo-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/wrRFgXF/banner-Nossa-Senhora-Cenaculo.jpg",
 		"banner": "https://i.ibb.co/xYRCg2X/banner-Nossa-Senhora-Cenaculo.jpg",
-		"foto": "https://i.ibb.co/rtqTtGS/imagem-Nossa-Senhora-Cenaculo.jpg"		
+		"foto": "https://i.ibb.co/3ds3pmZ/foto-Nossa-Senhora-Cenaculo.jpg"		
 	},
 	{
 		"id": 32,
@@ -138,10 +138,10 @@
 				"videoId": "hqEcAO9ORT0",
 				"videoFoto": "https://img.youtube.com/vi/hqEcAO9ORT0/hqdefault.jpg"
 			},		
-		"bannerOracao": "https://i.ibb.co/ZVdXmpm/banner-S-o-Rafael-Arcanjo-1.jpg",
-		"bannerSanto": "https://i.ibb.co/ZVdXmpm/banner-S-o-Rafael-Arcanjo-1.jpg",
+		"bannerOracao": "https://i.ibb.co/8rGQ6cw/banner-Sao-Rafael-Arcanjo-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/jMB7ccj/banner-Sao-Rafael-Arcanjo.jpg",
 		"banner": "https://i.ibb.co/ZVdXmpm/banner-S-o-Rafael-Arcanjo-1.jpg",
-		"foto": "https://i.ibb.co/D5p3gr1/foto-S-o-Rafael-Arcanjo.jpg"		
+		"foto": "https://i.ibb.co/7r4ZmXP/foto-Sao-Rafael-Arcanjo.jpg"		
 	},
 	{
 		"id": 31,
@@ -156,10 +156,10 @@
 				"videoId": "dgXAAxeG_jE",
 				"videoFoto": "https://img.youtube.com/vi/dgXAAxeG_jE/hqdefault.jpg"
 			},
-		"bannerOracao": "https://i.ibb.co/vVPg6Qh/banner-Santa-Rosa-de-Viterbo.jpg",
-		"bannerSanto": "https://i.ibb.co/vVPg6Qh/banner-Santa-Rosa-de-Viterbo.jpg",
+		"bannerOracao": "https://i.ibb.co/cktnc5g/banner-Santa-Rosa-de-Viterbo-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/Z6S8w4F/banner-Santa-Rosa-de-Viterbo.jpg",
 		"banner": "https://i.ibb.co/vVPg6Qh/banner-Santa-Rosa-de-Viterbo.jpg",
-		"foto": "https://i.ibb.co/80M2JYp/foto-Santa-Rosa-de-Viterbo.jpg"		
+		"foto": "https://i.ibb.co/hR30VXT/foto-Santa-Rosa-de-Viterbo.jpg"		
 	},
 	{
 		"id": 30,
@@ -173,10 +173,10 @@
 				"dataPublicacao": "2020-05-01T12:00:10Z",
 				"videoId": "QhvQJBcPB7k",
 				"videoFoto": "https://img.youtube.com/vi/QhvQJBcPB7k/hqdefault.jpg"
-			},		
-		"bannerOracao": "https://i.ibb.co/X53J2cG/banner-S-o-Gabriel-Arcanjo.jpg",
-		"bannerSanto": "https://i.ibb.co/X53J2cG/banner-S-o-Gabriel-Arcanjo.jpg",
+			},	
+		"bannerOracao": "https://i.ibb.co/hYPhsgJ/banner-Sao-Gabriel-Arcanjo-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/Cb3MdpQ/banner-Sao-Gabriel-Arcanjo.jpg",
 		"banner": "https://i.ibb.co/X53J2cG/banner-S-o-Gabriel-Arcanjo.jpg",
-		"foto": "https://i.ibb.co/ch3ScPV/foto-S-o-Gabriel-Arcanjo.jpg"		
+		"foto": "https://i.ibb.co/zR4gkwk/foto-Sao-Gabriel-Arcanjo.jpg"		
 	}
 ]
