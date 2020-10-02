@@ -13,9 +13,9 @@
 				"videoFoto": "https://img.youtube.com/vi/kuoNfRb2C3o/hqdefault.jpg"
 			},
 		"banner": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
-		"bannerSanto": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
-		"bannerOracao": "https://i.ibb.co/LpFR7xy/banner-S-o-Boaventure-Ora-o.jpg",
-		"foto": "https://i.ibb.co/z8vmj9m/foto-S-o-Boaventura.jpg"		
+		"bannerSanto": "https://i.ibb.co/4ST5XKT/banner-Sao-Boaventura.jpg",
+		"bannerOracao": "https://i.ibb.co/MgmpZSQ/banner-Sao-Boaventura-Oracao.jpg",
+		"foto": "https://i.ibb.co/jZBJzy1/foto-Sao-Boaventura.jpg"		
 	},
 	{
 		"id": 28,
@@ -29,11 +29,11 @@
 				"dataPublicacao": "2020-04-23T12:00:10Z",
 				"videoId": "yltRPuQpaqo",
 				"videoFoto": "https://img.youtube.com/vi/yltRPuQpaqo/hqdefault.jpg"
-			},			
+			},		
 		"banner": "https://i.ibb.co/jW7C44m/S-o-Jorge-santo-guerreiro-protege-seu-caminho-Clube-das-Comadres.jpg",
-		"bannerSanto": "https://i.ibb.co/jW7C44m/S-o-Jorge-santo-guerreiro-protege-seu-caminho-Clube-das-Comadres.jpg",
-		"bannerOracao": "https://i.ibb.co/TwZTXwY/sao-jorge-2-1.jpg",
-		"foto": "https://i.ibb.co/xgsfWS8/d830abbd11b419521cb1c81bdb9edb9f.jpg"		
+		"bannerSanto": "https://i.ibb.co/HXqPK9F/banner-Sao-Jorge.jpg",
+		"bannerOracao": "https://i.ibb.co/3d99P0s/banner-Sao-Jorge-Oracao.jpg",
+		"foto": "https://i.ibb.co/1GW9q7N/foto-Sao-Jorge.jpg"		
 	},
 	{
 		"id": 27,
@@ -49,8 +49,26 @@
 				"videoFoto": "https://img.youtube.com/vi/UVoTjb-_ZQc/hqdefault.jpg"
 			},			
 		"banner": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
-		"bannerSanto": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
-		"bannerOracao": "https://i.ibb.co/XVzd866/Santo-do-dia-1.jpg",
-		"foto": "https://i.ibb.co/fpH36nk/anjodaguarda.jpg"		
+		"bannerSanto": "https://i.ibb.co/f0YYrp2/banner-Santo-Anjo-da-Guarda.jpg",
+		"bannerOracao": "https://i.ibb.co/18f87KH/banner-Santo-Anjo-da-Guarda-Oracao.jpg",
+		"foto": "https://i.ibb.co/znm9HwM/foto-Santo-Anjo-da-Guarda.jpg"		
+	},
+	{
+		"id": 26,
+		"titulo": "São Benedito",
+		"historia": "São Benedito nasceu na ilha da Sicília, Itália, no ano de 1524. Era filho de escravos que vieram da Etiópia. Os pais de Benedito não queriam ter filhos, porque se tornariam escravos. ;Quando soube disso, o senhor deles, que gostava muito de seus serviços, prometeu que se eles quisessem ter um filho, a criança teria total liberdade. ;Após o nascimento, como prometido, Benedito ganhou sua liberdade.",
+		"tituloOracao": "Oração a São Benedito",
+		"oracao": "Ó São Benedito, modelo admirável de caridade e humildade, por vosso ardente amor à Maria Santíssima que colocou seu divino Filho em vossos braços, por aquela suave doçura com que Jesus encheu o vosso coração, eu vos suplico: ;Socorrei-me em todas as minhas necessidades e alcançai-me de modo especial, a graça que neste momento vos peço ;(Fazer o pedido). ;Ó São Benedito, intercedei por mim que a vós recorro confiante. Vós que fostes tão maravilhoso e pródigo no atendimento dos vossos devotos, atendei a minha súplica e concedei-me o que vos peço. Amém. ;Rezar 1 Pai Nosso, 1 Ave Maria e fazer o Sinal da Cruz",
+		"video": 
+			{
+				"descricao": "São Benedito é celebrado no dia 5 de outubro. No Brasil, é o padroeiro da cozinha, das cozinheiras e dos cozinheiros.",
+				"dataPublicacao": "2020-04-18T12:00:10Z",
+				"videoId": "chYmNWHS-YI",
+				"videoFoto": "https://img.youtube.com/vi/chYmNWHS-YI/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
+		"bannerSanto": "https://i.ibb.co/7YKyL2k/banner-Sao-Benedito.jpg",
+		"bannerOracao": "https://i.ibb.co/sR38MTz/banner-Sao-Benedito-Oracao.jpg",
+		"foto": "https://i.ibb.co/jrM3sB1/foto-Sao-Benedito-Oracao.jpg"		
 	}
 ]
