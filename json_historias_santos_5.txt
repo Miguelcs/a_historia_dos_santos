@@ -1,5 +1,23 @@
 [
 	{
+		"id": 47,
+		"titulo": "Nossa Senhora da Batalha",
+		"historia": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados. ;Santa Paulina nasceu em Trento, Itália, no dia 16 de dezembro de 1865. ;Seus pais, Antônio Napoleone Visintainer e Anna Pianezzer lhe deram o nome de Amábile Lúcia Visinteiner, sendo a segunda filha do casal.",
+		"tituloOracao": "Oração a Nossa Senhora da Batalha",
+		"oracao": "Poderosa Senhora, fortaleza e inspiração nos momentos difíceis da vida, assim como acompanhastes os cristãos nas suas batalhas no passado, vinde em nosso auxílio e ajudai-nos a vencer todas as batalhas que hoje travamos contra o mal que existe no mundo. ;Por Cristo, Nosso Senhor Amém.",
+		"video": 
+			{
+				"descricao": "Sempre se recorrem a Ela aqueles que precisam de ajuda pra vencer alguma batalha da vida, enfrentada todos os dias.",
+				"dataPublicacao": "2020-10-03T12:00:10Z",
+				"videoId": "o2pKOjusSzc",
+				"videoFoto": "https://img.youtube.com/vi/o2pKOjusSzc/hqdefault.jpg"
+			},	
+		"bannerOracao": "https://i.ibb.co/C86jJMC/banner-Nossa-Senhora-da-Batalha-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/PTtq0zT/banner-Nossa-Senhora-da-Batalha.jpg",
+		"banner": "https://i.ibb.co/PTtq0zT/banner-Nossa-Senhora-da-Batalha.jpg",
+		"foto": "https://i.ibb.co/N1Lkmws/foto-Nossa-Senhora-da-Batalha.jpg"		
+	},
+	{
 		"id": 46,
 		"titulo": "Santa Paulina do Coração Agonizante de Jesus",
 		"historia": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados. ;Santa Paulina nasceu em Trento, Itália, no dia 16 de dezembro de 1865. ;Seus pais, Antônio Napoleone Visintainer e Anna Pianezzer lhe deram o nome de Amábile Lúcia Visinteiner, sendo a segunda filha do casal.",
