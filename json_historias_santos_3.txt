@@ -70,5 +70,41 @@
 		"bannerSanto": "https://i.ibb.co/7YKyL2k/banner-Sao-Benedito.jpg",
 		"bannerOracao": "https://i.ibb.co/sR38MTz/banner-Sao-Benedito-Oracao.jpg",
 		"foto": "https://i.ibb.co/jrM3sB1/foto-Sao-Benedito-Oracao.jpg"		
+	},
+	{
+		"id": 25,
+		"titulo": "Nossa Senhora Aparecida",
+		"historia": "A história de Nossa Senhora da Conceição Aparecida iniciou-se no ano de 1717, na Vila de Santo Antônio de Guaratinguetá. ;O governador da Província de São Paulo e de Minas Gerais, Dom Pedro de Almeida e Portugal, o Conde de Assumar, estava a caminho de Vila Rica, conhecida hoje como Ouro Preto, MG. ;Durante seu trajeto, o governador passaria pela Vila de Guaratinguetá. ;A população organizou uma festa para o governador e sua comitiva e para poderem preparar a comida, eles convocaram três pescadores para trazer o alimento.",
+		"tituloOracao": "Oração Jubilar: 300 Anos de Bênçãos",
+		"oracao": "Senhora Aparecida, Mãe Padroeira, em vossa singela imagem, há 300 anosaparecestes nas redes dos três benditos pescadores no Rio Paraíba do Sul. ;Como sinal vindo do céu, em vossa cor, vós nos dizeis que para o Pai não existem escravos, apenas filhos muito amados. ;Diante de vós, embaixadora de Deus, rompem-se as correntes da escravidão! Assim, daquelas redes, passastes para o coração e a vida de milhões de outros filhos e filhas vossos. ;Para todos tendes sido bênção: peixes em abundância, famílias recuperadas, saúde alcançada, corações reconciliados, vida cristã reassumida. ;Nós vos agradecemos tanto carinho, tanto cuidado! Hoje, em vosso Santuário e em vossa visita peregrina, nós vos acolhemos como mãe, e de vossas mãos recebemos o fruto de vossa missão entre nós: o vosso Filho Jesus, nosso Salvador. ;Recordai-nos o poder, a força das mãos postas em prece! ;Ensinai-nos a viver vosso jubileu com gratidão e fidelidade! ;Fazei de nós vossos filhos e filhas, irmãos e irmãs de nosso Irmão Primogênito, Jesus Cristo, Amém! ",
+		"video": 
+			{
+				"descricao": "Nossa Senhora da Conceição Aparecida, Padroeira do Brasil, Celebrada no dia 12 de Outubro",
+				"dataPublicacao": "2020-04-18T12:00:10Z",
+				"videoId": "O_RUkFYlJPo",
+				"videoFoto": "https://img.youtube.com/vi/O_RUkFYlJPo/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
+		"bannerSanto": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
+		"bannerOracao": "https://i.ibb.co/NFgX1N3/banner-Nossa-Senhora-Aparecida-Oracao.jpg",
+		"foto": "https://i.ibb.co/b5KpJLx/foto-Nossa-Senhora-Aparecida.jpg"		
+	},
+	{
+		"id": 24,
+		"titulo": "Nossa Senhora da Piedade",
+		"historia": "A história de Nossa Senhora da Conceição Aparecida iniciou-se no ano de 1717, na Vila de Santo Antônio de Guaratinguetá. ;O governador da Província de São Paulo e de Minas Gerais, Dom Pedro de Almeida e Portugal, o Conde de Assumar, estava a caminho de Vila Rica, conhecida hoje como Ouro Preto, MG. ;Durante seu trajeto, o governador passaria pela Vila de Guaratinguetá. ;A população organizou uma festa para o governador e sua comitiva e para poderem preparar a comida, eles convocaram três pescadores para trazer o alimento.",
+		"tituloOracao": "Oração Jubilar: 300 Anos de Bênçãos",
+		"oracao": "Senhora Aparecida, Mãe Padroeira, em vossa singela imagem, há 300 anosaparecestes nas redes dos três benditos pescadores no Rio Paraíba do Sul. ;Como sinal vindo do céu, em vossa cor, vós nos dizeis que para o Pai não existem escravos, apenas filhos muito amados. ;Diante de vós, embaixadora de Deus, rompem-se as correntes da escravidão! Assim, daquelas redes, passastes para o coração e a vida de milhões de outros filhos e filhas vossos. ;Para todos tendes sido bênção: peixes em abundância, famílias recuperadas, saúde alcançada, corações reconciliados, vida cristã reassumida. ;Nós vos agradecemos tanto carinho, tanto cuidado! Hoje, em vosso Santuário e em vossa visita peregrina, nós vos acolhemos como mãe, e de vossas mãos recebemos o fruto de vossa missão entre nós: o vosso Filho Jesus, nosso Salvador. ;Recordai-nos o poder, a força das mãos postas em prece! ;Ensinai-nos a viver vosso jubileu com gratidão e fidelidade! ;Fazei de nós vossos filhos e filhas, irmãos e irmãs de nosso Irmão Primogênito, Jesus Cristo, Amém! ",
+		"video": 
+			{
+				"descricao": "Nossa Senhora da Piedade - Padroeira de Minas Gerais, celebrada no dia 15 de Setembro, junta à Nossa Senhora das Dores.",
+				"dataPublicacao": "2020-04-05T12:00:10Z",
+				"videoId": "rYVQkM5L0UM",
+				"videoFoto": "https://img.youtube.com/vi/rYVQkM5L0UM/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
+		"bannerSanto": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
+		"bannerOracao": "https://i.ibb.co/hf1bMYY/banner-Nossa-Senhora-Piedade-Oracao.jpg",
+		"foto": "https://i.ibb.co/RCV4GJj/foto-Nossa-Senhora-Piedade.jpg"		
 	}
 ]
