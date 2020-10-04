@@ -2,7 +2,7 @@
 	{
 		"id": 47,
 		"titulo": "Nossa Senhora da Batalha",
-		"historia": "Modelo de obediência heróica e de caridade, Santa Paulina ajudou a muitos pobres e marginalizados. ;Santa Paulina nasceu em Trento, Itália, no dia 16 de dezembro de 1865. ;Seus pais, Antônio Napoleone Visintainer e Anna Pianezzer lhe deram o nome de Amábile Lúcia Visinteiner, sendo a segunda filha do casal.",
+		"historia": "No ano de 1383, houve uma batalha entre portugueses e espanhóis, a Batalha de Aljubarrota, que ocorreu no dia 14 de agosto, na véspera da comemoração da Assunção de Nossa Senhora. ;Liderados por Núno Alvares Pereira, os portugueses possuíam uma tropa significativamente inferior em relação aos espanhóis, mas não desistiram da batalha, pois sua fé e devoção em Nossa Senhora era muito grande. ;Como era véspera da comemoração da Assunção de Nossa Senhora, muitos soldados fizeram jejum, o que os colocava ainda mais em desvantagem. ;Mas possuíam uma grande confiança e entregaram seu destino nas mãos de Nossa Senhora. ;Mesmo com os corpos fracos, eles não recuaram e enfrentaram com muita fé aquela batalha.",
 		"tituloOracao": "Oração a Nossa Senhora da Batalha",
 		"oracao": "Poderosa Senhora, fortaleza e inspiração nos momentos difíceis da vida, assim como acompanhastes os cristãos nas suas batalhas no passado, vinde em nosso auxílio e ajudai-nos a vencer todas as batalhas que hoje travamos contra o mal que existe no mundo. ;Por Cristo, Nosso Senhor Amém.",
 		"video": 
