@@ -15,7 +15,8 @@
 		"banner": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
 		"bannerSanto": "https://i.ibb.co/4ST5XKT/banner-Sao-Boaventura.jpg",
 		"bannerOracao": "https://i.ibb.co/MgmpZSQ/banner-Sao-Boaventura-Oracao.jpg",
-		"foto": "https://i.ibb.co/jZBJzy1/foto-Sao-Boaventura.jpg"		
+		"foto": "https://i.ibb.co/jZBJzy1/foto-Sao-Boaventura.jpg",
+		"celebracao": "Celebração: 15 de julho."	
 	},
 	{
 		"id": 28,
@@ -33,7 +34,8 @@
 		"banner": "https://i.ibb.co/jW7C44m/S-o-Jorge-santo-guerreiro-protege-seu-caminho-Clube-das-Comadres.jpg",
 		"bannerSanto": "https://i.ibb.co/HXqPK9F/banner-Sao-Jorge.jpg",
 		"bannerOracao": "https://i.ibb.co/3d99P0s/banner-Sao-Jorge-Oracao.jpg",
-		"foto": "https://i.ibb.co/1GW9q7N/foto-Sao-Jorge.jpg"		
+		"foto": "https://i.ibb.co/1GW9q7N/foto-Sao-Jorge.jpg",
+		"celebracao": "Celebração: 23 de abril."	
 	},
 	{
 		"id": 27,
@@ -51,7 +53,8 @@
 		"banner": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
 		"bannerSanto": "https://i.ibb.co/f0YYrp2/banner-Santo-Anjo-da-Guarda.jpg",
 		"bannerOracao": "https://i.ibb.co/18f87KH/banner-Santo-Anjo-da-Guarda-Oracao.jpg",
-		"foto": "https://i.ibb.co/znm9HwM/foto-Santo-Anjo-da-Guarda.jpg"		
+		"foto": "https://i.ibb.co/znm9HwM/foto-Santo-Anjo-da-Guarda.jpg",
+		"celebracao": "Celebração: 02 de outubro."	
 	},
 	{
 		"id": 26,
@@ -69,7 +72,8 @@
 		"banner": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
 		"bannerSanto": "https://i.ibb.co/7YKyL2k/banner-Sao-Benedito.jpg",
 		"bannerOracao": "https://i.ibb.co/sR38MTz/banner-Sao-Benedito-Oracao.jpg",
-		"foto": "https://i.ibb.co/jrM3sB1/foto-Sao-Benedito-Oracao.jpg"		
+		"foto": "https://i.ibb.co/jrM3sB1/foto-Sao-Benedito-Oracao.jpg",
+		"celebracao": "Celebração: 05 de outubro."	
 	},
 	{
 		"id": 25,
@@ -87,7 +91,8 @@
 		"banner": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
 		"bannerSanto": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
 		"bannerOracao": "https://i.ibb.co/NFgX1N3/banner-Nossa-Senhora-Aparecida-Oracao.jpg",
-		"foto": "https://i.ibb.co/b5KpJLx/foto-Nossa-Senhora-Aparecida.jpg"		
+		"foto": "https://i.ibb.co/b5KpJLx/foto-Nossa-Senhora-Aparecida.jpg",
+		"celebracao": "Celebração: 12 de outubro."	
 	},
 	{
 		"id": 24,
@@ -105,6 +110,7 @@
 		"banner": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
 		"bannerSanto": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
 		"bannerOracao": "https://i.ibb.co/hf1bMYY/banner-Nossa-Senhora-Piedade-Oracao.jpg",
-		"foto": "https://i.ibb.co/RCV4GJj/foto-Nossa-Senhora-Piedade.jpg"		
+		"foto": "https://i.ibb.co/RCV4GJj/foto-Nossa-Senhora-Piedade.jpg",
+		"celebracao": "Celebração: 15 de setembro."	
 	}
 ]
