@@ -112,5 +112,81 @@
 		"bannerOracao": "https://i.ibb.co/hf1bMYY/banner-Nossa-Senhora-Piedade-Oracao.jpg",
 		"foto": "https://i.ibb.co/RCV4GJj/foto-Nossa-Senhora-Piedade.jpg",
 		"celebracao": "Celebração: 15 de setembro."	
+	},
+	{
+		"id": 23,
+		"titulo": "Dom Bosco",
+		"historia": "São João Bosco ou Dom Bosco, nasceu em uma pequena vila de nome Becchi, que pertencia ao município e à paróquia de Castelnuovo, Itália, em 16 de agosto de 1815. ;Era filho de Francisco Bosco e de Margarida Occhiena e tinha dois irmãos, Antônio, filho do primeiro casamento de seu pai, e José. ;Com apenas dois anos de idade ele sofreu a perda de seu pai.",
+		"tituloOracao": "Oração à São João Bosco",
+		"oracao": "Necessitando de especial auxílio, com grande confiança recorro a vós, ó São João Bosco. ;Preciso não só de graças espirituais, mas também de graças temporais, e principalmente ;(pequena pausa para pedir a graça que se deseja). ;Vós, que tivestes tanta devoção a Jesus Sacramentado e a Maria Auxiliadora, e que tanto vos compadecestes das desventuras humanas, alcançai-me de Jesus e de sua celeste Mãe a graça que vos peço, e mais: resignação inteira à vontade de Deus. ;Rezar: Pai Nosso, Ave-Maria e Glória. ;São João Bosco, rogai por nós!",
+		"video": 
+			{
+				"descricao": "Dom Bosco - O Pai e Mestre da Juventude, Fundador da Congregação Salesiana, celebrado no dia 31 de Janeiro.",
+				"dataPublicacao": "2020-03-28T12:00:10Z",
+				"videoId": "4oybUvfCKRo",
+				"videoFoto": "https://img.youtube.com/vi/4oybUvfCKRo/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/ZL1gNrS/banner-Dom-Bosco.jpg",
+		"bannerSanto": "https://i.ibb.co/ZL1gNrS/banner-Dom-Bosco.jpg",
+		"bannerOracao": "https://i.ibb.co/6yrKpNz/banner-Dom-Bosco-Oracao.jpg",
+		"foto": "https://i.ibb.co/vQBdrNc/foto-Dom-Bosco.jpg",
+		"celebracao": "Celebração: 31 de janeiro."	
+	},
+	{
+		"id": 22,
+		"titulo": "Santas Perpétua e Felicidade",
+		"historia": "Perpétua era uma jovem de aproximadamente 22 anos, filha de nobres de Cartago, na África. Ela era muito querida pela população e tinha um filho de poucos meses. ;Felicidade tinha aproximadamente 20 anos, era escrava e amiga de Perpétua. Eram cristãs em uma região dominada pelo Império Romano, que perseguia os cristãos.",
+		"tituloOracao": "Oração as Santas Perpétua e Felicidade",
+		"oracao": "Deus todo-poderoso, que destes às mártires Santas Perpétua e Felicidade a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como elas não hesitaram em morrer por vosso amor. ;Por Cristo nosso Senhor. Amém! ;Santas Perpétua e Felicidade, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Santas Perpétua e Felicidade, mulheres guerreiras e mártires da fé, celebradas no dia 7 de Março.",
+				"dataPublicacao": "2020-03-22T12:00:10Z",
+				"videoId": "b8wRHJrcL2c",
+				"videoFoto": "https://img.youtube.com/vi/b8wRHJrcL2c/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/1rfxCXB/banner-Santas-Perpetua-e-Felicidade.jpg",
+		"bannerSanto": "https://i.ibb.co/1rfxCXB/banner-Santas-Perpetua-e-Felicidade.jpg",
+		"bannerOracao": "https://i.ibb.co/s9SqfM9/banner-Santas-Perpetua-e-Felicidade-Oracao.jpg",
+		"foto": "https://i.ibb.co/CQV2PDY/foto-Santas-Perpetua-e-Felicidade.jpg",
+		"celebracao": "Celebração: 07 de março."	
+	},
+	{
+		"id": 21,
+		"titulo": "São Brás",
+		"historia": "Deus todo-poderoso, que destes às mártires Santas Perpétua e Felicidade a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como elas não hesitaram em morrer por vosso amor. ;Por Cristo nosso Senhor. Amém! ;Santas Perpétua e Felicidade, rogai por nós.",
+		"tituloOracao": "Oração as Santas Perpétua e Felicidade",
+		"oracao": "Ó glorioso São Brás, que restituístes, com uma breve oração, a perfeita saúde de um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar! ;Obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio em todos os males da garganta. ;Conservai a nossa garganta sã e perfeita, para que possamos falar corretamente e, assim, proclamar e cantar os louvores de Deus. Amém. ;Por intercessão de São Brás, bispo e mártir, livre-te Deus do mal da garganta e de qualquer outra doença. ;Em nome do Pai, do Filho e do Espírito Santo. Amém!",
+		"video": 
+			{
+				"descricao": "São Brás, protetor contra os males da garganta. É celebrado no dia 3 de Fevereiro",
+				"dataPublicacao": "2020-03-11T12:00:10Z",
+				"videoId": "ZY_TqOIjV2g",
+				"videoFoto": "https://img.youtube.com/vi/ZY_TqOIjV2g/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/2ZmQbzh/banner-Sao-Bras.jpg",
+		"bannerSanto": "https://i.ibb.co/2ZmQbzh/banner-Sao-Bras.jpg",
+		"bannerOracao": "https://i.ibb.co/Pw1FYXZ/banner-Sao-Bras-Oracao.jpg",
+		"foto": "https://i.ibb.co/HXcRD7D/foto-Sao-Bras.jpg",
+		"celebracao": "Celebração: 03 de fevereiro."	
+	},
+	{
+		"id": 20,
+		"titulo": "Santo Ambrósio",
+		"historia": "Deus todo-poderoso, que destes às mártires Santas Perpétua e Felicidade a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como elas não hesitaram em morrer por vosso amor. ;Por Cristo nosso Senhor. Amém! ;Santas Perpétua e Felicidade, rogai por nós.",
+		"tituloOracao": "Oração as Santas Perpétua e Felicidade",
+		"oracao": "Ó glorioso São Brás, que restituístes, com uma breve oração, a perfeita saúde de um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar! ;Obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio em todos os males da garganta. ;Conservai a nossa garganta sã e perfeita, para que possamos falar corretamente e, assim, proclamar e cantar os louvores de Deus. Amém. ;Por intercessão de São Brás, bispo e mártir, livre-te Deus do mal da garganta e de qualquer outra doença. ;Em nome do Pai, do Filho e do Espírito Santo. Amém!",
+		"video": 
+			{
+				"descricao": "Santo Ambrósio, Bispo e Doutor da Igreja, é celebrado no dia 7 de Dezembro",
+				"dataPublicacao": "2020-02-16T12:00:10Z",
+				"videoId": "7wX_OT0yLpo",
+				"videoFoto": "https://img.youtube.com/vi/7wX_OT0yLpo/hqdefault.jpg"
+			},	
+		"banner": "https://i.ibb.co/r0fZSJw/banner-Santo-Ambrosio.jpg",
+		"bannerSanto": "https://i.ibb.co/r0fZSJw/banner-Santo-Ambrosio.jpg",
+		"bannerOracao": "https://i.ibb.co/XCqcbMK/banner-Santo-Ambrosio-Oracao.jpg",
+		"foto": "https://i.ibb.co/yfhzvvp/foto-Santo-Ambrosio.jpg",
+		"celebracao": "Celebração: 07 de dezembro."	
 	}
 ]
