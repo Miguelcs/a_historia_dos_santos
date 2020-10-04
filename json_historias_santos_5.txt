@@ -15,7 +15,8 @@
 		"bannerOracao": "https://i.ibb.co/C86jJMC/banner-Nossa-Senhora-da-Batalha-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/PTtq0zT/banner-Nossa-Senhora-da-Batalha.jpg",
 		"banner": "https://i.ibb.co/PTtq0zT/banner-Nossa-Senhora-da-Batalha.jpg",
-		"foto": "https://i.ibb.co/N1Lkmws/foto-Nossa-Senhora-da-Batalha.jpg"		
+		"foto": "https://i.ibb.co/N1Lkmws/foto-Nossa-Senhora-da-Batalha.jpg",	
+		"celebracao": ""		
 	},
 	{
 		"id": 46,
@@ -33,7 +34,8 @@
 		"bannerOracao": "https://i.ibb.co/Zf8t6Gx/banner-Santa-Paulina-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/vqp1qRR/banner-Santa-Paulina.jpg",
 		"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
-		"foto": "https://i.ibb.co/j6SxDff/foto-Santa-Paulina.jpg"		
+		"foto": "https://i.ibb.co/j6SxDff/foto-Santa-Paulina.jpg",	
+		"celebracao": "Celebração: 9 de julho."
 	},
 	{
 		"id": 45,
@@ -51,7 +53,8 @@
 		"bannerOracao": "https://i.ibb.co/gvybcqW/banner-Sao-Gregorio-Magno-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/THgtJkV/banner-Sao-Gregorio-Magno.jpg",
 		"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
-		"foto": "https://i.ibb.co/TwWHpHQ/foto-Sao-Gregorio-Magno.jpg"		
+		"foto": "https://i.ibb.co/TwWHpHQ/foto-Sao-Gregorio-Magno.jpg",	
+		"celebracao": "Celebração: 3 de setembro."
 	},
 	{
 		"id": 44,
@@ -69,7 +72,8 @@
 		"bannerOracao": "https://i.ibb.co/brCpG6x/banner-Santa-Edwiges-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/GVR3LKp/banner-Santa-Edwiges.jpg",
 		"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
-		"foto": "https://i.ibb.co/8K7dNzS/foto-Santa-Edwiges.jpg"		
+		"foto": "https://i.ibb.co/8K7dNzS/foto-Santa-Edwiges.jpg",	
+		"celebracao": "Celebração: 16 de outubro."		
 	},
 	{
 		"id": 43,
@@ -87,7 +91,8 @@
 		"bannerOracao": "https://i.ibb.co/dM97FKJ/1-23.jpg",
     	"bannerSanto": "https://i.ibb.co/XZy5SXy/banner-Nossa-Senhora-do-Bom-Conselho-Oracao.jpg",
     	"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
-    	"foto": "https://i.ibb.co/SspRrgv/foto-Nossa-Senhora-do-Bom-Conselho.jpg"
+    	"foto": "https://i.ibb.co/SspRrgv/foto-Nossa-Senhora-do-Bom-Conselho.jpg",	
+		"celebracao": "Celebração: 26 de abril."	
 	},
 	{
 		"id": 42,
@@ -105,7 +110,8 @@
 		"bannerOracao": "https://i.ibb.co/52fj2qH/banner-Nossa-Senhora-da-Saude-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/tQPLYBy/banner-Nossa-Senhora-da-Saude.jpg",
 		"banner": "https://i.ibb.co/w765Th6/capa.jpg",
-		"foto": "https://i.ibb.co/1Qw7xJ3/foto-Nossa-Senhora-da-Saude.jpg"	
+		"foto": "https://i.ibb.co/1Qw7xJ3/foto-Nossa-Senhora-da-Saude.jpg",	
+		"celebracao": "Celebração: 15 de agosto."
 	},
 	{
 		"id": 41,
@@ -123,7 +129,8 @@
 		"bannerOracao": "https://i.ibb.co/McXDvjh/1569238953thumbnail.jpg",
 		"bannerSanto": "https://i.ibb.co/2K10sDW/banner-Sao-Mateus-Evangelista-Oracao.jpg",
 		"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
-		"foto": "https://i.ibb.co/F40436P/foto-Sao-Mateus-Evangelista.jpg"	
+		"foto": "https://i.ibb.co/F40436P/foto-Sao-Mateus-Evangelista.jpg",	
+		"celebracao": "Celebração: 21 de setembro."	
 	},
 	{
 		"id": 40,
@@ -141,6 +148,7 @@
 		"bannerOracao": "https://i.ibb.co/JF9Q485/banner-Sao-Cristovao-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/6JmGTSj/banner-Sao-Cristovao.jpg",
 		"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
-		"foto": "https://i.ibb.co/c3Ft0Df/foto-Sao-Cristovao.jpg"		
+		"foto": "https://i.ibb.co/c3Ft0Df/foto-Sao-Cristovao.jpg",
+		"celebracao": "Celebração: 25 de julho."	
 	}
 ]
