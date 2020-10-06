@@ -1,0 +1,78 @@
+[
+	{
+		"id": 19,
+		"titulo": "Nossa Senhora dos Aflitos",
+		"historia": "Nossa Senhora dos Aflitos, também conhecida como Nossa Senhora Consoladora ou Nossa Senhora Consolata, passou a ser venerada em Turim, Itália, por volta do século V.",
+		"tituloOracao": "Oração a Nossa Senhora Consolata",
+		"oracao": "Oprimido pelas tribulações, e reconhecendo minhas falhas e negligências, a vós recorro, Virgem Maria. ;Vós sois no céu li Rainha dos Anjos e dos Santos, mas aqui na terra quereis se a Mãe das Consolações. Vós sois a Consolata e eu vosso filho. Quero ser semelhante a vós, quero ser consolado. ;Não peço honras, prazeres ou riquezas, só vos peço consolação. ;Mãe dulcíssima, vós sabeis o modo; conheceis o caminho para ouvir-me, por isso confio plenamente em vós! ;Dizei uma palavra a Jesus que, com tanto amor e carinho, trazeis em vossos braços, e provarei a alegria do conforto. ;Consolado por vós e pelo vosso filho, saberei sofrer em paz as minhas penas; ser-me-á mais suave a dor e mais serena a morte. ;E quando chegar junto aos vosso trono, cantarei, eternamente, as vossas misericórdias. Assim seja. Amém.",
+		"video": 
+			{
+				"descricao": "Rogai por nós, Virgem Consoladora! Nossa Senhora dos Aflitos é celebrada no dia 20 de Junho.",
+				"dataPublicacao": "2020-02-08T12:00:10Z",
+				"videoId": "d4hRW0vYuGw",
+				"videoFoto": "https://img.youtube.com/vi/d4hRW0vYuGw/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/jWFQG2x/banner-Nossa-Senhora-dos-Aflitos.jpg",
+		"bannerSanto": "https://i.ibb.co/jWFQG2x/banner-Nossa-Senhora-dos-Aflitos.jpg",
+		"bannerOracao": "https://i.ibb.co/8PxnNQc/banner-Nossa-Senhora-dos-Aflitos-Oracao.jpg",
+		"foto": "https://i.ibb.co/RNJ2HRR/foto-Nossa-Senhora-dos-Aflitos.jpg",
+		"celebracao": "Celebração: 20 de junho."	
+	},
+	{
+		"id": 18,
+		"titulo": "Nossa Senhora do Trabalho",
+		"historia": "A primeira festa em honra à Nossa Senhora do Trabalho foi realizada no dia 1º de Maio de 1901, na Itália. ;A imagem da mãe abençoando um agricultor e um carpinteiro foi idealizada por São Luís Guanella, fundador da Congregação das Filhas de Santa Maria da Providência e dos Servos da Caridade e principal propagador da devoção a Nossa Senhora do Trabalho.",
+		"tituloOracao": "Oração a Nossa Senhora do Trabalho",
+		"oracao": "Salve Virgem Maria, nossa querida mãe e padroeira! Como filhos, nos dirigimos a Vós com toda a confiança, implorando a Vossa benção, de modo especial pelos nossos trabalhadores, por todos aqueles que labutam no dia-a-dia para conseguir o sustento da própria família. ;Concedei-nos, nós Vos pedimos, que este labor seja dignificante, de modo a favorecer vossos filhos. ;Que haja muita consciência da nobreza do trabalho e que nenhum de nossos irmãos seja explorado pela ganância de riquezas. ;Abençoai, ó Virgem do Trabalho, nossa sociedade, nossas famílias e a cada um de nós. ;Que saibamos sempre honrar-vos, neste Vosso Santuário, como filhos devotos e obedientes. ;Intercedei, junto ao Vosso Filho Jesus, concedendo-nos autênticas vocações sacerdotais e religiosas e a perseverança final. Assim seja. Amém!",
+		"video": 
+			{
+				"descricao": "Nossa Senhora do Trabalho, abençoai nossos trabalhadores. Amém.",
+				"dataPublicacao": "2020-01-27T12:00:10Z",
+				"videoId": "Um4nCLIJLfg",
+				"videoFoto": "https://img.youtube.com/vi/Um4nCLIJLfg/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/h9YB1zg/banner-Nossa-Senhora-do-Trabalho.jpg",
+		"bannerSanto": "https://i.ibb.co/h9YB1zg/banner-Nossa-Senhora-do-Trabalho.jpg",
+		"bannerOracao": "https://i.ibb.co/J2NNQZ6/banner-Nossa-Senhora-do-Trabalho-Oracao.jpg",
+		"foto": "https://i.ibb.co/r7F8jD7/foto-Nossa-Senhora-do-Trabalho-Oracao.jpg",
+		"celebracao": "Celebração: 05 de maio."	
+	},
+	{
+		"id": 17,
+		"titulo": "São Lazaro",
+		"historia": "São Lázaro viveu perto de Jerusalém, em uma aldeia chamada Betânia, que ficava na Judéia. ;Tinha duas irmãs, Marta e Maria, que são citadas no Evangelho. Como vemos nas Sagradas Escrituras, Lázaro era amigo de Jesus e sua casa serviu diversas vezes para abrigar o Mestre e seus apóstolos.",
+		"tituloOracao": "Oração a São Lázaro",
+		"oracao": "Deus, nosso Pai, Jesus é a ressurreição e a vida. ;Para os que têm fé, a morte é apenas uma despedida, uma preparação para um novo encontro, para a vida em plenitude. ;Quando todas as esperanças se achavam perdidas, Jesus devolveu a Lázaro, seu amigo, a vida, libertando-o de todas as amarras da morte. ;Senhor, fazei-nos compreender o grande mistério da vossa paixão, morte e ressurreição. ;Em vós, temos a certeza da ressurreição.Por isso libertai-nos de todo o medo e dos temores vãos, que diminuem a nossa vida e não nos deixam viver em plenitude... ;Que hoje possamos ouvir, no nosso íntimo,as palavras de ordem de vosso Filho Jesus: Lázaro, levanta-te e caminha!",
+		"video": 
+			{
+				"descricao": "São Lázaro, protetor dos leprosos dos enfermos, desamparados e dos animais doentes.",
+				"dataPublicacao": "2020-01-12T12:00:10Z",
+				"videoId": "ibB4d3wSsHc",
+				"videoFoto": "https://img.youtube.com/vi/ibB4d3wSsHc/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/tsdJj44/banner-Sao-Lazaro.jpg",
+		"bannerSanto": "https://i.ibb.co/tsdJj44/banner-Sao-Lazaro.jpg",
+		"bannerOracao": "https://i.ibb.co/4pD62mw/banner-Sao-Lazaro-Oracao.jpg",
+		"foto": "https://i.ibb.co/RggQ03H/foto-Sao-Lazaro.jpg",
+		"celebracao": "Celebração: 17 de dezembro."	
+	},
+	{
+		"id": 16,
+		"titulo": "Santo Inácio de Loyola",
+		"historia": "Santo Inácio de Loyola nasceu no ano de 1491, em Loyola, na Espanha. Pertencia a uma família nobre, religiosa e numerosa. ;Aos 14 anos, Inácio recebeu a tonsura (Ato de realizar um corte rente de parte do cabelo, geralmente de forma arredondada, realizado numa cerimônia religiosa pelo bispo, ao conferir ao ordinando o primeiro grau no clero, chamado também 'prima tonsura'. ;O significado original era o de renúncia às vaidades mundanas.Usado ainda hoje pela Ordem Franciscana).",
+		"tituloOracao": "Oração de Santo Inácio de Loyola",
+		"oracao": "Tomai, Senhor, e recebei Toda a minha liberdade, a minha memória também. ;O meu entendimento e toda a minha vontade Tudo o que tenho e possuo, vós me destes com amor. ;Todos os dons que me destes, com gratidão vos devolvo. Disponde deles, Senhor, segundo a vossa vontade.Dai-me somente, o vosso amor, vossa graçaIsto me basta, nada mais quero pedir.",
+		"video": 
+			{
+				"descricao": "Santo Inácio de Loyola - Fundador da Ordem dos Jesuítas",
+				"dataPublicacao": "2019-12-31T12:00:10Z",
+				"videoId": "wFqufV3ZajA",
+				"videoFoto": "https://img.youtube.com/vi/wFqufV3ZajA/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/vV0PdJn/banner-Santo-Inacio-de-Loyola.jpg",
+		"bannerSanto": "https://i.ibb.co/vV0PdJn/banner-Santo-Inacio-de-Loyola.jpg",
+		"bannerOracao": "https://i.ibb.co/2hqQbwq/banner-Santo-Inacio-de-Loyola-Oracao.jpg",
+		"foto": "https://i.ibb.co/HD4yyX1/foto-Santo-Inacio-de-Loyola.jpg",
+		"celebracao": "Celebração: 31 de julho."	
+	}
+]
