@@ -1,5 +1,24 @@
 [
 	{
+		"id": 48,
+		"titulo": "Santa Maria Goretti",
+		"historia": "Santa Maria Goretti nasceu em Corinaldo, centro da Itália, no ano de 1890. ;De família pobre, porém temente a Deus. ;Seus pais Luigi Goretti, que era agricultor, e Assunta Goretti, trabalhavam na roça. ;Se mudaram para Ferriere de Conca, no ano de 1896.",
+		"tituloOracao": "Oração a Santa Maria Goretti",
+		"oracao": "Deus nosso Pai, Santa Maria Goretti foi capaz de perdoar àquele que lhe fez mal e que lhe tirou a vida. ;Dai-me a graça de saber perdoar, dai-me perdoar mais do que ser perdoado. Dai-me, também, pela intercessão de Santa Maria Goretti, pureza de coração e retidão de intenções. Perdoai, Senhor, meus pecados e recriai em mim um espírito novo. Amém. ;Santa Maria Goretti, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Padroeira das vítimas de estupro, mulheres jovens e da pureza. ;Santa Maria Goretti se conservou pura e santa por causa do seu amor a Deus. ;E hoje reina na Glória com Cristo.",
+				"dataPublicacao": "2020-10-05T12:00:10Z",
+				"videoId": "hFjicdXNqHc",
+				"videoFoto": "https://img.youtube.com/vi/hFjicdXNqHc/hqdefault.jpg"
+			},	
+		"bannerOracao": "https://i.ibb.co/8sz7hKX/banner-Santa-Maria-Goretti-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/Wx0TRDp/banner-Santa-Maria-Goretti.jpg",
+		"banner": "https://i.ibb.co/Wx0TRDp/banner-Santa-Maria-Goretti.jpg",
+		"foto": "https://i.ibb.co/WzhLzc2/foto-Santa-Maria-Goretti-Oracao.jpg",	
+		"celebracao": "Celebração: 6 de julho."		
+	},
+	{
 		"id": 47,
 		"titulo": "Nossa Senhora da Batalha",
 		"historia": "No ano de 1383, houve uma batalha entre portugueses e espanhóis, a Batalha de Aljubarrota, que ocorreu no dia 14 de agosto, na véspera da comemoração da Assunção de Nossa Senhora. ;Liderados por Núno Alvares Pereira, os portugueses possuíam uma tropa significativamente inferior em relação aos espanhóis, mas não desistiram da batalha, pois sua fé e devoção em Nossa Senhora era muito grande. ;Como era véspera da comemoração da Assunção de Nossa Senhora, muitos soldados fizeram jejum, o que os colocava ainda mais em desvantagem. ;Mas possuíam uma grande confiança e entregaram seu destino nas mãos de Nossa Senhora. ;Mesmo com os corpos fracos, eles não recuaram e enfrentaram com muita fé aquela batalha.",
