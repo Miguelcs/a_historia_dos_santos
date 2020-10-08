@@ -74,5 +74,119 @@
 		"bannerOracao": "https://i.ibb.co/2hqQbwq/banner-Santo-Inacio-de-Loyola-Oracao.jpg",
 		"foto": "https://i.ibb.co/HD4yyX1/foto-Santo-Inacio-de-Loyola.jpg",
 		"celebracao": "Celebração: 31 de julho."	
+	},
+	{
+		"id": 15,
+		"titulo": "Nossa Senhora Desatadora dos Nós",
+		"historia": "A história de Nossa Senhora Desatadora dos Nós teve origem na Alemanha, no início do Século XVIII entre os anos de 1699 e 1700. ;O cônego da Igreja de Sankt Peter am Perlach, Augsburgo, havia feito uma encomenda de um quadro de Nossa Senhora ao artista Johann Melchior Georg Schmidtner, em forma de agradecimento por uma graça alcançada.",
+		"tituloOracao": "Oração a Nossa Senhora Desatadora dos Nós",
+		"oracao": "Em nome do Pai, do Filho e do Espírito Santo ;Santa Maria Mãe de Deus, Virgem cheia de graça, vós sois a nossa desatadora dos nós. Com as vossas mãos cheias do amor de Deus, vós desatais os obstáculos de nosso caminho,como nós que se desfazem e se tornam uma fita reta do amor do Pai. ;Desatai, Virgem e Mãe, Santa e admirável, todos os nós que criamos por vontade própria,e todos os nós que impedem o nosso caminho. ;Lançai vossos olhos de luz sobre eles, para que todos os nós se desatem e, para que, cheios de gratidão, possamos, por vossas mãos, solucionar aquilo que nos parece impossível. Amém.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora Desatadora dos Nós é comemorada no dia 15 de Agosto.",
+				"dataPublicacao": "2019-12-18T12:00:10Z",
+				"videoId": "ZsSR9yNYVl0",
+				"videoFoto": "https://img.youtube.com/vi/ZsSR9yNYVl0/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/tZqwNz6/banner-Nossa-Senhora-Desatadora-dos-Nos.jpg",
+		"bannerSanto": "https://i.ibb.co/tZqwNz6/banner-Nossa-Senhora-Desatadora-dos-Nos.jpg",
+		"bannerOracao": "https://i.ibb.co/7nstKdw/banner-Nossa-Senhora-Desatadora-dos-Nos-Oracao.jpg",
+		"foto": "https://i.ibb.co/kBCjL6V/foto-Nossa-Senhora-Desatadora-dos-Nos.jpg",
+		"celebracao": "Celebração: 15 de agosto."	
+	},
+	{
+		"id": 14,
+		"titulo": "Nossa Senhora das Dores",
+		"historia": "O título de Nossa Senhora das Dores refere-se as sete dores sofridas por Maria em sua vida terrena, suportando tamanha perda e superando provações, sabendo que tudo aquilo era por um bem maior. ;A veneração à Nossa Senhora das Dores teve inicio em 1221 no Mosteiro de Schonau, hoje pertencente a Alemanha. Mais tarde, em 15 de Setembro 1239, na Itália, começou a celebração em homenagem a este título da Santa, na data como hoje conhecemos.",
+		"tituloOracao": "Oração a Nossa Senhora das Dores",
+		"oracao": "Virgem Dolorosíssima, seríamos ingratos se não nos esforçássemos em promover a memória e o culto de vossas Dores particulares, graças para uma sincera penitência, oportunos auxílios e socorros em todas as necessidades e perigos. ;Alcançai-nos Senhora, de Vosso Divino Filho, pelos mérito de Vossas Dores e lágrimas, a graça...(pedir a graça). Amém.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora das Dores, como Mãe, viveu as profundas dores do seu coração e conhece as dores de seus filhos!",
+				"dataPublicacao": "2019-12-14T12:00:10Z",
+				"videoId": "VjlmtxodC14",
+				"videoFoto": "https://img.youtube.com/vi/VjlmtxodC14/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/tQVVQGM/banner-Nossa-Senhora-das-Dores.jpg",
+		"bannerSanto": "https://i.ibb.co/tQVVQGM/banner-Nossa-Senhora-das-Dores.jpg",
+		"bannerOracao": "https://i.ibb.co/hR8V3n3/banner-Nossa-Senhora-das-Dores-Oracao.jpg",
+		"foto": "https://i.ibb.co/YyxwM5q/foto-Nossa-Senhora-das-Dores.jpg",
+		"celebracao": "Celebração: 15 de setembro."	
+	},
+	{
+		"id": 13,
+		"titulo": "Santa Escolástica",
+		"historia": "Santa Escolástica nasceu em Núrsia, região de Umbria na Itália, no ano de 480. Era irmã gêmea de São Bento e juntos receberam uma ótima formação cristã. Desde pequena, Escolástica consagrou-se totalmente a Deus, fazendo voto de castidade. ;Escolástica era uma mulher cheia de piedade e muito virtuosa, de muita oração. Acompanhava seu irmão através de intercessão.",
+		"tituloOracao": "Oração a Santa Escolástica",
+		"oracao": "Ó Deus, Pai de misericórdia, Santa Escolástica mostrou que nossa missão é servir, é carregar os fardos uns dos outros, é promover a harmonia e a paz entre todos os homens. ;Dá-nos compreender em profundidade esses Teus desígnios, para que nos aproximemos de Ti, para que Te reconheçamos nos irmãos e para que Te louvemos e bendigamos sem cessar. Amém. ;Santa Escolástica, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Santa Escolástica, Fundadora da Ordem das Beneditinas. É celebrada no dia 10 de Fevereiro.",
+				"dataPublicacao": "2019-12-04T12:00:10Z",
+				"videoId": "PDxyrlJAVi4",
+				"videoFoto": "https://img.youtube.com/vi/PDxyrlJAVi4/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/fGnPDn2/banner-Santa-Escolastica.jpg",
+		"bannerSanto": "https://i.ibb.co/fGnPDn2/banner-Santa-Escolastica.jpg",
+		"bannerOracao": "https://i.ibb.co/JtsHpxt/banner-Santa-Escolastica-Oracao.jpg",
+		"foto": "https://i.ibb.co/fCfXTn6/foto-Santa-Escolastica.jpg",
+		"celebracao": "Celebração: 10 de Fevereiro."	
+	},
+	{
+		"id": 12,
+		"titulo": "Nossa Senhora de Guadalupe",
+		"historia": "A primeira aparição de Nossa Senhora de Guadalupe aconteceu no ano de 1531, no México. ;Num sábado, a Virgem Maria apareceu a um índio chamado Juan Diego, que estava a caminho da cidade do México, onde iria participar da catequese e da Santa Missa.",
+		"tituloOracao": "Oração a Nossa Senhora de Guadalupe",
+		"oracao": "Perfeita, sempre Virgem Santa Maria, Mãe do Verdadeiro Deus, por quem se vive. Tu que na verdade és nossa Mãe Compassiva, te buscamos e te clamamos. ;Escuta com piedade nosso pranto, nossas tristezas.Cura nossas penas, nossas misérias e dores. ;Tu que és nossa doce e amorosa Mãe, acolhe-nos no aconchego do teu manto, no carinho de teus braços. ;Que nada nos aflija nem perturbe nosso coração. Mostra-nos e manifesta-nos a teu amado Filho, para que Nele e com Ele encontremosnossa salvação e a salvação do mundo.Santíssima Virgem Maria de Guadalupe, Faz-nos mensageiros teus,mensageiros da Palavra e da vontade de Deus.Amém. ;Nossa Senhora de Guadalupe, rogai por nós!",
+		"video": 
+			{
+				"descricao": "Nossa Senhora de Guadalupe. Padroeira de toda a América. 'Acaso não o escolhi para mim e o tomei aos meus cuidados?'",
+				"dataPublicacao": "2019-11-30T12:00:10Z",
+				"videoId": "9ocmamUHxH4",
+				"videoFoto": "https://img.youtube.com/vi/9ocmamUHxH4/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/M8TptcZ/banner-Nossa-Senhora-de-Guadalupe.jpg",
+		"bannerSanto": "https://i.ibb.co/M8TptcZ/banner-Nossa-Senhora-de-Guadalupe.jpg",
+		"bannerOracao": "https://i.ibb.co/sRZGrZs/banner-Nossa-Senhora-de-Guadalupe-Oracao.jpg",
+		"foto": "https://i.ibb.co/gRMYf1p/foto-Nossa-Senhora-de-Guadalupe.jpg",
+		"celebracao": "Celebração: 12 de Dezembro."	
+	},
+	{
+		"id": 11,
+		"titulo": "Nossa Senhora da Cabeça",
+		"historia": "A história de Nossa Senhora da Cabeça teve início em 12 de Agosto de 1227, na Serra Morena, Andaluzia, na Espanha. ;No pico da Cabeça, localizado no ponto mais alta da Serra Morena vivia um soldado das cruzadas chamado Juan Alonso de Rivas, natural de Granada, que havia se tornado pastor de ovelhas por ter perdido seu braço durante a guerra. ;Todas as vezes que ia para seu trabalho, Juan rezava pedindo a proteção de Nossa Senhora para a sua vida e por sua família.",
+		"tituloOracao": "Oração a Nossa Senhora da Cabeça",
+		"oracao": "Eis-me aqui, prostrado aos vossos pés, ó mãe do céu e Senhora Nossa! ;Tocai o meu coração a fim de que deteste sempre o pecado e ame a vida austera e cristã que exiges dos vossos devotos. ;Tende piedade das minhas misérias espirituais! ;E, ó Mãe terníssima, não vos esqueçais também das misérias que afligem o meu corpo e enchem de amargura a minha vida terrena. ;Dai-me saúde e forças para vencer todas as dificuldades que me opõe o mundo. Não permitais que a minha pobre cabeça seja atormentada por males que me perturbem a tranquilidade da vida. ;Pelos merecimentos do vosso divino Filho, Jesus Cristo, e pelo amor a que Ele consagrais, alcançai-me a graça que agora vos peço ;(pede-se a graça que se deseja obter). ;Aí tendes, ó Mãe poderosa, a minha humilde súplica. Se quiserdes, ela será atendida. ;Nossa Senhora da Cabeça, rogai por nós. Amém.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora da Cabeça, protetora para quem tem dores de cabeça. É celebrada no dia 1º de Agosto.",
+				"dataPublicacao": "2019-11-25T12:00:10Z",
+				"videoId": "OtCDuQ4KNvM",
+				"videoFoto": "https://img.youtube.com/vi/OtCDuQ4KNvM/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/yg6qhW1/banner-Nossa-Senhora-da-Cabeca.jpg",
+		"bannerSanto": "https://i.ibb.co/yg6qhW1/banner-Nossa-Senhora-da-Cabeca.jpg",
+		"bannerOracao": "https://i.ibb.co/vwW2p2M/banner-Nossa-Senhora-da-Cabeca-Oracao.jpg",
+		"foto": "https://i.ibb.co/0yx54wP/foto-Nossa-Senhora-da-Cabeca.jpg",
+		"celebracao": "Celebração: 1 de Agosto."	
+	},
+	{
+		"id": 10,
+		"titulo": "São Bartolomeu",
+		"historia": "São Bartolomeu, citado na Sagrada Escritura com o nome de Natanael, foi um dos doze apóstolos de Nosso Senhor Jesus Cristo. ;Nasceu em Caná, na Galiléia (cf. Jo 21,2) e é então possível que ele tenha testemunhado o grande 'sinal' realizado por Jesus naquele lugar (cf. Jo 2, 1-11). ;Bartolomeu vem do aramaico Bar-Talmay que significa filho de Talmay. Natanael significa dom de Deus.",
+		"tituloOracao": "Oração a São Bartolomeu",
+		"oracao": "Glorioso São Bartolomeu, modelo sublime de virtude e puro frasco das graças do Senhor! ;Proteja este seu servo que humildemente se ajoelha a seus pés e implora que tenha a bondade de pedir por mim junto ao trono do Senhor. ;São Bartolomeu use todos os recursos para me proteger dos perigos que diariamente me rodeiam! ;Lance seu escudo protetor em minha volta e me proteja do meu egoísmo e de minha indiferença a Deus e ao meu vizinho. ;São Bartolomeu, me inspire em imitá-lo em todas as minhas ações. Derrame em mim suas graças para que eu possa servir e ver a Cristo nos outros e trabalhar para a Vossa maior gloria. ;Graciosamente obtenha de Deus os favores e as graças que eu muito necessito, nas minhas misérias e aflições da vida. ;Eu aqui invoco sua poderosa intercessão, confiante na esperança que ouvirás minhas orações e que obtenha para mim esta especial graça e favor que eu reclamo de seu poder e bondade fraternal, e com toda a minha alma imploro que me conceda a graça… ;(fazer o pedido), ;e ainda a graça da salvação de minha alma e para que eu viva e morra como filho de Deus, alcançando a doçura do Vosso amor e a eterna felicidade. São Bartolomeu, rogai por nós! Amém.",
+		"video": 
+			{
+				"descricao": "São Bartolomeu, Discipulo e Apóstolo de Jesus. É celebrado em 24 de Agosto.",
+				"dataPublicacao": "2019-11-24T12:00:10Z",
+				"videoId": "qxPp3SaswgY",
+				"videoFoto": "https://img.youtube.com/vi/qxPp3SaswgY/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/8zJCWj6/banner-Sao-Bartolomeu.jpg",
+		"bannerSanto": "https://i.ibb.co/8zJCWj6/banner-Sao-Bartolomeu.jpg",
+		"bannerOracao": "https://i.ibb.co/MNRjDZZ/banner-Sao-Bartolomeu-Oracao.jpg",
+		"foto": "https://i.ibb.co/W2b82B7/foto-Sao-Bartolomeu.jpg",
+		"celebracao": "Celebração: 24 de Agosto."	
 	}
 ]
