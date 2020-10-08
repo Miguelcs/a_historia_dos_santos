@@ -1,5 +1,24 @@
 [
 	{
+		"id": 49,
+		"titulo": "Nossa Senhora Rainha dos Anjos",
+		"historia": "Verdadeira Mãe de Jesus Cristo, Rei do Universo, Nossa Senhora é invocada na Sagrada Liturgia como Rainha dos Anjos. ;Venerada e reconhecida como Mãe, Mestra e Rainha, e dentre muitos títulos a Ela atribuídos, encontramos o título de Nossa Senhora Rainha dos anjos. ;Esse título nos revela a estreita relação que a Santa Mãe de Deus possui com os espíritos celestes. ;Vemos na Sagrada Escritura o encontro de Maria Santíssima recebendo a mais pura saudação de São Gabriel Arcanjo, que diz:'Ave, cheia de graça, o Senhor é contigo'(Lc, 1-28) ;Os anjos acompanharam Maria Santíssima desde a Anunciação até a Assunção ao Céu, e acompanham todos os dias, pois Ela foi coroada no Céu como Rainha de todos os Anjos e Santos. ;Lembremo-nos que os anjos representam a voz de Deus, são os mensageiros celestes, e sendo os anjos representantes de Deus, então podemos compreender o quanto Maria cumpriu com a Vontade do Senhor, participando diretamente no plano de salvação.",
+		"tituloOracao": "Oração a Nossa Senhora Rainha dos Anjos",
+		"oracao": "Augusta Rainha do Céu, altíssima soberana Senhora dos Anjos. ;Vós que desde o princípio recebestes de Deus o poder e a missão de esmagar a cabeça de satanás, nós vos suplicamos, humildemente, que envieis vossas Legiões santas, para que, sob vossas ordens e por vosso poder, persigam os demônios, os combatam por toda parte, reprimam sua audácia e os precipitem no abismo. ;Quem como Deus? São Miguel, santos anjos e arcanjos, defendei-nos e guardai-nos. ;Oh, boa e terna Mãe, vós sereis sempre o nosso amor e a nossa esperança. Amém. ;Oh, Mãe de Deus, envia vossos anjos para defender-nos e afastar para longe de nós o cruel inimigo. Amém.",
+		"video": 
+			{
+				"descricao": "Verdadeira Mãe de Jesus Cristo, Rei do Universo, Nossa Senhora é invocada na Sagrada Liturgia como Rainha dos Anjos.",
+				"dataPublicacao": "2020-10-07T12:00:10Z",
+				"videoId": "OkNjfRRLlOk",
+				"videoFoto": "https://img.youtube.com/vi/OkNjfRRLlOk/hqdefault.jpg"
+			},	
+		"bannerOracao": "https://i.ibb.co/T21FDzQ/banner-Nossa-Senhora-Rainha-dos-Anjos-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/bWg6MjD/banner-Nossa-Senhora-Rainha-dos-Anjos.jpg",
+		"banner": "https://i.ibb.co/bWg6MjD/banner-Nossa-Senhora-Rainha-dos-Anjos.jpg",
+		"foto": "https://i.ibb.co/hspBw96/foto-Nossa-Senhora-Rainha-dos-Anjos.jpg",	
+		"celebracao": ""		
+	},
+	{
 		"id": 48,
 		"titulo": "Santa Maria Goretti",
 		"historia": "Santa Maria Goretti nasceu em Corinaldo, centro da Itália, no ano de 1890. ;De família pobre, porém temente a Deus. ;Seus pais Luigi Goretti, que era agricultor, e Assunta Goretti, trabalhavam na roça. ;Se mudaram para Ferriere de Conca, no ano de 1896.",
