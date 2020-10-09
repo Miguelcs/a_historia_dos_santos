@@ -9,12 +9,9 @@
 			{
 				"descricao": "São João Evangelista foi o mais novo entre os apóstolos. O Apóstolo virgem, aquele ao qual Jesus tinha uma grande predileção.",
 				"dataPublicacao": "2020-10-08T12:00:10Z",
-				"videoId": "OkNjfRRLlOk",
-				"videoFoto": "https://img.youtube.com/vi/OkNjfRRLlOk/hqdefault.jpg"
-			},	
-			
-
-
+				"videoId": "tMgzwhnb5oc",
+				"videoFoto": "https://img.youtube.com/vi/tMgzwhnb5oc/hqdefault.jpg"
+			},				
 		"bannerOracao": "https://i.ibb.co/mTZTrjT/banner-Sao-Joao-Evangelista-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/316Qqmq/banner-Sao-Joao-Evangelista.jpg",
 		"banner": "https://i.ibb.co/316Qqmq/banner-Sao-Joao-Evangelista.jpg",
