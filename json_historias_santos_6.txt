@@ -1,0 +1,24 @@
+[
+	{
+		"id": 50,
+		"titulo": "São João Evangelista",
+		"historia": "João significa graça de Deus ou Deus é misericordioso, foi o discípulo que Cristo mais amou. ;Nasceu em Betsaisa, filho de Zebedeu e Salomé, irmão de Tiago Maior, era pescador, assim como Pedro e André. ;Foi chamado a ser um dos 12 apóstolos de Cristo, sendo João o mais novo entre eles. ;O Apóstolo virgem, aquele ao qual Jesus tinha uma grande predileção. Devido a isso, João se intitula o discípulo amado. ;Assim como Simão e André, João era discípulo de São João Batista, o Precursor.",
+		"tituloOracao": "Oração a São João Evangelista",
+		"oracao": "Ó São João Apóstolo e Evangelista fostes o mais íntimo confidente das palavras de vida que brotavam dos lábios de Jesus; o mais próximo de sua glória, no Tabor; de seu coração, na Ceia; de sua Cruz, no Calvário. ;Ó Apóstolo do Amor sois por excelência a testemunha da fé, da verdade e da caridade. ;Pelo amor e fidelidade ao Mestre, sois o protetor de todos os cristãos; dos sacerdotes: vivestes o sacerdócio em toda a sua plenitude; da virgindade: sois o apóstolo virgem; das mães, merecestes ser dado por filho a Mãe de Deus; das crianças e dos jovens: fostes o mais moço dos  apóstolos; dos velhos: é como ancião que vos apresentais na Epístolas; dos que sofrem: padecestes ao pé da Cruz; das almas contemplativas: estivestes no Tabor; dos pobres: por eles trabalhastes nas minas de Patmos; dos doentes: curastes os enfermos; dos males do corpo e do espírito: após traçar o sinal da cruz bebestes do cálice com veneno e ressuscitastes os mortos: de todas as pessoas que querem dedicar-se aos seus irmãos e amá-los em Deus: a caridade não pode ter ideal mais puro que o do amigo de Jesus. ;Ó Apóstolo, orador da divindade, pela grandeza de vossa vida e pelos dons que recebestes, sem cessar, intercedei por nós ao Pai, Filho e Espírito Santo, agora e sempre e por todos os séculos dos séculos. Amém. ;São João Evangelista, amigo de Jesus rogai por nós!",
+		"video": 
+			{
+				"descricao": "São João Evangelista foi o mais novo entre os apóstolos. O Apóstolo virgem, aquele ao qual Jesus tinha uma grande predileção.",
+				"dataPublicacao": "2020-10-08T12:00:10Z",
+				"videoId": "OkNjfRRLlOk",
+				"videoFoto": "https://img.youtube.com/vi/OkNjfRRLlOk/hqdefault.jpg"
+			},	
+			
+
+
+		"bannerOracao": "https://i.ibb.co/mTZTrjT/banner-Sao-Joao-Evangelista-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/316Qqmq/banner-Sao-Joao-Evangelista.jpg",
+		"banner": "https://i.ibb.co/316Qqmq/banner-Sao-Joao-Evangelista.jpg",
+		"foto": "https://i.ibb.co/68tbfZ0/foto-Sao-Joao-Evangelista.jpg",	
+		"celebracao": "Celebração: 27 de maio."			
+	}
+]
