@@ -1,0 +1,40 @@
+[
+	{
+		"id": 9,
+		"titulo": "Santa Bernadette",
+		"historia": "Santa Bernadette nasceu no dia 7 de Janeiro de 1844, na cidade de Lourdes, na França. ;Bernadette era a filha mais velha e vivia em extrema pobreza com seus pais, Francisco Soubirous e Luísa Castèrot. ;Moravam em uma cela abandonada da cadeia da cidade. ;O lugar era insalubre, o  que fez piorar a saúde da jovem Bernadette, que já tinha uma saúde muito frágil. ;Devido a isso, a jovem teve dificuldades de aprendizagem, fazendo sua primeira comunhão fora da faixa etária comum, tinha dificuldades também de frequentar a escola.",
+		"tituloOracao": "Oração a Santa Bernadette",
+		"oracao": "Senhor, vós que dignastes conceder à jovem Bernadette a graça de ver vossa Santíssima Mãe, e com ela conversar e orar, concedei também a mim uma maior devoção para com Maria Santíssima e a graça da boa saúde e disposição. ;Santa Bernadette Soubirous, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Santa Bernadette e as aparições de Nossa Senhora em Lourdes. Santa Bernadette é celebrada no dia 16 de Abril.",
+				"dataPublicacao": "2019-11-17T12:00:10Z",
+				"videoId": "T2ZgStuxY8w",
+				"videoFoto": "https://img.youtube.com/vi/T2ZgStuxY8w/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/cNT59MM/banner-Santa-Bernadette.jpg",
+		"bannerSanto": "https://i.ibb.co/cNT59MM/banner-Santa-Bernadette.jpg",
+		"bannerOracao": "https://i.ibb.co/S783GFy/banner-Santa-Bernadette-Oracao.jpg",
+		"foto": "https://i.ibb.co/qk3RcTz/foto-Santa-Bernadette.jpg",
+		"celebracao": "Celebração: 16 de Abril."	
+	},
+	{
+		"id": 8,
+		"titulo": "São Francisco Xavier",
+		"historia": "São Francisco Xavier nasceu no castelo de Xavier, Reino de Navarra, na península Ibérica, no 1506. ;Era o filho caçula da família. Enviado por sua família para estudar em Paris, Francisco ali conheceu Santo Inácio de Loyola, fundador da Companhia de Jesus, conhecida como a Ordem dos Jesuítas.",
+		"tituloOracao": "Oração a São Francisco Xavier",
+		"oracao": "Senhor, pelos méritos de São Francisco Xavier, concedei-me o dom do desassombro para levar a Vossa Palavra aos que a mim confiastes. ;Dai-me firmeza na fé, piedade na oração e que cada vez mais eu encontre alegria em testemunhar Vossas maravilhas. Amém. ;São Francisco Xavier rogai por nós.",
+		"video": 
+			{
+				"descricao": "São Francisco Xavier - Protetor dos missionários.",
+				"dataPublicacao": "2019-11-15T12:00:10Z",
+				"videoId": "SpHlHw2KCqc",
+				"videoFoto": "https://img.youtube.com/vi/SpHlHw2KCqc/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/c87gSLV/banner-Sao-Francisco-Xavier.jpg",
+		"bannerSanto": "https://i.ibb.co/c87gSLV/banner-Sao-Francisco-Xavier.jpg",
+		"bannerOracao": "https://i.ibb.co/SyTCgtH/banner-Sao-Francisco-Xavier-oracao.jpg",
+		"foto": "https://i.ibb.co/D8N07hH/foto-Sao-Francisco-Xavier.jpg",
+		"celebracao": "Celebração: 03 de Dezembro."	
+	}
+]
