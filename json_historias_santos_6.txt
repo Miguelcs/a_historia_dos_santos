@@ -1,5 +1,43 @@
 [
 	{
+		"id": 52,
+		"titulo": "Santo Expedito",
+		"historia": "Santo Expedito era comandante da 12ª Legião Romana, cujo alojamento ficava na cidade de Melitene, na Armênia, no fim do século III. ;A missão dessa legião era a de proteger as fronteiras orientais contra os bárbaros asiáticos. ;Parte do exército comandado por Santo Expedito era formado por cristãos. ",
+		"tituloOracao": "Oração a Santo Expedito",
+		"oracao": "Meu Santo Expedito das causas justas e urgentes, socorre-me nesta hora de aflição e desespero, intercede por mim junto ao Nosso Senhor Jesus Cristo. ;Tu que és um santo guerreiro, tu que és o santo dos aflitos, tu que és o santo dos desesperados, tu que és o santo das causas urgentes, protege-me, ajuda-me, dá-me força, coragem e serenidade. Atende o meu pedido (fazer o pedido). ;Ajuda-me a superar estas horas difíceis, protege-me de todos os que possam me prejudicar, protege a minha família, atende ao meu pedido com urgência. ;Devolve-me a paz e a tranquilidade. Serei grato pelo resto de minha vida e levarei teu nome a todos os que têm fé. Obrigado. ;(Rezar Pai-Nosso, Ave-Maria e fazer o sinal da Cruz)",
+		"video": 
+			{
+				"descricao": "Santo Expedito, Santo Guerreiro e decidido. ;Por sua conversão, foi capturado, torturado e decapitado pela espada. ;É invocado como o Santo das causas justas e urgentes.",
+				"dataPublicacao": "2020-10-11T12:00:10Z",
+				"videoId": "0G-DpAD4JYM",
+				"videoFoto": "https://img.youtube.com/vi/0G-DpAD4JYM/hqdefault.jpg"
+			},		
+		"bannerOracao": "https://i.ibb.co/5FxkM97/banner-Santo-Expedito-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/syY7WzH/banner-Santo-Expedito.jpg",
+		"banner": "https://i.ibb.co/syY7WzH/banner-Santo-Expedito.jpg",
+		"foto": "https://i.ibb.co/QPvnxyw/foto-Santo-Expedito.jpg",	
+		"celebracao": "Celebração: 19 de abril."			
+	},
+	{
+		"id": 51,
+		"titulo": "Santa Zita",
+		"historia": "Ordem Franciscana Terceira ;Virgem e leiga. Santa Zita nasceu no ano de 1218, em Monsagrati, próximo à Lucca, Itália. ;Pertencia a uma família pobre e camponesa, mas que ensinou a ela a riqueza de Deus. ;Naquela época, a única forma de uma moça não ser um 'peso' para a família pobre era ir trabalhar na casa de uma família rica, e com Santa Zita não foi diferente.",
+		"tituloOracao": "Oração a Santa Zita",
+		"oracao": "Concedei-nos, ó Deus, a sabedoria e o amor que inspirastes à vossa filha Santa Zita, para que, seguindo seu exemplo de fidelidade, nos dediquemos ao vosso serviço, e vos agrademos pela fé e pelas obras. ;Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo. Amém.",
+		"video": 
+			{
+				"descricao": "Santa Zita nos ensinou que não precisamos de um sobrenome, nem de riquezas, nem de posição social para sermos engrandecidos pelo Senhor. ;Ela soube conquistar plenamente o coração de todos por sua vida dedicada à simplicidade. ;Padre Evaldo César de Souza, CSsR",
+				"dataPublicacao": "2020-10-10T12:00:10Z",
+				"videoId": "7fHt_ITa82s",
+				"videoFoto": "https://img.youtube.com/vi/7fHt_ITa82s/hqdefault.jpg"
+			},		
+		"bannerOracao": "https://i.ibb.co/BrrtX8f/banner-Santa-Zita-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/vcWgYRk/banner-Santa-Zita.jpg",
+		"banner": "https://i.ibb.co/vcWgYRk/banner-Santa-Zita.jpg",
+		"foto": "https://i.ibb.co/KrX2mjn/foto-Santa-Zita.jpg",	
+		"celebracao": "Celebração: 27 de abril."			
+	},
+	{
 		"id": 50,
 		"titulo": "São João Evangelista",
 		"historia": "João significa graça de Deus ou Deus é misericordioso, foi o discípulo que Cristo mais amou. ;Nasceu em Betsaisa, filho de Zebedeu e Salomé, irmão de Tiago Maior, era pescador, assim como Pedro e André. ;Foi chamado a ser um dos 12 apóstolos de Cristo, sendo João o mais novo entre eles. ;O Apóstolo virgem, aquele ao qual Jesus tinha uma grande predileção. Devido a isso, João se intitula o discípulo amado. ;Assim como Simão e André, João era discípulo de São João Batista, o Precursor.",
