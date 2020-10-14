@@ -1,5 +1,24 @@
 [
 	{
+		"id": 53,
+		"titulo": "São Cosme e Damião",
+		"historia": "Nascidos na cidade de Egéia, Arábia, os Santos Cosme e Damião eram filhos gêmeos de uma mulher muito religiosa, de nome Teodota. ;Tinham ainda mais três irmãos, Ântimo, Leôncio e Euprépio. ;Especializados na arte da medicina, os gêmeos, unidos à fé e confiança no Senhor, receberam do Espírito Santo tantas graças que curavam todas as doenças, tanto em homens quanto em animais.",
+		"tituloOracao": "Oração a São Cosme e Damião",
+		"oracao": "São Cosme e Damião que, por amor a Deus e ao próximo, vos dedicastes à cura do corpo e da alma de vossos semelhantes. ;Abençoai os médicos e farmacêuticos, medicai o meu corpo na doença e fortalecei a minha alma contra a superstição e todas as práticas do mal. Que vossa inocência e simplicidade acompanhem e protejam todas as nossas crianças. ;Que a alegria da consciência tranquila, que sempre vos acompanhou, repouse também em meu coração. ;Que vossa proteção, São Cosme e Damião, conserve meu coração simples e sincero. ;Senhor nosso Deus, que dissipais as trevas da ignorância com a luz de Cristo, vossa Palavra, fortalecei a fé em nossos corações, para que nenhuma tentação apague a chama acesa por vossa graça. ;Por Nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo. Amém. ;São Cosme e São Damião, rogai por nós! Amém.",
+		"video": 
+			{
+				"descricao": "Especializados na arte da medicina, os gêmeos Cosme e Damião, unidos à fé e confiança no Senhor, receberam do Espírito Santo tantas graças que curavam todas as doenças, tanto em homens quanto em animais.Especializados na arte da medicina, os gêmeos Cosme e Damião, unidos à fé e confiança no Senhor, receberam do Espírito Santo tantas graças que curavam todas as doenças, tanto em homens quanto em animais.",
+				"dataPublicacao": "2020-10-13T12:00:10Z",
+				"videoId": "7KyvbgZBUTg",
+				"videoFoto": "https://img.youtube.com/vi/7KyvbgZBUTg/hqdefault.jpg"
+			},		
+		"bannerOracao": "https://i.ibb.co/ckLn8Hv/banner-Sao-Cosme-Damiao-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/x2KkzKH/banner-Sao-Cosme-Damiao.jpg",
+		"banner": "https://i.ibb.co/x2KkzKH/banner-Sao-Cosme-Damiao.jpg",
+		"foto": "https://i.ibb.co/8z1pLsH/foto-Sao-Cosme-Damiao.jpg",	
+		"celebracao": "Celebração: 26 de setembro."			
+	},
+	{
 		"id": 52,
 		"titulo": "Santo Expedito",
 		"historia": "Santo Expedito era comandante da 12ª Legião Romana, cujo alojamento ficava na cidade de Melitene, na Armênia, no fim do século III. ;A missão dessa legião era a de proteger as fronteiras orientais contra os bárbaros asiáticos. ;Parte do exército comandado por Santo Expedito era formado por cristãos. ",
