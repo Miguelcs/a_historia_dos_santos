@@ -1,45 +1,376 @@
 [
 	{
-		"id": 45,
-		"titulo": "São Gregório Magno",
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "Magno significa Grande. Assim foi a vida deste Grande Papa, São Gregório I, pois foi grande em sabedoria, inteligência e caridade.; São Gregório Magno nasceu no ano de 540, em Roma.; De família nobre e tradicional romana, Gregório foi motivado à vida pública por seus pais, Sílvia e Gordiano.; Gregório, em sua juventude, possuía um grande conhecimento em filosofia.; Apesar de sua grande riqueza material, ele pensava em deixar tudo para se dedicar a religião.; Mas levou um certo tempo até se cumprir essa vocação, pois ele acreditava que era melhor servir a Cristo no mundo laico, ficando muito ocupado com assuntos seculares."
-			   				
-			   	}
-			],
-		"oracao": "Deus eterno e todo-poderoso, quiseste que São Gregório Magno governasse todo o vosso povo, servindo-o pela palavra e pelo exemplo.; Guardai, por suas preces, os pastores de vossa Igreja e as ovelhas a eles confiadas, guiando-as no caminho da salvação.; Por Cristo nosso Senhor. Amém!;",
+		"id": 29,
+		"titulo": "São Boaventura",
+		"historia": "São Boaventura nasceu no ano de 1217, em Bagnoregio, na província italiana de Viterbo. Seu nome era João Fidanza. ;Ainda pequeno, João sofreu uma grave enfermidade. ;Desesperados, seus pais e familiares pediram a intercessão de São Francisco, que havia sido canonizado há pouco tempo. ;Foi haurindo do santo a 'boa ventura', nome que seria adotado mais tarde por de João.",
+		"tituloOracao": "Oração de São Boaventura",
+		"oracao": "Trespassai, dulcíssimo Senhor Jesus, a medula de minha alma com o suave e salutar dardo do vosso amor, com a verdadeira, pura e santíssima caridade apostólica, a  fim de que a minha alma desfaleça e se  desfaça sempre só com o amor e o desejo  de Vos possuir ;que por Vós suspire, e  desfaleça por achar-se nos átrios da  vossa casa ;deseje separar-se do corpo para se unir a Vós. ;Fazei que minha alma tenha fome de Vós, Pão dos anjos, Alimento das almas santas, Pão nosso de cada dia, cheio de força, de toda a doçura e sabor, e de todo o suave deleite. ;Ó Jesus, a quem os anjos desejam contemplar, tenha sempre o meu coração fome de Vós, e o interior de minha alma transborde com a doçura do vosso sabor ;tenha sempre sede de Vós, fonte de vida, manancial de sabedoria e de ciência, rio de luz de luz eterna, torrente de delícias, abundância da Casa de Deus ;que Vos deseje, Vos procure, Vos encontre ;que para Vós caminhe e a Vós chegue ;que em Vós pense, de Vós fale, e todas as minhas ações encaminhe para a honra e glória do vosso nome, com humildade e discrição, com amor e deleite, com facilidade e afeto, com perseverança até o fim ;para que só Vós sejais sempre minha esperança, meu gozo, meu descanso e minha tranqüilidade, minha paz, minha suavidade, meu perfume, minha doçura, minha comida, meu alimento, meu refúgio, meu auxílio, minha sabedoria, minha herança, minha posse, meu tesouro, no qual estejam sempre fixos e firme e inabalavelmente arraigados a minha alma e o meu coração. Amém.",
 		"video": 
 			{
-				"descricao": "Grande Papa e Doutor da Igreja, foi grande em sabedoria, inteligência e caridade. Instituiu o canto das litanias (súplicas) e promoveu o canto litúrgico, conhecido como canto gregoriano.",
-				"dataPublicacao": "2020-09-20T12:00:10Z",
-				"videoUrl": "slrJ6I7q5os",
-				"videoFoto": "https://img.youtube.com/vi/slrJ6I7q5os/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Sao_Gregorio_Magno.jpg?alt=media&token=2f47e608-139e-49f8-b1e7-3c29a4752868",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Sao_Gregorio_Magno.png?alt=media&token=3aa154fb-3aea-40ed-8cab-7e3b8858417e"		
-			}
+				"descricao": "São Boaventura, Doutor da Igreja, é celebrado no dia 15 de julho.",
+				"dataPublicacao": "2020-04-28T12:00:10Z",
+				"videoId": "kuoNfRb2C3o"
+			},
+		"bannerSanto": "https://i.ibb.co/4ST5XKT/banner-Sao-Boaventura.jpg",
+		"bannerOracao": "https://i.ibb.co/MgmpZSQ/banner-Sao-Boaventura-Oracao.jpg",
+		"foto": "https://i.ibb.co/jZBJzy1/foto-Sao-Boaventura.jpg",
+		"celebracao": "Celebração: 15 de julho."	
 	},
 	{
-		"id": 44,
-		"titulo": "Santa Edwiges",	
-		"historia": 
-			[
-				{
-					"titulo": "História",
-					"descricao": "Mulher cheia de amor, carinho e compaixão pelos pobres, foi uma mulher que marcou seu tempo.; Santa Edwiges nasceu no ano de 1174. Filha de Bertoldo de Andech, Marquês de Meran e Conde do Tirol, duque da Caríntia e da Ístria, e de Inês, filha do Conde de Rottech.; A pequena duquesa foi batizada na Capela do Palácio.; Loirinha, de faces rosadas, estava sempre alegre e risonha.; Sua mãe a ensinava a rezar desde pequena. Junto com seus irmãos, Edwiges ouviu as histórias dos santos e como eles deram suas vidas para defender a fé em Jesus Cristo.; Aos 6 anos, Edwiges foi internada em um mosteiro para ser educada, como era o costume da época.; O mosteiro de Kicing, onde uma de suas irmãs seria abadessa.;"	
-				}
-			],
-		"oracao": "Protetora dos pobres e endividados; A Vós, Santa Edwiges, que fostes na terra o amparo dos pobres e desvalidos e socorro dos endividados, no céu onde gozais o eterno prêmio de caridade que praticastes, confiante vo-lo peço:; sede a minha advogada para que eu obtenha a graça de Deus que necessito, e por fim a graça suprema da salvação eterna.; Assim seja! Amém.; Santa Edwiges, rogai por nós, pelos nossos irmãos prisioneiros e por todos os que passam dificuldades financeiras. Amém.;",
+		"id": 28,
+		"titulo": "São Jorge",
+		"historia": "São Jorge nasceu na Capadócia, por volta do século III. Pouco se sabe sobre seus pais, apenas que eram cristãos. ;Jorge pertencia ao exército romano. Nesta época, o império passou a ser governado por Diocleciano, que havia dado início à perseguição aos cristãos. ;Jorge, apesar de ser do exército, não queria ser perseguidor e opressor aos cristãos, pois ele era cristão e amava Jesus Cristo.",
+		"tituloOracao": "Oração a São Jorge",
+		"oracao": "Ó São Jorge, meu Santo Guerreiro,invencível na fé em Deus, que trazeis em vosso rosto a esperança e confiança, abre meus caminhos. ;Eu andarei vestido e armado com vossas armas para que meus inimigos tendo pés não me alcancem, tendo mãos não peguem, tendo olhos não me enxerguem e nem pensamentos possam ter para me fazerem mal. ;Armas de fogo o meu corpo não alcançarão, facas e lanças se quebrarão sem ao meu corpo chegar, cordas e correntes se arrebentarão sem o meu corpo amarrar. ;Glorioso São Jorge, em nome de Deus, estendei vosso escudo e vossas poderosas armas, defendendo-me com vossa força e grandeza. ;Ajudai-me a superar todo desânimo e a alcançar a graça que vos peço (pedido). ;Dai-me coragem e esperança, fortalecei minha fé e auxiliai-me nesta necessidade. ;São Jorge, rogai por nós! Amém.",
 		"video": 
-			{				
-				"descricao": "Protetora dos pobres e endividados. Fundou diversos mosteiros, atraindo à Silésia religiosos de várias ordens e congregações, incluindo as ordens franciscanos e cistercienses, levando a região de novas formas de espiritualidade.",
-				"dataPublicacao": "2020-09-13T12:00:10Z",
-				"videoUrl": "bwLAzhtMt8Q",
-				"videoFoto": "https://img.youtube.com/vi/bwLAzhtMt8Q/hqdefault.jpg",
-				"banner": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/banner_Santa_Edwiges.jpg?alt=media&token=b605e7a7-4ae3-428c-8eaf-6e86c05d7d9f",
-				"foto": "https://firebasestorage.googleapis.com/v0/b/a-historia-dos-santos-f4465.appspot.com/o/foto_Santa_Edwiges.jpg?alt=media&token=43a1d2c3-9fd2-4d56-98cd-32439754f81e"		
-			}
+			{
+				"descricao": "São Jorge Guerreiro, padroeiro do Rio de Janeiro e da Inglaterra. Celebrado no dia 23 de Abril.",
+				"dataPublicacao": "2020-04-23T12:00:10Z",
+				"videoId": "yltRPuQpaqo"
+			},
+		"bannerSanto": "https://i.ibb.co/HXqPK9F/banner-Sao-Jorge.jpg",
+		"bannerOracao": "https://i.ibb.co/3d99P0s/banner-Sao-Jorge-Oracao.jpg",
+		"foto": "https://i.ibb.co/1GW9q7N/foto-Sao-Jorge.jpg",
+		"celebracao": "Celebração: 23 de abril."	
+	},
+	{
+		"id": 27,
+		"titulo": "Santo Anjo da Guarda",
+		"historia": "A existência dos anjos é uma verdade de fé que a Igreja Católica professa, baseada nas Sagradas Escrituras. ;Os anjos estão presentes tanto no Antigo quanto no Novo Testamento. ;Os Santos Anjos da Guarda são celebrados no dia 2 de outubro. ",
+		"tituloOracao": "Oração ao Santo Anjo da Guarda",
+		"oracao": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa e ilumina, amém!",
+		"video": 
+			{
+				"descricao": "Santo Anjo da Guarda, Nosso amigo protetor, é celebrado no dia 2 de Outubro.",
+				"dataPublicacao": "2020-04-19T12:00:10Z",
+				"videoId": "UVoTjb-_ZQc"
+			},
+		"bannerSanto": "https://i.ibb.co/f0YYrp2/banner-Santo-Anjo-da-Guarda.jpg",
+		"bannerOracao": "https://i.ibb.co/18f87KH/banner-Santo-Anjo-da-Guarda-Oracao.jpg",
+		"foto": "https://i.ibb.co/znm9HwM/foto-Santo-Anjo-da-Guarda.jpg",
+		"celebracao": "Celebração: 02 de outubro."	
+	},
+	{
+		"id": 26,
+		"titulo": "São Benedito",
+		"historia": "São Benedito nasceu na ilha da Sicília, Itália, no ano de 1524. Era filho de escravos que vieram da Etiópia. Os pais de Benedito não queriam ter filhos, porque se tornariam escravos. ;Quando soube disso, o senhor deles, que gostava muito de seus serviços, prometeu que se eles quisessem ter um filho, a criança teria total liberdade. ;Após o nascimento, como prometido, Benedito ganhou sua liberdade.",
+		"tituloOracao": "Oração a São Benedito",
+		"oracao": "Ó São Benedito, modelo admirável de caridade e humildade, por vosso ardente amor à Maria Santíssima que colocou seu divino Filho em vossos braços, por aquela suave doçura com que Jesus encheu o vosso coração, eu vos suplico: ;Socorrei-me em todas as minhas necessidades e alcançai-me de modo especial, a graça que neste momento vos peço ;(Fazer o pedido). ;Ó São Benedito, intercedei por mim que a vós recorro confiante. Vós que fostes tão maravilhoso e pródigo no atendimento dos vossos devotos, atendei a minha súplica e concedei-me o que vos peço. Amém. ;Rezar 1 Pai Nosso, 1 Ave Maria e fazer o Sinal da Cruz",
+		"video": 
+			{
+				"descricao": "São Benedito é celebrado no dia 5 de outubro. No Brasil, é o padroeiro da cozinha, das cozinheiras e dos cozinheiros.",
+				"dataPublicacao": "2020-04-18T12:00:10Z",
+				"videoId": "chYmNWHS-YI"
+			},
+		"bannerSanto": "https://i.ibb.co/7YKyL2k/banner-Sao-Benedito.jpg",
+		"bannerOracao": "https://i.ibb.co/sR38MTz/banner-Sao-Benedito-Oracao.jpg",
+		"foto": "https://i.ibb.co/jrM3sB1/foto-Sao-Benedito-Oracao.jpg",
+		"celebracao": "Celebração: 05 de outubro."	
+	},
+	{
+		"id": 25,
+		"titulo": "Nossa Senhora Aparecida",
+		"historia": "A história de Nossa Senhora da Conceição Aparecida iniciou-se no ano de 1717, na Vila de Santo Antônio de Guaratinguetá. ;O governador da Província de São Paulo e de Minas Gerais, Dom Pedro de Almeida e Portugal, o Conde de Assumar, estava a caminho de Vila Rica, conhecida hoje como Ouro Preto, MG. ;Durante seu trajeto, o governador passaria pela Vila de Guaratinguetá. ;A população organizou uma festa para o governador e sua comitiva e para poderem preparar a comida, eles convocaram três pescadores para trazer o alimento.",
+		"tituloOracao": "Oração Jubilar: 300 Anos de Bênçãos",
+		"oracao": "Senhora Aparecida, Mãe Padroeira, em vossa singela imagem, há 300 anosaparecestes nas redes dos três benditos pescadores no Rio Paraíba do Sul. ;Como sinal vindo do céu, em vossa cor, vós nos dizeis que para o Pai não existem escravos, apenas filhos muito amados. ;Diante de vós, embaixadora de Deus, rompem-se as correntes da escravidão! Assim, daquelas redes, passastes para o coração e a vida de milhões de outros filhos e filhas vossos. ;Para todos tendes sido bênção: peixes em abundância, famílias recuperadas, saúde alcançada, corações reconciliados, vida cristã reassumida. ;Nós vos agradecemos tanto carinho, tanto cuidado! Hoje, em vosso Santuário e em vossa visita peregrina, nós vos acolhemos como mãe, e de vossas mãos recebemos o fruto de vossa missão entre nós: o vosso Filho Jesus, nosso Salvador. ;Recordai-nos o poder, a força das mãos postas em prece! ;Ensinai-nos a viver vosso jubileu com gratidão e fidelidade! ;Fazei de nós vossos filhos e filhas, irmãos e irmãs de nosso Irmão Primogênito, Jesus Cristo, Amém! ",
+		"video": 
+			{
+				"descricao": "Nossa Senhora da Conceição Aparecida, Padroeira do Brasil, Celebrada no dia 12 de Outubro",
+				"dataPublicacao": "2020-04-18T12:00:10Z",
+				"videoId": "O_RUkFYlJPo"
+			},
+		"bannerSanto": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
+		"bannerOracao": "https://i.ibb.co/NFgX1N3/banner-Nossa-Senhora-Aparecida-Oracao.jpg",
+		"foto": "https://i.ibb.co/b5KpJLx/foto-Nossa-Senhora-Aparecida.jpg",
+		"celebracao": "Celebração: 12 de outubro."	
+	},
+	{
+		"id": 24,
+		"titulo": "Nossa Senhora da Piedade",
+		"historia": "Nossa Senhora da Piedade é um dos títulos da Virgem Maria, inspirado em Nossa Senhora das Dores. ;Em sua representação, Nossa Senhora tem seu Filho Jesus morto em seus braços. ;Essa imagem retrata o sofrimento de Nossa Senhora logo após a morte de Jesus na cruz.",
+		"tituloOracao": "Oração a Nossa Senhora da Piedade",
+		"oracao": "Santíssima e Imaculada Virgem Maria, Mãe da Piedade, Padroeira e Senhora nossa, recorro à vossa proteção e a vós consagro minha vida de discípulo(a) missionário(a). ;Em vosso coração, Mãe Compassiva, deposito agora, confiante, minhas súplicas e necessidades. ;(silêncio para fazer pedido de graça) ;Alcançai-me o que vos peço, guardai-me na paz, livre de perigos e ciladas, comprometido com a justiça, exemplar na solidariedade, para que o mundo creia e se abra ao amor de Deus, Pai, Filho e Espírito Santo. ;Amém!",
+		"video": 
+			{
+				"descricao": "Nossa Senhora da Piedade - Padroeira de Minas Gerais, celebrada no dia 15 de Setembro, junta à Nossa Senhora das Dores.",
+				"dataPublicacao": "2020-04-05T12:00:10Z",
+				"videoId": "rYVQkM5L0UM"
+			},
+		"bannerSanto": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
+		"bannerOracao": "https://i.ibb.co/hf1bMYY/banner-Nossa-Senhora-Piedade-Oracao.jpg",
+		"foto": "https://i.ibb.co/RCV4GJj/foto-Nossa-Senhora-Piedade.jpg",
+		"celebracao": "Celebração: 15 de setembro."	
+	},
+	{
+		"id": 23,
+		"titulo": "Dom Bosco",
+		"historia": "São João Bosco ou Dom Bosco, nasceu em uma pequena vila de nome Becchi, que pertencia ao município e à paróquia de Castelnuovo, Itália, em 16 de agosto de 1815. ;Era filho de Francisco Bosco e de Margarida Occhiena e tinha dois irmãos, Antônio, filho do primeiro casamento de seu pai, e José. ;Com apenas dois anos de idade ele sofreu a perda de seu pai.",
+		"tituloOracao": "Oração à São João Bosco",
+		"oracao": "Necessitando de especial auxílio, com grande confiança recorro a vós, ó São João Bosco. ;Preciso não só de graças espirituais, mas também de graças temporais, e principalmente ;(pequena pausa para pedir a graça que se deseja). ;Vós, que tivestes tanta devoção a Jesus Sacramentado e a Maria Auxiliadora, e que tanto vos compadecestes das desventuras humanas, alcançai-me de Jesus e de sua celeste Mãe a graça que vos peço, e mais: resignação inteira à vontade de Deus. ;Rezar: Pai Nosso, Ave-Maria e Glória. ;São João Bosco, rogai por nós!",
+		"video": 
+			{
+				"descricao": "Dom Bosco - O Pai e Mestre da Juventude, Fundador da Congregação Salesiana, celebrado no dia 31 de Janeiro.",
+				"dataPublicacao": "2020-03-28T12:00:10Z",
+				"videoId": "4oybUvfCKRo"
+			},
+		"bannerSanto": "https://i.ibb.co/ZL1gNrS/banner-Dom-Bosco.jpg",
+		"bannerOracao": "https://i.ibb.co/6yrKpNz/banner-Dom-Bosco-Oracao.jpg",
+		"foto": "https://i.ibb.co/vQBdrNc/foto-Dom-Bosco.jpg",
+		"celebracao": "Celebração: 31 de janeiro."	
+	},
+	{
+		"id": 22,
+		"titulo": "Santas Perpétua e Felicidade",
+		"historia": "Perpétua era uma jovem de aproximadamente 22 anos, filha de nobres de Cartago, na África. Ela era muito querida pela população e tinha um filho de poucos meses. ;Felicidade tinha aproximadamente 20 anos, era escrava e amiga de Perpétua. Eram cristãs em uma região dominada pelo Império Romano, que perseguia os cristãos.",
+		"tituloOracao": "Oração as Santas Perpétua e Felicidade",
+		"oracao": "Deus todo-poderoso, que destes às mártires Santas Perpétua e Felicidade a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como elas não hesitaram em morrer por vosso amor. ;Por Cristo nosso Senhor. Amém! ;Santas Perpétua e Felicidade, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Santas Perpétua e Felicidade, mulheres guerreiras e mártires da fé, celebradas no dia 7 de Março.",
+				"dataPublicacao": "2020-03-22T12:00:10Z",
+				"videoId": "b8wRHJrcL2c"
+			},
+		"bannerSanto": "https://i.ibb.co/1rfxCXB/banner-Santas-Perpetua-e-Felicidade.jpg",
+		"bannerOracao": "https://i.ibb.co/s9SqfM9/banner-Santas-Perpetua-e-Felicidade-Oracao.jpg",
+		"foto": "https://i.ibb.co/CQV2PDY/foto-Santas-Perpetua-e-Felicidade.jpg",
+		"celebracao": "Celebração: 07 de março."	
+	},
+	{
+		"id": 21,
+		"titulo": "São Brás",
+		"historia": "Deus todo-poderoso, que destes às mártires Santas Perpétua e Felicidade a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como elas não hesitaram em morrer por vosso amor. ;Por Cristo nosso Senhor. Amém! ;Santas Perpétua e Felicidade, rogai por nós.",
+		"tituloOracao": "Oração as Santas Perpétua e Felicidade",
+		"oracao": "Ó glorioso São Brás, que restituístes, com uma breve oração, a perfeita saúde de um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar! ;Obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio em todos os males da garganta. ;Conservai a nossa garganta sã e perfeita, para que possamos falar corretamente e, assim, proclamar e cantar os louvores de Deus. Amém. ;Por intercessão de São Brás, bispo e mártir, livre-te Deus do mal da garganta e de qualquer outra doença. ;Em nome do Pai, do Filho e do Espírito Santo. Amém!",
+		"video": 
+			{
+				"descricao": "São Brás, protetor contra os males da garganta. É celebrado no dia 3 de Fevereiro",
+				"dataPublicacao": "2020-03-11T12:00:10Z",
+				"videoId": "ZY_TqOIjV2g"
+			},
+		"bannerSanto": "https://i.ibb.co/2ZmQbzh/banner-Sao-Bras.jpg",
+		"bannerOracao": "https://i.ibb.co/Pw1FYXZ/banner-Sao-Bras-Oracao.jpg",
+		"foto": "https://i.ibb.co/HXcRD7D/foto-Sao-Bras.jpg",
+		"celebracao": "Celebração: 03 de fevereiro."	
+	},
+	{
+		"id": 20,
+		"titulo": "Santo Ambrósio",
+		"historia": "Deus todo-poderoso, que destes às mártires Santas Perpétua e Felicidade a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como elas não hesitaram em morrer por vosso amor. ;Por Cristo nosso Senhor. Amém! ;Santas Perpétua e Felicidade, rogai por nós.",
+		"tituloOracao": "Oração as Santas Perpétua e Felicidade",
+		"oracao": "Ó glorioso São Brás, que restituístes, com uma breve oração, a perfeita saúde de um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar! ;Obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio em todos os males da garganta. ;Conservai a nossa garganta sã e perfeita, para que possamos falar corretamente e, assim, proclamar e cantar os louvores de Deus. Amém. ;Por intercessão de São Brás, bispo e mártir, livre-te Deus do mal da garganta e de qualquer outra doença. ;Em nome do Pai, do Filho e do Espírito Santo. Amém!",
+		"video": 
+			{
+				"descricao": "Santo Ambrósio, Bispo e Doutor da Igreja, é celebrado no dia 7 de Dezembro",
+				"dataPublicacao": "2020-02-16T12:00:10Z",
+				"videoId": "7wX_OT0yLpo"
+			},
+		"bannerSanto": "https://i.ibb.co/r0fZSJw/banner-Santo-Ambrosio.jpg",
+		"bannerOracao": "https://i.ibb.co/XCqcbMK/banner-Santo-Ambrosio-Oracao.jpg",
+		"foto": "https://i.ibb.co/yfhzvvp/foto-Santo-Ambrosio.jpg",
+		"celebracao": "Celebração: 07 de dezembro."	
+	},
+	{
+		"id": 19,
+		"titulo": "Nossa Senhora dos Aflitos",
+		"historia": "Nossa Senhora dos Aflitos, também conhecida como Nossa Senhora Consoladora ou Nossa Senhora Consolata, passou a ser venerada em Turim, Itália, por volta do século V.",
+		"tituloOracao": "Oração a Nossa Senhora Consolata",
+		"oracao": "Oprimido pelas tribulações, e reconhecendo minhas falhas e negligências, a vós recorro, Virgem Maria. ;Vós sois no céu li Rainha dos Anjos e dos Santos, mas aqui na terra quereis se a Mãe das Consolações. Vós sois a Consolata e eu vosso filho. Quero ser semelhante a vós, quero ser consolado. ;Não peço honras, prazeres ou riquezas, só vos peço consolação. ;Mãe dulcíssima, vós sabeis o modo; conheceis o caminho para ouvir-me, por isso confio plenamente em vós! ;Dizei uma palavra a Jesus que, com tanto amor e carinho, trazeis em vossos braços, e provarei a alegria do conforto. ;Consolado por vós e pelo vosso filho, saberei sofrer em paz as minhas penas; ser-me-á mais suave a dor e mais serena a morte. ;E quando chegar junto aos vosso trono, cantarei, eternamente, as vossas misericórdias. Assim seja. Amém.",
+		"video": 
+			{
+				"descricao": "Rogai por nós, Virgem Consoladora! Nossa Senhora dos Aflitos é celebrada no dia 20 de Junho.",
+				"dataPublicacao": "2020-02-08T12:00:10Z",
+				"videoId": "d4hRW0vYuGw"
+			},
+		"bannerSanto": "https://i.ibb.co/jWFQG2x/banner-Nossa-Senhora-dos-Aflitos.jpg",
+		"bannerOracao": "https://i.ibb.co/8PxnNQc/banner-Nossa-Senhora-dos-Aflitos-Oracao.jpg",
+		"foto": "https://i.ibb.co/RNJ2HRR/foto-Nossa-Senhora-dos-Aflitos.jpg",
+		"celebracao": "Celebração: 20 de junho."	
+	},
+	{
+		"id": 18,
+		"titulo": "Nossa Senhora do Trabalho",
+		"historia": "A primeira festa em honra à Nossa Senhora do Trabalho foi realizada no dia 1º de Maio de 1901, na Itália. ;A imagem da mãe abençoando um agricultor e um carpinteiro foi idealizada por São Luís Guanella, fundador da Congregação das Filhas de Santa Maria da Providência e dos Servos da Caridade e principal propagador da devoção a Nossa Senhora do Trabalho.",
+		"tituloOracao": "Oração a Nossa Senhora do Trabalho",
+		"oracao": "Salve Virgem Maria, nossa querida mãe e padroeira! Como filhos, nos dirigimos a Vós com toda a confiança, implorando a Vossa benção, de modo especial pelos nossos trabalhadores, por todos aqueles que labutam no dia-a-dia para conseguir o sustento da própria família. ;Concedei-nos, nós Vos pedimos, que este labor seja dignificante, de modo a favorecer vossos filhos. ;Que haja muita consciência da nobreza do trabalho e que nenhum de nossos irmãos seja explorado pela ganância de riquezas. ;Abençoai, ó Virgem do Trabalho, nossa sociedade, nossas famílias e a cada um de nós. ;Que saibamos sempre honrar-vos, neste Vosso Santuário, como filhos devotos e obedientes. ;Intercedei, junto ao Vosso Filho Jesus, concedendo-nos autênticas vocações sacerdotais e religiosas e a perseverança final. Assim seja. Amém!",
+		"video": 
+			{
+				"descricao": "Nossa Senhora do Trabalho, abençoai nossos trabalhadores. Amém.",
+				"dataPublicacao": "2020-01-27T12:00:10Z",
+				"videoId": "Um4nCLIJLfg"
+			},
+		"bannerSanto": "https://i.ibb.co/h9YB1zg/banner-Nossa-Senhora-do-Trabalho.jpg",
+		"bannerOracao": "https://i.ibb.co/J2NNQZ6/banner-Nossa-Senhora-do-Trabalho-Oracao.jpg",
+		"foto": "https://i.ibb.co/r7F8jD7/foto-Nossa-Senhora-do-Trabalho-Oracao.jpg",
+		"celebracao": "Celebração: 05 de maio."	
+	},
+	{
+		"id": 17,
+		"titulo": "São Lazaro",
+		"historia": "São Lázaro viveu perto de Jerusalém, em uma aldeia chamada Betânia, que ficava na Judéia. ;Tinha duas irmãs, Marta e Maria, que são citadas no Evangelho. Como vemos nas Sagradas Escrituras, Lázaro era amigo de Jesus e sua casa serviu diversas vezes para abrigar o Mestre e seus apóstolos.",
+		"tituloOracao": "Oração a São Lázaro",
+		"oracao": "Deus, nosso Pai, Jesus é a ressurreição e a vida. ;Para os que têm fé, a morte é apenas uma despedida, uma preparação para um novo encontro, para a vida em plenitude. ;Quando todas as esperanças se achavam perdidas, Jesus devolveu a Lázaro, seu amigo, a vida, libertando-o de todas as amarras da morte. ;Senhor, fazei-nos compreender o grande mistério da vossa paixão, morte e ressurreição. ;Em vós, temos a certeza da ressurreição.Por isso libertai-nos de todo o medo e dos temores vãos, que diminuem a nossa vida e não nos deixam viver em plenitude... ;Que hoje possamos ouvir, no nosso íntimo,as palavras de ordem de vosso Filho Jesus: Lázaro, levanta-te e caminha!",
+		"video": 
+			{
+				"descricao": "São Lázaro, protetor dos leprosos dos enfermos, desamparados e dos animais doentes.",
+				"dataPublicacao": "2020-01-12T12:00:10Z",
+				"videoId": "ibB4d3wSsHc"
+			},
+		"bannerSanto": "https://i.ibb.co/tsdJj44/banner-Sao-Lazaro.jpg",
+		"bannerOracao": "https://i.ibb.co/4pD62mw/banner-Sao-Lazaro-Oracao.jpg",
+		"foto": "https://i.ibb.co/RggQ03H/foto-Sao-Lazaro.jpg",
+		"celebracao": "Celebração: 17 de dezembro."	
+	},
+	{
+		"id": 16,
+		"titulo": "Santo Inácio de Loyola",
+		"historia": "Santo Inácio de Loyola nasceu no ano de 1491, em Loyola, na Espanha. Pertencia a uma família nobre, religiosa e numerosa. ;Aos 14 anos, Inácio recebeu a tonsura (Ato de realizar um corte rente de parte do cabelo, geralmente de forma arredondada, realizado numa cerimônia religiosa pelo bispo, ao conferir ao ordinando o primeiro grau no clero, chamado também 'prima tonsura'. ;O significado original era o de renúncia às vaidades mundanas.Usado ainda hoje pela Ordem Franciscana).",
+		"tituloOracao": "Oração de Santo Inácio de Loyola",
+		"oracao": "Tomai, Senhor, e recebei Toda a minha liberdade, a minha memória também. ;O meu entendimento e toda a minha vontade Tudo o que tenho e possuo, vós me destes com amor. ;Todos os dons que me destes, com gratidão vos devolvo. Disponde deles, Senhor, segundo a vossa vontade.Dai-me somente, o vosso amor, vossa graçaIsto me basta, nada mais quero pedir.",
+		"video": 
+			{
+				"descricao": "Santo Inácio de Loyola - Fundador da Ordem dos Jesuítas",
+				"dataPublicacao": "2019-12-31T12:00:10Z",
+				"videoId": "wFqufV3ZajA"
+			},
+		"bannerSanto": "https://i.ibb.co/vV0PdJn/banner-Santo-Inacio-de-Loyola.jpg",
+		"bannerOracao": "https://i.ibb.co/2hqQbwq/banner-Santo-Inacio-de-Loyola-Oracao.jpg",
+		"foto": "https://i.ibb.co/HD4yyX1/foto-Santo-Inacio-de-Loyola.jpg",
+		"celebracao": "Celebração: 31 de julho."	
+	},
+	{
+		"id": 15,
+		"titulo": "Nossa Senhora Desatadora dos Nós",
+		"historia": "A história de Nossa Senhora Desatadora dos Nós teve origem na Alemanha, no início do Século XVIII entre os anos de 1699 e 1700. ;O cônego da Igreja de Sankt Peter am Perlach, Augsburgo, havia feito uma encomenda de um quadro de Nossa Senhora ao artista Johann Melchior Georg Schmidtner, em forma de agradecimento por uma graça alcançada.",
+		"tituloOracao": "Oração a Nossa Senhora Desatadora dos Nós",
+		"oracao": "Em nome do Pai, do Filho e do Espírito Santo ;Santa Maria Mãe de Deus, Virgem cheia de graça, vós sois a nossa desatadora dos nós. Com as vossas mãos cheias do amor de Deus, vós desatais os obstáculos de nosso caminho,como nós que se desfazem e se tornam uma fita reta do amor do Pai. ;Desatai, Virgem e Mãe, Santa e admirável, todos os nós que criamos por vontade própria,e todos os nós que impedem o nosso caminho. ;Lançai vossos olhos de luz sobre eles, para que todos os nós se desatem e, para que, cheios de gratidão, possamos, por vossas mãos, solucionar aquilo que nos parece impossível. Amém.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora Desatadora dos Nós é comemorada no dia 15 de Agosto.",
+				"dataPublicacao": "2019-12-18T12:00:10Z",
+				"videoId": "ZsSR9yNYVl0"
+			},
+		"bannerSanto": "https://i.ibb.co/tZqwNz6/banner-Nossa-Senhora-Desatadora-dos-Nos.jpg",
+		"bannerOracao": "https://i.ibb.co/7nstKdw/banner-Nossa-Senhora-Desatadora-dos-Nos-Oracao.jpg",
+		"foto": "https://i.ibb.co/kBCjL6V/foto-Nossa-Senhora-Desatadora-dos-Nos.jpg",
+		"celebracao": "Celebração: 15 de agosto."	
+	},
+	{
+		"id": 14,
+		"titulo": "Nossa Senhora das Dores",
+		"historia": "O título de Nossa Senhora das Dores refere-se as sete dores sofridas por Maria em sua vida terrena, suportando tamanha perda e superando provações, sabendo que tudo aquilo era por um bem maior. ;A veneração à Nossa Senhora das Dores teve inicio em 1221 no Mosteiro de Schonau, hoje pertencente a Alemanha. Mais tarde, em 15 de Setembro 1239, na Itália, começou a celebração em homenagem a este título da Santa, na data como hoje conhecemos.",
+		"tituloOracao": "Oração a Nossa Senhora das Dores",
+		"oracao": "Virgem Dolorosíssima, seríamos ingratos se não nos esforçássemos em promover a memória e o culto de vossas Dores particulares, graças para uma sincera penitência, oportunos auxílios e socorros em todas as necessidades e perigos. ;Alcançai-nos Senhora, de Vosso Divino Filho, pelos mérito de Vossas Dores e lágrimas, a graça...(pedir a graça). Amém.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora das Dores, como Mãe, viveu as profundas dores do seu coração e conhece as dores de seus filhos!",
+				"dataPublicacao": "2019-12-14T12:00:10Z",
+				"videoId": "VjlmtxodC14"
+			},
+		"bannerSanto": "https://i.ibb.co/tQVVQGM/banner-Nossa-Senhora-das-Dores.jpg",
+		"bannerOracao": "https://i.ibb.co/hR8V3n3/banner-Nossa-Senhora-das-Dores-Oracao.jpg",
+		"foto": "https://i.ibb.co/YyxwM5q/foto-Nossa-Senhora-das-Dores.jpg",
+		"celebracao": "Celebração: 15 de setembro."	
+	},
+	{
+		"id": 13,
+		"titulo": "Santa Escolástica",
+		"historia": "Santa Escolástica nasceu em Núrsia, região de Umbria na Itália, no ano de 480. Era irmã gêmea de São Bento e juntos receberam uma ótima formação cristã. Desde pequena, Escolástica consagrou-se totalmente a Deus, fazendo voto de castidade. ;Escolástica era uma mulher cheia de piedade e muito virtuosa, de muita oração. Acompanhava seu irmão através de intercessão.",
+		"tituloOracao": "Oração a Santa Escolástica",
+		"oracao": "Ó Deus, Pai de misericórdia, Santa Escolástica mostrou que nossa missão é servir, é carregar os fardos uns dos outros, é promover a harmonia e a paz entre todos os homens. ;Dá-nos compreender em profundidade esses Teus desígnios, para que nos aproximemos de Ti, para que Te reconheçamos nos irmãos e para que Te louvemos e bendigamos sem cessar. Amém. ;Santa Escolástica, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Santa Escolástica, Fundadora da Ordem das Beneditinas. É celebrada no dia 10 de Fevereiro.",
+				"dataPublicacao": "2019-12-04T12:00:10Z",
+				"videoId": "PDxyrlJAVi4"
+			},
+		"bannerSanto": "https://i.ibb.co/fGnPDn2/banner-Santa-Escolastica.jpg",
+		"bannerOracao": "https://i.ibb.co/JtsHpxt/banner-Santa-Escolastica-Oracao.jpg",
+		"foto": "https://i.ibb.co/fCfXTn6/foto-Santa-Escolastica.jpg",
+		"celebracao": "Celebração: 10 de Fevereiro."	
+	},
+	{
+		"id": 12,
+		"titulo": "Nossa Senhora de Guadalupe",
+		"historia": "A primeira aparição de Nossa Senhora de Guadalupe aconteceu no ano de 1531, no México. ;Num sábado, a Virgem Maria apareceu a um índio chamado Juan Diego, que estava a caminho da cidade do México, onde iria participar da catequese e da Santa Missa.",
+		"tituloOracao": "Oração a Nossa Senhora de Guadalupe",
+		"oracao": "Perfeita, sempre Virgem Santa Maria, Mãe do Verdadeiro Deus, por quem se vive. Tu que na verdade és nossa Mãe Compassiva, te buscamos e te clamamos. ;Escuta com piedade nosso pranto, nossas tristezas.Cura nossas penas, nossas misérias e dores. ;Tu que és nossa doce e amorosa Mãe, acolhe-nos no aconchego do teu manto, no carinho de teus braços. ;Que nada nos aflija nem perturbe nosso coração. Mostra-nos e manifesta-nos a teu amado Filho, para que Nele e com Ele encontremosnossa salvação e a salvação do mundo.Santíssima Virgem Maria de Guadalupe, Faz-nos mensageiros teus,mensageiros da Palavra e da vontade de Deus.Amém. ;Nossa Senhora de Guadalupe, rogai por nós!",
+		"video": 
+			{
+				"descricao": "Nossa Senhora de Guadalupe. Padroeira de toda a América. 'Acaso não o escolhi para mim e o tomei aos meus cuidados?'",
+				"dataPublicacao": "2019-11-30T12:00:10Z",
+				"videoId": "9ocmamUHxH4"
+			},
+		"bannerSanto": "https://i.ibb.co/M8TptcZ/banner-Nossa-Senhora-de-Guadalupe.jpg",
+		"bannerOracao": "https://i.ibb.co/sRZGrZs/banner-Nossa-Senhora-de-Guadalupe-Oracao.jpg",
+		"foto": "https://i.ibb.co/gRMYf1p/foto-Nossa-Senhora-de-Guadalupe.jpg",
+		"celebracao": "Celebração: 12 de Dezembro."	
+	},
+	{
+		"id": 11,
+		"titulo": "Nossa Senhora da Cabeça",
+		"historia": "A história de Nossa Senhora da Cabeça teve início em 12 de Agosto de 1227, na Serra Morena, Andaluzia, na Espanha. ;No pico da Cabeça, localizado no ponto mais alta da Serra Morena vivia um soldado das cruzadas chamado Juan Alonso de Rivas, natural de Granada, que havia se tornado pastor de ovelhas por ter perdido seu braço durante a guerra. ;Todas as vezes que ia para seu trabalho, Juan rezava pedindo a proteção de Nossa Senhora para a sua vida e por sua família.",
+		"tituloOracao": "Oração a Nossa Senhora da Cabeça",
+		"oracao": "Eis-me aqui, prostrado aos vossos pés, ó mãe do céu e Senhora Nossa! ;Tocai o meu coração a fim de que deteste sempre o pecado e ame a vida austera e cristã que exiges dos vossos devotos. ;Tende piedade das minhas misérias espirituais! ;E, ó Mãe terníssima, não vos esqueçais também das misérias que afligem o meu corpo e enchem de amargura a minha vida terrena. ;Dai-me saúde e forças para vencer todas as dificuldades que me opõe o mundo. Não permitais que a minha pobre cabeça seja atormentada por males que me perturbem a tranquilidade da vida. ;Pelos merecimentos do vosso divino Filho, Jesus Cristo, e pelo amor a que Ele consagrais, alcançai-me a graça que agora vos peço ;(pede-se a graça que se deseja obter). ;Aí tendes, ó Mãe poderosa, a minha humilde súplica. Se quiserdes, ela será atendida. ;Nossa Senhora da Cabeça, rogai por nós. Amém.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora da Cabeça, protetora para quem tem dores de cabeça. É celebrada no dia 1º de Agosto.",
+				"dataPublicacao": "2019-11-25T12:00:10Z",
+				"videoId": "OtCDuQ4KNvM"
+			},
+		"bannerSanto": "https://i.ibb.co/yg6qhW1/banner-Nossa-Senhora-da-Cabeca.jpg",
+		"bannerOracao": "https://i.ibb.co/vwW2p2M/banner-Nossa-Senhora-da-Cabeca-Oracao.jpg",
+		"foto": "https://i.ibb.co/0yx54wP/foto-Nossa-Senhora-da-Cabeca.jpg",
+		"celebracao": "Celebração: 1 de Agosto."	
+	},
+	{
+		"id": 10,
+		"titulo": "São Bartolomeu",
+		"historia": "São Bartolomeu, citado na Sagrada Escritura com o nome de Natanael, foi um dos doze apóstolos de Nosso Senhor Jesus Cristo. ;Nasceu em Caná, na Galiléia (cf. Jo 21,2) e é então possível que ele tenha testemunhado o grande 'sinal' realizado por Jesus naquele lugar (cf. Jo 2, 1-11). ;Bartolomeu vem do aramaico Bar-Talmay que significa filho de Talmay. Natanael significa dom de Deus.",
+		"tituloOracao": "Oração a São Bartolomeu",
+		"oracao": "Glorioso São Bartolomeu, modelo sublime de virtude e puro frasco das graças do Senhor! ;Proteja este seu servo que humildemente se ajoelha a seus pés e implora que tenha a bondade de pedir por mim junto ao trono do Senhor. ;São Bartolomeu use todos os recursos para me proteger dos perigos que diariamente me rodeiam! ;Lance seu escudo protetor em minha volta e me proteja do meu egoísmo e de minha indiferença a Deus e ao meu vizinho. ;São Bartolomeu, me inspire em imitá-lo em todas as minhas ações. Derrame em mim suas graças para que eu possa servir e ver a Cristo nos outros e trabalhar para a Vossa maior gloria. ;Graciosamente obtenha de Deus os favores e as graças que eu muito necessito, nas minhas misérias e aflições da vida. ;Eu aqui invoco sua poderosa intercessão, confiante na esperança que ouvirás minhas orações e que obtenha para mim esta especial graça e favor que eu reclamo de seu poder e bondade fraternal, e com toda a minha alma imploro que me conceda a graça… ;(fazer o pedido), ;e ainda a graça da salvação de minha alma e para que eu viva e morra como filho de Deus, alcançando a doçura do Vosso amor e a eterna felicidade. São Bartolomeu, rogai por nós! Amém.",
+		"video": 
+			{
+				"descricao": "São Bartolomeu, Discipulo e Apóstolo de Jesus. É celebrado em 24 de Agosto.",
+				"dataPublicacao": "2019-11-24T12:00:10Z",
+				"videoId": "qxPp3SaswgY"
+			},
+		"bannerSanto": "https://i.ibb.co/8zJCWj6/banner-Sao-Bartolomeu.jpg",
+		"bannerOracao": "https://i.ibb.co/MNRjDZZ/banner-Sao-Bartolomeu-Oracao.jpg",
+		"foto": "https://i.ibb.co/W2b82B7/foto-Sao-Bartolomeu.jpg",
+		"celebracao": "Celebração: 24 de Agosto."	
+	},
+	{
+		"id": 9,
+		"titulo": "Santa Bernadette",
+		"historia": "Santa Bernadette nasceu no dia 7 de Janeiro de 1844, na cidade de Lourdes, na França. ;Bernadette era a filha mais velha e vivia em extrema pobreza com seus pais, Francisco Soubirous e Luísa Castèrot. ;Moravam em uma cela abandonada da cadeia da cidade. ;O lugar era insalubre, o  que fez piorar a saúde da jovem Bernadette, que já tinha uma saúde muito frágil. ;Devido a isso, a jovem teve dificuldades de aprendizagem, fazendo sua primeira comunhão fora da faixa etária comum, tinha dificuldades também de frequentar a escola.",
+		"tituloOracao": "Oração a Santa Bernadette",
+		"oracao": "Senhor, vós que dignastes conceder à jovem Bernadette a graça de ver vossa Santíssima Mãe, e com ela conversar e orar, concedei também a mim uma maior devoção para com Maria Santíssima e a graça da boa saúde e disposição. ;Santa Bernadette Soubirous, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Santa Bernadette e as aparições de Nossa Senhora em Lourdes. Santa Bernadette é celebrada no dia 16 de Abril.",
+				"dataPublicacao": "2019-11-17T12:00:10Z",
+				"videoId": "T2ZgStuxY8w"
+			},
+		"bannerSanto": "https://i.ibb.co/cNT59MM/banner-Santa-Bernadette.jpg",
+		"bannerOracao": "https://i.ibb.co/S783GFy/banner-Santa-Bernadette-Oracao.jpg",
+		"foto": "https://i.ibb.co/qk3RcTz/foto-Santa-Bernadette.jpg",
+		"celebracao": "Celebração: 16 de Abril."	
+	},
+	{
+		"id": 8,
+		"titulo": "São Francisco Xavier",
+		"historia": "São Francisco Xavier nasceu no castelo de Xavier, Reino de Navarra, na península Ibérica, no 1506. ;Era o filho caçula da família. Enviado por sua família para estudar em Paris, Francisco ali conheceu Santo Inácio de Loyola, fundador da Companhia de Jesus, conhecida como a Ordem dos Jesuítas.",
+		"tituloOracao": "Oração a São Francisco Xavier",
+		"oracao": "Senhor, pelos méritos de São Francisco Xavier, concedei-me o dom do desassombro para levar a Vossa Palavra aos que a mim confiastes. ;Dai-me firmeza na fé, piedade na oração e que cada vez mais eu encontre alegria em testemunhar Vossas maravilhas. Amém. ;São Francisco Xavier rogai por nós.",
+		"video": 
+			{
+				"descricao": "São Francisco Xavier - Protetor dos missionários.",
+				"dataPublicacao": "2019-11-15T12:00:10Z",
+				"videoId": "SpHlHw2KCqc"
+			},
+		"bannerSanto": "https://i.ibb.co/c87gSLV/banner-Sao-Francisco-Xavier.jpg",
+		"bannerOracao": "https://i.ibb.co/SyTCgtH/banner-Sao-Francisco-Xavier-oracao.jpg",
+		"foto": "https://i.ibb.co/D8N07hH/foto-Sao-Francisco-Xavier.jpg",
+		"celebracao": "Celebração: 03 de Dezembro."	
 	}
 ]
