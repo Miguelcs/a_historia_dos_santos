@@ -1,5 +1,24 @@
 [
 	{
+		"id": 54,
+		"titulo": "Santa Marina de Bitínia",
+		"historia": "Santa Marina era filha de pais muito bons e fervorosos na oração. ;Natural de Bitínia, na Ásia Menor, atual Turquia, sabe-se apenas que seu pai se chamava Eugênio. ;Órfã de mãe, e sendo filha única, foi educada na fé por seu pai. ;Por causa da dor e tristeza, Eugênio se retirou para um convento, levando consigo sua filha.",
+		"tituloOracao": "Oração a Santa Marina",
+		"oracao": "Ó adorável e humilde Santa Marina, que abdicaste do conforto e te entregaste à humilhação pública por obediência ao projeto de Deus, rogo-te que mostres a mim o melhor caminho a seguir, para o serviço ao próximo e a glória de Nosso Senhor Jesus Cristo. ;Ajuda-me a ser sempre humilde e benevolente, como fostes tu. ;Afasta da minha vida a arrogância e o sentimento de superioridade que nos afastam do amor de Cristo. ;Intercede por mim junto ao pai, para que eu alcance a graça que fervorosamente desejo (fazer o pedido). ;Prometo que continuarei no caminho da fé e da humildade, não me esquecendo de ti e mantendo minha devoção nos tempos de bonança. ;Além disso, prometo levar tal devoção por toda a minha vida, permanecendo no projeto de Deus e na caridade para com os mais necessitados. Amém",
+		"video": 
+			{
+				"descricao": "Exemplo de fidelidade, humildade e obediência a Deus, Santa Marina é invocada como intercessora nas maiores provações, doenças ou calúnias.",
+				"dataPublicacao": "2020-10-15T12:00:10Z",
+				"videoId": "7KyvbgZBUTg",
+				"videoFoto": "https://img.youtube.com/vi/7KyvbgZBUTg/hqdefault.jpg"
+			},	
+		"bannerOracao": "https://i.ibb.co/Fx3bSWh/banner-Santa-Marina-de-Bitinia-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/1RqJNsb/banner-Santa-Marina-de-Bitinia.jpg",
+		"banner": "https://i.ibb.co/1RqJNsb/banner-Santa-Marina-de-Bitinia.jpg",
+		"foto": "https://i.ibb.co/vXLK71v/foto-Santa-Marina-de-Bitinia.jpg",	
+		"celebracao": "Celebração: 18 de Junho."			
+	},
+	{
 		"id": 53,
 		"titulo": "São Cosme e Damião",
 		"historia": "Nascidos na cidade de Egéia, Arábia, os Santos Cosme e Damião eram filhos gêmeos de uma mulher muito religiosa, de nome Teodota. ;Tinham ainda mais três irmãos, Ântimo, Leôncio e Euprépio. ;Especializados na arte da medicina, os gêmeos, unidos à fé e confiança no Senhor, receberam do Espírito Santo tantas graças que curavam todas as doenças, tanto em homens quanto em animais.",
