@@ -9,8 +9,8 @@
 			{
 				"descricao": "Exemplo de fidelidade, humildade e obediência a Deus, Santa Marina é invocada como intercessora nas maiores provações, doenças ou calúnias.",
 				"dataPublicacao": "2020-10-15T12:00:10Z",
-				"videoId": "7KyvbgZBUTg",
-				"videoFoto": "https://img.youtube.com/vi/7KyvbgZBUTg/hqdefault.jpg"
+				"videoId": "WKcK3hv9U44",
+				"videoFoto": "https://img.youtube.com/vi/WKcK3hv9U44/hqdefault.jpg"
 			},	
 		"bannerOracao": "https://i.ibb.co/Fx3bSWh/banner-Santa-Marina-de-Bitinia-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/1RqJNsb/banner-Santa-Marina-de-Bitinia.jpg",
