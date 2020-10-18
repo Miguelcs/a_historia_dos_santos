@@ -1,5 +1,24 @@
 [
 	{
+		"id": 55,
+		"titulo": "Santos Primo e Feliciano",
+		"historia": "Nascidos na Sabina, os irmãos Primo e Feliciano foram perseguidos e martirizados durante o império de Diocleciano e Maximiano. ;Poucos se sabe sobre sua origem, apenas que nesta época já estavam com uma certa idade e que ajudavam aos pobres e presos, consolando-os e animando-os. ;Nesta época, os primeiros cristãos eram perseguidos e torturados, sendo forçados a abandonar sua fé. ;Mas como se negavam a isso, sempre fiéis a Jesus Cristo, eram presos, torturados e martirizados por aqueles que cultuavam falsos deuses.",
+		"tituloOracao": "Oração de São Primo e São Feliciano",
+		"oracao": "Senhor, dignai-vos conceder-nos a graça de sempre celebrar a festa de seus santos e mártires Primo e Feliciano, de modo que seus votos irão nos assegurar os efeitos da sua proteção. Por Nosso Senhor Jesus Cristo. Amém.",
+		"video": 
+			{
+				"descricao": "Firmes em sua fé, os irmãos sofreram com perseguições e torturas. Ajudavam aos pobres e presos, consolando-os e animando-os, mostrando o verdadeiro caminho e sendo exemplos de santidade.",
+				"dataPublicacao": "2020-10-17T12:00:10Z",
+				"videoId": "WKcK3hv9U44",
+				"videoFoto": "https://img.youtube.com/vi/WKcK3hv9U44/hqdefault.jpg"
+			},	
+		"bannerOracao": "https://i.ibb.co/qMj3Rvn/banner-Santos-Primo-e-Feliciano-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/DD9V6PD/banner-Santos-Primo-e-Feliciano.jpg",
+		"banner": "https://i.ibb.co/DD9V6PD/banner-Santos-Primo-e-Feliciano.jpg",
+		"foto": "https://i.ibb.co/CPnfpry/foto-Santos-Primo-e-Feliciano.jpg",	
+		"celebracao": "Celebração: 9 de Junho."			
+	},
+	{
 		"id": 54,
 		"titulo": "Santa Marina de Bitínia",
 		"historia": "Santa Marina era filha de pais muito bons e fervorosos na oração. ;Natural de Bitínia, na Ásia Menor, atual Turquia, sabe-se apenas que seu pai se chamava Eugênio. ;Órfã de mãe, e sendo filha única, foi educada na fé por seu pai. ;Por causa da dor e tristeza, Eugênio se retirou para um convento, levando consigo sua filha.",
