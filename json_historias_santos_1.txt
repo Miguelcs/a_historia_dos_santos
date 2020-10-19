@@ -36,5 +36,62 @@
 		"bannerOracao": "https://i.ibb.co/SyTCgtH/banner-Sao-Francisco-Xavier-oracao.jpg",
 		"foto": "https://i.ibb.co/D8N07hH/foto-Sao-Francisco-Xavier.jpg",
 		"celebracao": "Celebração: 03 de Dezembro."	
+	},
+	{
+		"id": 7,
+		"titulo": "Santa Luzia",
+		"historia": "Santa Luzia (Santa Lúcia) pertencia a uma família nobre e cristã de Siracusa, na Itália. ;Desde cedo sua família a ofereceu uma ótima formação cristã. Assim, Luzia fez um voto de viver a virgindade perpétua. ;Com a morte do pai, a mãe de Luzia, Eutícia, arranjou um casamento para a filha com um jovem pagão. Porém, Luzia vendo que sua mãe estava muito enferma, pediu um tempo para o discernimento. ",
+		"tituloOracao": "Oração à Santa Luzia",
+		"oracao": "Ó, Santa Luzia, que preferistes deixar que, os vossos olhos fossem vazados e arrancados, antes de negar a fé e conspurcar vossa alma; e Deus, com um milagre extraordinário, vos devolveu outros dois olhos sãos e perfeitos, para recompensar vossa virtude e vossa fé, e vos constituiu protetora contra as doenças dos olhos, eu recorro a vós para que protejais minhas vistas e cureis a doença dos meus olhos. ;Ó, Santa Luzia, conservai a luz dos meus olhos para que eu possa ver as belezas da criação. Conservai tambémos olhos de minha alma, a fé, pela qual posso conhecer o meu Deus, compreender os seus ensinamentos, reconhecer o seu amor para comigo e nunca errar o caminho que me conduzirá onde vós, Santa Luzia, vos encontrais, em companhia dos anjos e santuário. ;Santa Luzia, protegei meus olhos e conservai minha fé. Amém. ;Santa Luzia rogai por nós!",
+		"video": 
+			{
+				"descricao": "Santa Luzia - 'Adoro a um só Deus verdadeiro, e a Ele prometi amor e fidelidade'.",
+				"dataPublicacao": "2019-11-13T12:00:10Z",
+				"videoId": "wS0ZQcA-VOk",
+				"videoFoto": "https://img.youtube.com/vi/wS0ZQcA-VOk/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/YTwjrtz/banner-Santa-Luzia.jpg",
+		"bannerSanto": "https://i.ibb.co/YTwjrtz/banner-Santa-Luzia.jpg",
+		"bannerOracao": "https://i.ibb.co/PcGhz7X/banner-Santa-Luzia-Oracao.jpg",
+		"foto": "https://i.ibb.co/TtkB0Qx/foto-Santa-Luzia.jpg",
+		"celebracao": "Celebração: 13 de Dezembro."	
+	},
+	{
+		"id": 6,
+		"titulo": "São Bento",
+		"historia": "São Bento nasceu na Itália, no ano de 480. ;Era de família nobre romana e ainda cedo manifestou um  gosto especial pela oração. ;Sua família o enviou para estudar na Cidade Eterna, no período de decadência do Império. ",
+		"tituloOracao": "Oração à São Bento",
+		"oracao": "A Cruz sagrada seja a minha Luz. Não seja o dragão o meu guia. Retira-te satanás. Nunca me aconselhe coisas vãs. É mal o que tu me oferece. Beba tu mesmo do teu veneno. ;Rogai por nós Bem Aventurado São Bento, para que sejamos dignos das promessas de Cristo. Amém.",
+		"video": 
+			{
+				"descricao": "A Cruz sagrada seja a minha Luz. Não seja o dragão o meu guia. Retira-te satanás. Nunca me aconselhe coisas vãs. É mal o que tu me oferece. Beba tu mesmo do teu veneno.",
+				"dataPublicacao": "2019-11-07T12:00:10Z",
+				"videoId": "R2-e8O82Syw",
+				"videoFoto": "https://img.youtube.com/vi/R2-e8O82Syw/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/bJmWNDt/banner-Sao-Bento.jpg",
+		"bannerSanto": "https://i.ibb.co/bJmWNDt/banner-Sao-Bento.jpg",
+		"bannerOracao": "https://i.ibb.co/Wgb3b0C/banner-Sao-Bento-Oracao.jpg",
+		"foto": "https://i.ibb.co/JRy5B86/foto-Sao-Bento.jpg",
+		"celebracao": "Celebração: 11 de Junho."	
+	},
+	{
+		"id": 5,
+		"titulo": "Santa Cecília",
+		"historia": "No dia 22 de Novembro, comemora-se o Dia do Músico. É também o dia da padroeira dos músicos, Santa Cecília. ;'A música, que eleva a palavra e o sentimento até a sua última expressão humana, interpreta o nosso coração e nos une ao Deus de toda beleza e bondade'. ;Foram estas as palavras do cardeal brasileiro dom Paulo Evaristo Arns, definindo a arte musical. Estas palavras, na verdade, traduzem a vida da mártir Santa Cecília.",
+		"tituloOracao": "Oração à Santa Cecília",
+		"oracao": "Ó Gloriosa Santa Cecília, apóstola de caridade, espelho de pureza e modelo de esposa cristã! ;Por aquela fé esclarecida, com que afrontastes os enganosos deleites do mundo pagão, alcançai-nos o amoroso conhecimento das verdades cristãs, para que conformemos a nossa vida com a santa lei de Deus e da sua Igreja. ;Revesti-nos de inviolável confiançana misericórdia de Deus, pelos merecimentos infinitos de NossoSenhor Jesus Cristo. ;Dilatai o nosso coração, para que,abrasados do amor de Deus,não nosdesviemos jamais da salvação eterna. ;Gloriosa Padroeira nossa,que os vossos exemplos de fé e de virtudesejam para todos nós um brado de alerta, para que estejamos sempre atentos à vontade de Deus, na prosperidade como nas provações,no caminho do céu e da salvação eterna. Amém",
+		"video": 
+			{
+				"descricao": "Santa Cecília, padroeira dos músicos, celebrada no dia 22 de Novembro.",
+				"dataPublicacao": "2019-11-03T12:00:10Z",
+				"videoId": "eRhOyTs0oaI",
+				"videoFoto": "https://img.youtube.com/vi/eRhOyTs0oaI/hqdefault.jpg"
+			},
+		"banner": "https://i.ibb.co/JsQJfZX/banner-Santa-Cecilia.jpg",
+		"bannerSanto": "https://i.ibb.co/JsQJfZX/banner-Santa-Cecilia.jpg",
+		"bannerOracao": "https://i.ibb.co/dKycmj4/banner-Santa-Cecilia-Oracao.jpg",
+		"foto": "https://i.ibb.co/nbCrjBt/foto-Santa-Cecilia.jpg",
+		"celebracao": "Celebração: 22 de Novembro."	
 	}
 ]
