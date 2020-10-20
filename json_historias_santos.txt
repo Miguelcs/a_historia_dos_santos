@@ -1,8 +1,8 @@
 [
 	{
 		"id": 57,
-		"titulo": "São Longuinho",
-		"historia": "São Longuinho ou Longino era um centurião romano de baixa estatura que servia nas festas da corte em Roma. ;Por ser pequeno, ele ajudava as pessoas a encontrarem objetos perdidos debaixo das meses durante as festas. ;Conta-nos a tradição que teria sido ele um dos centuriões que foram encarregados por Pilatos para vigiar a cruz de Nosso Senhor Jesus Cristo. ;E também teria sido ele aquele que atravessou o peito de Jesus com uma lança, ao invés de quebrar-lhe as pernas, como ocorreu com os outros crucificados, como vemos no Evangelho de São João: ;'Como o vissem já morto, não lhe quebraram as pernas, mas um dos soldados abriu-lhe o lado com uma lança e, imediatamente, saiu sangue e água' (Jo 19, 33-34). ;O nome Longuinho deriva da expressão grega 'longus' que significa 'lança'.",
+		"titulo": "Santo Afonso Maria de Ligório",
+		"historia": "Celebramos, neste dia, a memória de um santo Bispo e Doutor da Igreja que se tornou, pelo seu testemunho, patrono dos confessores e teólogos de doutrina moral. Afonso Maria de Ligório nasceu em Nápoles, na Itália, em 1696, numa nobre família que, ao saber das qualidades do menino prodígio, proporcionaram-lhe o caminho dos estudos a fim de levá-lo à fama. ;Com 16 anos, doutorou-se em Direito Civil e Eclesiástico, e já se destacava em sua posição social quando se deparou, involuntariamente, sustentando uma falsidade. Isso levou Afonso a profundas reflexões, a ponto de passar três dias seguidos em frente ao crucifixo. Escolhendo a renúncia profissional, a herança e títulos de nobreza, Santo Afonso acolheu sua via vocacional, já que o Senhor o queria advogando as causas do Cristo. ;Santo Afonso Maria de Ligório colocou todos os seus dons a serviço do Reino dos Céus, por isso, como sacerdote, desenvolveu várias missões entre os mendigos da periferia de Nápoles e camponeses; isso até contagiar vários e fundar a Congregação do Santíssimo Redentor, ou Redentoristas. Depois de percorrer várias cidades e vilas do sul da Itália convertendo pecadores, reformando costumes e santificando as famílias, Santo Afonso de Ligório, com 60 anos, foi eleito bispo, e assim pastoreou, com prudência e santidade, o povo de Deus, mesmo com a realidade de ter perdido a amizade do Papa e sido expulso de sua fundação. ;Entrou no Céu com 91 anos, depois de deixar vários escritos sobre a Doutrina Moral, sobre a devoção ao Santíssimo Sacramento e a respeito da Mãe de Deus, sendo o mais conhecido: 'As Glórias de Maria'. ;Santo Afonso Maria de Ligório, rogai por nós!",
 		"tituloOracao": "",
 		"oracao": "",
 		"video": 
@@ -12,11 +12,11 @@
 				"videoId": "",
 				"videoFoto": ""
 			},	
-		"bannerOracao": "https://i.ibb.co/Jds5mMt/banner-Sao-Longuinho-Oracao.jpg",
-		"bannerSanto": "https://i.ibb.co/rsmCYn9/banner-Sao-Longuinho.jpg",
-		"banner": "https://i.ibb.co/rsmCYn9/banner-Sao-Longuinho.jpg",
-		"foto": "https://i.ibb.co/1Kw8D4K/foto-Sao-Longuinho.jpg",	
-		"celebracao": "Celebração: 15 de Março."			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
+		"banner": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
+		"foto": "https://i.ibb.co/Dz1NTwq/foto-Santo-Afonso-Maria-de-Ligorio.jpg",	
+		"celebracao": "Celebração: 1 de Agosto."			
 	},
 	{
 		"id": 56,
