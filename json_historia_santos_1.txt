@@ -11,11 +11,10 @@
 				"dataPublicacao": "",
 				"videoId": "",
 				"videoFoto": ""
-			},	
+			},
 		"bannerOracao": "",
-		"bannerSanto": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
-		"banner": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
-		"foto": "https://i.ibb.co/Dz1NTwq/foto-Santo-Afonso-Maria-de-Ligorio.jpg",	
+		"bannerSanto": "https://i.ibb.co/HKm8yG0/banner-Sao-Pedro-de-Alcantara.jpg",
+		"foto": "https://i.ibb.co/rkSqwdK/foto-Sao-Pedro-de-Alcantara.jpg",	
 		"celebracao": "Celebração: 20 de Outubro.",		
 		"dataCelebracao": "20/10"	
 	},
@@ -28,13 +27,12 @@
 		"video": 
 			{
 				"descricao": "",
-				"dataPublicacao": "2020-10-19T12:00:10Z",
+				"dataPublicacao": "",
 				"videoId": "",
 				"videoFoto": ""
 			},	
 		"bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
-		"banner": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
 		"foto": "https://i.ibb.co/Dz1NTwq/foto-Santo-Afonso-Maria-de-Ligorio.jpg",	
 		"celebracao": "Celebração: 1 de Agosto."			
 	},
@@ -53,7 +51,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/Jds5mMt/banner-Sao-Longuinho-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/rsmCYn9/banner-Sao-Longuinho.jpg",
-		"banner": "https://i.ibb.co/rsmCYn9/banner-Sao-Longuinho.jpg",
 		"foto": "https://i.ibb.co/1Kw8D4K/foto-Sao-Longuinho.jpg",	
 		"celebracao": "Celebração: 15 de Março."			
 	},
@@ -72,7 +69,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/qMj3Rvn/banner-Santos-Primo-e-Feliciano-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/DD9V6PD/banner-Santos-Primo-e-Feliciano.jpg",
-		"banner": "https://i.ibb.co/DD9V6PD/banner-Santos-Primo-e-Feliciano.jpg",
 		"foto": "https://i.ibb.co/CPnfpry/foto-Santos-Primo-e-Feliciano.jpg",	
 		"celebracao": "Celebração: 9 de Junho."			
 	},
@@ -91,7 +87,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/Fx3bSWh/banner-Santa-Marina-de-Bitinia-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/1RqJNsb/banner-Santa-Marina-de-Bitinia.jpg",
-		"banner": "https://i.ibb.co/1RqJNsb/banner-Santa-Marina-de-Bitinia.jpg",
 		"foto": "https://i.ibb.co/vXLK71v/foto-Santa-Marina-de-Bitinia.jpg",	
 		"celebracao": "Celebração: 18 de Junho."			
 	},
@@ -110,7 +105,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/ckLn8Hv/banner-Sao-Cosme-Damiao-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/x2KkzKH/banner-Sao-Cosme-Damiao.jpg",
-		"banner": "https://i.ibb.co/x2KkzKH/banner-Sao-Cosme-Damiao.jpg",
 		"foto": "https://i.ibb.co/8z1pLsH/foto-Sao-Cosme-Damiao.jpg",	
 		"celebracao": "Celebração: 26 de setembro."			
 	},
@@ -129,7 +123,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/5FxkM97/banner-Santo-Expedito-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/syY7WzH/banner-Santo-Expedito.jpg",
-		"banner": "https://i.ibb.co/syY7WzH/banner-Santo-Expedito.jpg",
 		"foto": "https://i.ibb.co/QPvnxyw/foto-Santo-Expedito.jpg",	
 		"celebracao": "Celebração: 19 de abril."			
 	},
@@ -148,7 +141,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/BrrtX8f/banner-Santa-Zita-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/vcWgYRk/banner-Santa-Zita.jpg",
-		"banner": "https://i.ibb.co/vcWgYRk/banner-Santa-Zita.jpg",
 		"foto": "https://i.ibb.co/KrX2mjn/foto-Santa-Zita.jpg",	
 		"celebracao": "Celebração: 27 de abril."			
 	},
@@ -167,7 +159,6 @@
 			},				
 		"bannerOracao": "https://i.ibb.co/mTZTrjT/banner-Sao-Joao-Evangelista-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/316Qqmq/banner-Sao-Joao-Evangelista.jpg",
-		"banner": "https://i.ibb.co/316Qqmq/banner-Sao-Joao-Evangelista.jpg",
 		"foto": "https://i.ibb.co/68tbfZ0/foto-Sao-Joao-Evangelista.jpg",	
 		"celebracao": "Celebração: 27 de maio."			
 	},
@@ -186,7 +177,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/T21FDzQ/banner-Nossa-Senhora-Rainha-dos-Anjos-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/bWg6MjD/banner-Nossa-Senhora-Rainha-dos-Anjos.jpg",
-		"banner": "https://i.ibb.co/bWg6MjD/banner-Nossa-Senhora-Rainha-dos-Anjos.jpg",
 		"foto": "https://i.ibb.co/hspBw96/foto-Nossa-Senhora-Rainha-dos-Anjos.jpg",	
 		"celebracao": ""		
 	},
@@ -205,7 +195,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/8sz7hKX/banner-Santa-Maria-Goretti-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/Wx0TRDp/banner-Santa-Maria-Goretti.jpg",
-		"banner": "https://i.ibb.co/Wx0TRDp/banner-Santa-Maria-Goretti.jpg",
 		"foto": "https://i.ibb.co/WzhLzc2/foto-Santa-Maria-Goretti-Oracao.jpg",	
 		"celebracao": "Celebração: 6 de julho."		
 	},
@@ -224,7 +213,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/C86jJMC/banner-Nossa-Senhora-da-Batalha-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/PTtq0zT/banner-Nossa-Senhora-da-Batalha.jpg",
-		"banner": "https://i.ibb.co/PTtq0zT/banner-Nossa-Senhora-da-Batalha.jpg",
 		"foto": "https://i.ibb.co/N1Lkmws/foto-Nossa-Senhora-da-Batalha.jpg",	
 		"celebracao": ""		
 	},
@@ -243,7 +231,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/Zf8t6Gx/banner-Santa-Paulina-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/vqp1qRR/banner-Santa-Paulina.jpg",
-		"banner": "https://i.ibb.co/5csdRgH/Capa-Imagem-Saa-Paulina.jpg",
 		"foto": "https://i.ibb.co/j6SxDff/foto-Santa-Paulina.jpg",	
 		"celebracao": "Celebração: 9 de julho."
 	},
@@ -262,7 +249,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/gvybcqW/banner-Sao-Gregorio-Magno-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/THgtJkV/banner-Sao-Gregorio-Magno.jpg",
-		"banner": "https://i.ibb.co/m6Cttwf/Capa-Imagem-Sao-Gregorio-Magno.jpg",
 		"foto": "https://i.ibb.co/TwWHpHQ/foto-Sao-Gregorio-Magno.jpg",	
 		"celebracao": "Celebração: 3 de setembro."
 	},
@@ -281,7 +267,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/brCpG6x/banner-Santa-Edwiges-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/GVR3LKp/banner-Santa-Edwiges.jpg",
-		"banner": "https://i.ibb.co/Wx6XV0X/Capa-Imagem-Santa-Edwiges.jpg",
 		"foto": "https://i.ibb.co/8K7dNzS/foto-Santa-Edwiges.jpg",	
 		"celebracao": "Celebração: 16 de outubro."		
 	},
@@ -300,7 +285,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/dM97FKJ/1-23.jpg",
     	"bannerSanto": "https://i.ibb.co/XZy5SXy/banner-Nossa-Senhora-do-Bom-Conselho-Oracao.jpg",
-    	"banner": "https://i.ibb.co/q5GF4fc/Capa-Imagem-Nossa-Senhora-do-Bom-Conselho.jpg",
     	"foto": "https://i.ibb.co/SspRrgv/foto-Nossa-Senhora-do-Bom-Conselho.jpg",	
 		"celebracao": "Celebração: 26 de abril."	
 	},
@@ -319,7 +303,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/52fj2qH/banner-Nossa-Senhora-da-Saude-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/tQPLYBy/banner-Nossa-Senhora-da-Saude.jpg",
-		"banner": "https://i.ibb.co/w765Th6/capa.jpg",
 		"foto": "https://i.ibb.co/1Qw7xJ3/foto-Nossa-Senhora-da-Saude.jpg",	
 		"celebracao": "Celebração: 15 de agosto."
 	},
@@ -338,7 +321,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/McXDvjh/1569238953thumbnail.jpg",
 		"bannerSanto": "https://i.ibb.co/2K10sDW/banner-Sao-Mateus-Evangelista-Oracao.jpg",
-		"banner": "https://i.ibb.co/HDQyj8k/banner-Sao-Mateus-Evangelista.jpg",
 		"foto": "https://i.ibb.co/F40436P/foto-Sao-Mateus-Evangelista.jpg",	
 		"celebracao": "Celebração: 21 de setembro."	
 	},
@@ -357,7 +339,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/JF9Q485/banner-Sao-Cristovao-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/6JmGTSj/banner-Sao-Cristovao.jpg",
-		"banner": "https://i.ibb.co/6H0MGc0/Capa-Imagem-S-o-Crist-v-o.jpg",
 		"foto": "https://i.ibb.co/c3Ft0Df/foto-Sao-Cristovao.jpg",
 		"celebracao": "Celebração: 25 de julho."	
 	},
@@ -376,7 +357,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/rMdPcPn/banner-Sao-Marcos-Evangelista-Oracao.jpg",		
 		"bannerSanto": "https://i.ibb.co/dPJqhXD/banner-Sao-Marcos-Evangelista.jpg",
-		"banner": "https://i.ibb.co/QNMBWMT/Capa-Imagem-Sao-Marcos-1.jpg",
 		"foto": "https://i.ibb.co/y8jwzy7/foto-Sao-Marcos-Evangelista.jpg",
 		"celebracao": "Celebração: 25 de abril."	
 	},
@@ -395,7 +375,6 @@
 			},			
 		"bannerOracao": "https://i.ibb.co/NNBc20B/sim-o-1.jpg",		
 		"bannerSanto": "https://i.ibb.co/ZYM0Xbx/banner-Sao-Simao-Stock-Oracao.jpg",
-		"banner": "https://i.ibb.co/8bYDvCp/Capa-Imagem-Sao-Simao-Stock.jpg",
 		"foto": "https://i.ibb.co/6W9rkpW/foto-Sao-Simao-Stock.jpg",
 		"celebracao": "Celebração: 16 de maio."	
 	},
@@ -414,7 +393,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/fN5xbKd/banner-Nossa-Senhora-do-Carmo-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/WBrbL37/banner-Nossa-Senhora-do-Carmo.jpg",
-		"banner": "https://i.ibb.co/L0CpVTF/Capa-Imagem-Nossa-Senhora-do-Carmo.jpg",
 		"foto": "https://i.ibb.co/cXzst2F/foto-Nossa-Senhora-do-Carmo.jpg",
 		"celebracao": "Celebração: 16 de julho."		
 	},
@@ -433,7 +411,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/rmHwTwr/banner-Sao-Judas-Tadeu-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/k0dbLXk/banner-Sao-Judas-Tadeu.jpg",
-		"banner": "https://i.ibb.co/Jzq2bCZ/Capa-Imagem.jpg",
 		"foto": "https://i.ibb.co/8D951wP/foto-Sao-Judas-Tadeu.jpg",
 		"celebracao": "Celebração: 28 de outubro."	
 	},
@@ -452,7 +429,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/jHZgd8G/banner-Sao-Lucas-Evangelista-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/pnNc4mW/banner-Sao-Lucas-Evangelista.jpg",
-		"banner": "https://i.ibb.co/R3thNPz/banner-S-o-Lucas-Evangelista.jpg",
 		"foto": "https://i.ibb.co/rH6V45S/foto-Sao-Lucas-Evangelista.jpg",
 		"celebracao": "Celebração: 18 de outubro."	
 	},
@@ -471,7 +447,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/XYvSPq4/banner-Sao-Sebastiao-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/hckvdx3/banner-Sao-Sebastiao.jpg",
-		"banner": "https://i.ibb.co/g79cG2G/banner-Sao-Sebastiao.jpg",
 		"foto": "https://i.ibb.co/xMKQ4q0/foto-Sao-Sebastiao.jpg",
 		"celebracao": "Celebração: 20 de janeiro."	
 	},
@@ -490,7 +465,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/vhnyPg1/banner-Nossa-Senhora-Cenaculo-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/wrRFgXF/banner-Nossa-Senhora-Cenaculo.jpg",
-		"banner": "https://i.ibb.co/xYRCg2X/banner-Nossa-Senhora-Cenaculo.jpg",
 		"foto": "https://i.ibb.co/3ds3pmZ/foto-Nossa-Senhora-Cenaculo.jpg",
 		"celebracao": ""	
 	},
@@ -509,7 +483,6 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/8rGQ6cw/banner-Sao-Rafael-Arcanjo-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/jMB7ccj/banner-Sao-Rafael-Arcanjo.jpg",
-		"banner": "https://i.ibb.co/ZVdXmpm/banner-S-o-Rafael-Arcanjo-1.jpg",
 		"foto": "https://i.ibb.co/7r4ZmXP/foto-Sao-Rafael-Arcanjo.jpg",
 		"celebracao": "Celebração: 29 de setembro."	
 	},
@@ -528,7 +501,6 @@
 			},
 		"bannerOracao": "https://i.ibb.co/cktnc5g/banner-Santa-Rosa-de-Viterbo-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/Z6S8w4F/banner-Santa-Rosa-de-Viterbo.jpg",
-		"banner": "https://i.ibb.co/vVPg6Qh/banner-Santa-Rosa-de-Viterbo.jpg",
 		"foto": "https://i.ibb.co/hR30VXT/foto-Santa-Rosa-de-Viterbo.jpg",
 		"celebracao": "Celebração: 06 de março."	
 	},
@@ -547,7 +519,6 @@
 			},	
 		"bannerOracao": "https://i.ibb.co/hYPhsgJ/banner-Sao-Gabriel-Arcanjo-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/Cb3MdpQ/banner-Sao-Gabriel-Arcanjo.jpg",
-		"banner": "https://i.ibb.co/X53J2cG/banner-S-o-Gabriel-Arcanjo.jpg",
 		"foto": "https://i.ibb.co/zR4gkwk/foto-Sao-Gabriel-Arcanjo.jpg",
 		"celebracao": "Celebração: 29 de setembro."	
 	},
@@ -564,7 +535,6 @@
 				"videoId": "kuoNfRb2C3o",
 				"videoFoto": "https://img.youtube.com/vi/kuoNfRb2C3o/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/jvSXjYm/banner-S-o-Boaventura.jpg",
 		"bannerSanto": "https://i.ibb.co/4ST5XKT/banner-Sao-Boaventura.jpg",
 		"bannerOracao": "https://i.ibb.co/MgmpZSQ/banner-Sao-Boaventura-Oracao.jpg",
 		"foto": "https://i.ibb.co/jZBJzy1/foto-Sao-Boaventura.jpg",
@@ -582,8 +552,7 @@
 				"dataPublicacao": "2020-04-23T12:00:10Z",
 				"videoId": "yltRPuQpaqo",
 				"videoFoto": "https://img.youtube.com/vi/yltRPuQpaqo/hqdefault.jpg"
-			},		
-		"banner": "https://i.ibb.co/jW7C44m/S-o-Jorge-santo-guerreiro-protege-seu-caminho-Clube-das-Comadres.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/HXqPK9F/banner-Sao-Jorge.jpg",
 		"bannerOracao": "https://i.ibb.co/3d99P0s/banner-Sao-Jorge-Oracao.jpg",
 		"foto": "https://i.ibb.co/1GW9q7N/foto-Sao-Jorge.jpg",
@@ -601,8 +570,7 @@
 				"dataPublicacao": "2020-04-19T12:00:10Z",
 				"videoId": "UVoTjb-_ZQc",
 				"videoFoto": "https://img.youtube.com/vi/UVoTjb-_ZQc/hqdefault.jpg"
-			},			
-		"banner": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/f0YYrp2/banner-Santo-Anjo-da-Guarda.jpg",
 		"bannerOracao": "https://i.ibb.co/18f87KH/banner-Santo-Anjo-da-Guarda-Oracao.jpg",
 		"foto": "https://i.ibb.co/znm9HwM/foto-Santo-Anjo-da-Guarda.jpg",
@@ -620,8 +588,7 @@
 				"dataPublicacao": "2020-04-18T12:00:10Z",
 				"videoId": "chYmNWHS-YI",
 				"videoFoto": "https://img.youtube.com/vi/chYmNWHS-YI/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/TH1QdJq/Guardian-Angel824x1024-1.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/7YKyL2k/banner-Sao-Benedito.jpg",
 		"bannerOracao": "https://i.ibb.co/sR38MTz/banner-Sao-Benedito-Oracao.jpg",
 		"foto": "https://i.ibb.co/jrM3sB1/foto-Sao-Benedito-Oracao.jpg",
@@ -639,8 +606,7 @@
 				"dataPublicacao": "2020-04-18T12:00:10Z",
 				"videoId": "O_RUkFYlJPo",
 				"videoFoto": "https://img.youtube.com/vi/O_RUkFYlJPo/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/7r1H0WR/banner-Nossa-Senhora-Aparecida.jpg",
 		"bannerOracao": "https://i.ibb.co/NFgX1N3/banner-Nossa-Senhora-Aparecida-Oracao.jpg",
 		"foto": "https://i.ibb.co/b5KpJLx/foto-Nossa-Senhora-Aparecida.jpg",
@@ -658,8 +624,7 @@
 				"dataPublicacao": "2020-04-05T12:00:10Z",
 				"videoId": "rYVQkM5L0UM",
 				"videoFoto": "https://img.youtube.com/vi/rYVQkM5L0UM/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/1mt0Xdp/banner-Nossa-Senhora-Piedade.jpg",
 		"bannerOracao": "https://i.ibb.co/hf1bMYY/banner-Nossa-Senhora-Piedade-Oracao.jpg",
 		"foto": "https://i.ibb.co/RCV4GJj/foto-Nossa-Senhora-Piedade.jpg",
@@ -677,8 +642,7 @@
 				"dataPublicacao": "2020-03-28T12:00:10Z",
 				"videoId": "4oybUvfCKRo",
 				"videoFoto": "https://img.youtube.com/vi/4oybUvfCKRo/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/ZL1gNrS/banner-Dom-Bosco.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/ZL1gNrS/banner-Dom-Bosco.jpg",
 		"bannerOracao": "https://i.ibb.co/6yrKpNz/banner-Dom-Bosco-Oracao.jpg",
 		"foto": "https://i.ibb.co/vQBdrNc/foto-Dom-Bosco.jpg",
@@ -696,8 +660,7 @@
 				"dataPublicacao": "2020-03-22T12:00:10Z",
 				"videoId": "b8wRHJrcL2c",
 				"videoFoto": "https://img.youtube.com/vi/b8wRHJrcL2c/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/1rfxCXB/banner-Santas-Perpetua-e-Felicidade.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/1rfxCXB/banner-Santas-Perpetua-e-Felicidade.jpg",
 		"bannerOracao": "https://i.ibb.co/s9SqfM9/banner-Santas-Perpetua-e-Felicidade-Oracao.jpg",
 		"foto": "https://i.ibb.co/CQV2PDY/foto-Santas-Perpetua-e-Felicidade.jpg",
@@ -715,8 +678,7 @@
 				"dataPublicacao": "2020-03-11T12:00:10Z",
 				"videoId": "ZY_TqOIjV2g",
 				"videoFoto": "https://img.youtube.com/vi/ZY_TqOIjV2g/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/2ZmQbzh/banner-Sao-Bras.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/2ZmQbzh/banner-Sao-Bras.jpg",
 		"bannerOracao": "https://i.ibb.co/Pw1FYXZ/banner-Sao-Bras-Oracao.jpg",
 		"foto": "https://i.ibb.co/HXcRD7D/foto-Sao-Bras.jpg",
@@ -734,8 +696,7 @@
 				"dataPublicacao": "2020-02-16T12:00:10Z",
 				"videoId": "7wX_OT0yLpo",
 				"videoFoto": "https://img.youtube.com/vi/7wX_OT0yLpo/hqdefault.jpg"
-			},	
-		"banner": "https://i.ibb.co/r0fZSJw/banner-Santo-Ambrosio.jpg",
+			},
 		"bannerSanto": "https://i.ibb.co/r0fZSJw/banner-Santo-Ambrosio.jpg",
 		"bannerOracao": "https://i.ibb.co/XCqcbMK/banner-Santo-Ambrosio-Oracao.jpg",
 		"foto": "https://i.ibb.co/yfhzvvp/foto-Santo-Ambrosio.jpg",
@@ -754,7 +715,6 @@
 				"videoId": "d4hRW0vYuGw",
 				"videoFoto": "https://img.youtube.com/vi/d4hRW0vYuGw/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/jWFQG2x/banner-Nossa-Senhora-dos-Aflitos.jpg",
 		"bannerSanto": "https://i.ibb.co/jWFQG2x/banner-Nossa-Senhora-dos-Aflitos.jpg",
 		"bannerOracao": "https://i.ibb.co/8PxnNQc/banner-Nossa-Senhora-dos-Aflitos-Oracao.jpg",
 		"foto": "https://i.ibb.co/RNJ2HRR/foto-Nossa-Senhora-dos-Aflitos.jpg",
@@ -773,7 +733,6 @@
 				"videoId": "Um4nCLIJLfg",
 				"videoFoto": "https://img.youtube.com/vi/Um4nCLIJLfg/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/h9YB1zg/banner-Nossa-Senhora-do-Trabalho.jpg",
 		"bannerSanto": "https://i.ibb.co/h9YB1zg/banner-Nossa-Senhora-do-Trabalho.jpg",
 		"bannerOracao": "https://i.ibb.co/J2NNQZ6/banner-Nossa-Senhora-do-Trabalho-Oracao.jpg",
 		"foto": "https://i.ibb.co/r7F8jD7/foto-Nossa-Senhora-do-Trabalho-Oracao.jpg",
@@ -792,7 +751,6 @@
 				"videoId": "ibB4d3wSsHc",
 				"videoFoto": "https://img.youtube.com/vi/ibB4d3wSsHc/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/tsdJj44/banner-Sao-Lazaro.jpg",
 		"bannerSanto": "https://i.ibb.co/tsdJj44/banner-Sao-Lazaro.jpg",
 		"bannerOracao": "https://i.ibb.co/4pD62mw/banner-Sao-Lazaro-Oracao.jpg",
 		"foto": "https://i.ibb.co/RggQ03H/foto-Sao-Lazaro.jpg",
@@ -811,7 +769,6 @@
 				"videoId": "wFqufV3ZajA",
 				"videoFoto": "https://img.youtube.com/vi/wFqufV3ZajA/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/vV0PdJn/banner-Santo-Inacio-de-Loyola.jpg",
 		"bannerSanto": "https://i.ibb.co/vV0PdJn/banner-Santo-Inacio-de-Loyola.jpg",
 		"bannerOracao": "https://i.ibb.co/2hqQbwq/banner-Santo-Inacio-de-Loyola-Oracao.jpg",
 		"foto": "https://i.ibb.co/HD4yyX1/foto-Santo-Inacio-de-Loyola.jpg",
@@ -830,7 +787,6 @@
 				"videoId": "ZsSR9yNYVl0",
 				"videoFoto": "https://img.youtube.com/vi/ZsSR9yNYVl0/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/tZqwNz6/banner-Nossa-Senhora-Desatadora-dos-Nos.jpg",
 		"bannerSanto": "https://i.ibb.co/tZqwNz6/banner-Nossa-Senhora-Desatadora-dos-Nos.jpg",
 		"bannerOracao": "https://i.ibb.co/7nstKdw/banner-Nossa-Senhora-Desatadora-dos-Nos-Oracao.jpg",
 		"foto": "https://i.ibb.co/kBCjL6V/foto-Nossa-Senhora-Desatadora-dos-Nos.jpg",
@@ -849,7 +805,6 @@
 				"videoId": "VjlmtxodC14",
 				"videoFoto": "https://img.youtube.com/vi/VjlmtxodC14/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/tQVVQGM/banner-Nossa-Senhora-das-Dores.jpg",
 		"bannerSanto": "https://i.ibb.co/tQVVQGM/banner-Nossa-Senhora-das-Dores.jpg",
 		"bannerOracao": "https://i.ibb.co/hR8V3n3/banner-Nossa-Senhora-das-Dores-Oracao.jpg",
 		"foto": "https://i.ibb.co/YyxwM5q/foto-Nossa-Senhora-das-Dores.jpg",
@@ -868,7 +823,6 @@
 				"videoId": "PDxyrlJAVi4",
 				"videoFoto": "https://img.youtube.com/vi/PDxyrlJAVi4/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/fGnPDn2/banner-Santa-Escolastica.jpg",
 		"bannerSanto": "https://i.ibb.co/fGnPDn2/banner-Santa-Escolastica.jpg",
 		"bannerOracao": "https://i.ibb.co/JtsHpxt/banner-Santa-Escolastica-Oracao.jpg",
 		"foto": "https://i.ibb.co/fCfXTn6/foto-Santa-Escolastica.jpg",
@@ -887,7 +841,6 @@
 				"videoId": "9ocmamUHxH4",
 				"videoFoto": "https://img.youtube.com/vi/9ocmamUHxH4/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/M8TptcZ/banner-Nossa-Senhora-de-Guadalupe.jpg",
 		"bannerSanto": "https://i.ibb.co/M8TptcZ/banner-Nossa-Senhora-de-Guadalupe.jpg",
 		"bannerOracao": "https://i.ibb.co/sRZGrZs/banner-Nossa-Senhora-de-Guadalupe-Oracao.jpg",
 		"foto": "https://i.ibb.co/gRMYf1p/foto-Nossa-Senhora-de-Guadalupe.jpg",
@@ -906,7 +859,6 @@
 				"videoId": "OtCDuQ4KNvM",
 				"videoFoto": "https://img.youtube.com/vi/OtCDuQ4KNvM/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/yg6qhW1/banner-Nossa-Senhora-da-Cabeca.jpg",
 		"bannerSanto": "https://i.ibb.co/yg6qhW1/banner-Nossa-Senhora-da-Cabeca.jpg",
 		"bannerOracao": "https://i.ibb.co/vwW2p2M/banner-Nossa-Senhora-da-Cabeca-Oracao.jpg",
 		"foto": "https://i.ibb.co/0yx54wP/foto-Nossa-Senhora-da-Cabeca.jpg",
@@ -925,7 +877,6 @@
 				"videoId": "qxPp3SaswgY",
 				"videoFoto": "https://img.youtube.com/vi/qxPp3SaswgY/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/8zJCWj6/banner-Sao-Bartolomeu.jpg",
 		"bannerSanto": "https://i.ibb.co/8zJCWj6/banner-Sao-Bartolomeu.jpg",
 		"bannerOracao": "https://i.ibb.co/MNRjDZZ/banner-Sao-Bartolomeu-Oracao.jpg",
 		"foto": "https://i.ibb.co/W2b82B7/foto-Sao-Bartolomeu.jpg",
@@ -944,7 +895,6 @@
 				"videoId": "T2ZgStuxY8w",
 				"videoFoto": "https://img.youtube.com/vi/T2ZgStuxY8w/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/cNT59MM/banner-Santa-Bernadette.jpg",
 		"bannerSanto": "https://i.ibb.co/cNT59MM/banner-Santa-Bernadette.jpg",
 		"bannerOracao": "https://i.ibb.co/S783GFy/banner-Santa-Bernadette-Oracao.jpg",
 		"foto": "https://i.ibb.co/qk3RcTz/foto-Santa-Bernadette.jpg",
@@ -963,7 +913,6 @@
 				"videoId": "SpHlHw2KCqc",
 				"videoFoto": "https://img.youtube.com/vi/SpHlHw2KCqc/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/c87gSLV/banner-Sao-Francisco-Xavier.jpg",
 		"bannerSanto": "https://i.ibb.co/c87gSLV/banner-Sao-Francisco-Xavier.jpg",
 		"bannerOracao": "https://i.ibb.co/SyTCgtH/banner-Sao-Francisco-Xavier-oracao.jpg",
 		"foto": "https://i.ibb.co/D8N07hH/foto-Sao-Francisco-Xavier.jpg",
@@ -982,7 +931,6 @@
 				"videoId": "wS0ZQcA-VOk",
 				"videoFoto": "https://img.youtube.com/vi/wS0ZQcA-VOk/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/YTwjrtz/banner-Santa-Luzia.jpg",
 		"bannerSanto": "https://i.ibb.co/YTwjrtz/banner-Santa-Luzia.jpg",
 		"bannerOracao": "https://i.ibb.co/PcGhz7X/banner-Santa-Luzia-Oracao.jpg",
 		"foto": "https://i.ibb.co/TtkB0Qx/foto-Santa-Luzia.jpg",
@@ -1001,7 +949,6 @@
 				"videoId": "R2-e8O82Syw",
 				"videoFoto": "https://img.youtube.com/vi/R2-e8O82Syw/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/bJmWNDt/banner-Sao-Bento.jpg",
 		"bannerSanto": "https://i.ibb.co/bJmWNDt/banner-Sao-Bento.jpg",
 		"bannerOracao": "https://i.ibb.co/Wgb3b0C/banner-Sao-Bento-Oracao.jpg",
 		"foto": "https://i.ibb.co/JRy5B86/foto-Sao-Bento.jpg",
@@ -1020,7 +967,6 @@
 				"videoId": "eRhOyTs0oaI",
 				"videoFoto": "https://img.youtube.com/vi/eRhOyTs0oaI/hqdefault.jpg"
 			},
-		"banner": "https://i.ibb.co/JsQJfZX/banner-Santa-Cecilia.jpg",
 		"bannerSanto": "https://i.ibb.co/JsQJfZX/banner-Santa-Cecilia.jpg",
 		"bannerOracao": "https://i.ibb.co/dKycmj4/banner-Santa-Cecilia-Oracao.jpg",
 		"foto": "https://i.ibb.co/nbCrjBt/foto-Santa-Cecilia.jpg",
