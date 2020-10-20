@@ -17,7 +17,7 @@
 		"banner": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
 		"foto": "https://i.ibb.co/Dz1NTwq/foto-Santo-Afonso-Maria-de-Ligorio.jpg",	
 		"celebracao": "Celebração: 20 de Outubro.",		
-		"dataCelebracao": "2020-10-20T00:00:00Z"	
+		"dataCelebracao": "20/10"	
 	},
 	{
 		"id": 57,
