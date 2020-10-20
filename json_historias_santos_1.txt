@@ -1,5 +1,24 @@
 [
 	{
+		"id": 56,
+		"titulo": "São Longuinho",
+		"historia": "São Longuinho ou Longino era um centurião romano de baixa estatura que servia nas festas da corte em Roma. ;Por ser pequeno, ele ajudava as pessoas a encontrarem objetos perdidos debaixo das meses durante as festas. ;Conta-nos a tradição que teria sido ele um dos centuriões que foram encarregados por Pilatos para vigiar a cruz de Nosso Senhor Jesus Cristo. ;E também teria sido ele aquele que atravessou o peito de Jesus com uma lança, ao invés de quebrar-lhe as pernas, como ocorreu com os outros crucificados, como vemos no Evangelho de São João: ;'Como o vissem já morto, não lhe quebraram as pernas, mas um dos soldados abriu-lhe o lado com uma lança e, imediatamente, saiu sangue e água' (Jo 19, 33-34). ;O nome Longuinho deriva da expressão grega 'longus' que significa 'lança'.",
+		"tituloOracao": "Oração a São Longuinho",
+		"oracao": "São Longuinho, meu valente protetor, ajudai-me a encontrar o que tanto procuro e necessito. ;Vós que reconhecestes a divindade de Jesus na cruz, revelai-nos onde se encontra a verdadeira felicidade. ;Ao furar com a lança o corpo padecido do Salvador, mostrastes à humanidade o coração sagrado de nosso Senhor Jesus Cristo, princípio da misericórdia divina. ;Deste modo, como nos auxiliastes a encontrar um porto seguro em Deus, conduza-nos para encontrar aquilo que desejamos. ;Ao realizarmos nosso desejo nos propomos, aos vossos pés, sempre bendizer o vosso nome e a propagar a vossa devoção para todos. ;Ajudai-nos, sobretudo, a encontrar a graça dos Céus e a reverenciar a majestade do Deus Altíssimo, o amor infinito do Filho e a consolação do Espírito Santo. Assim seja. ;São Longuinho, rogai por nós. Amém.",
+		"video": 
+			{
+				"descricao": "São Longuinho, o soldado que reconheceu Jesus como o 'Verdadeiro Filho de Deus'. Celebrado no dia 15 de março, São Longuinho é conhecido como o santo das coisas perdidas. ",
+				"dataPublicacao": "2020-10-19T12:00:10Z",
+				"videoId": "maF66zDm9jY",
+				"videoFoto": "https://img.youtube.com/vi/maF66zDm9jY/hqdefault.jpg"
+			},	
+		"bannerOracao": "https://i.ibb.co/Jds5mMt/banner-Sao-Longuinho-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/rsmCYn9/banner-Sao-Longuinho.jpg",
+		"banner": "https://i.ibb.co/rsmCYn9/banner-Sao-Longuinho.jpg",
+		"foto": "https://i.ibb.co/1Kw8D4K/foto-Sao-Longuinho.jpg",	
+		"celebracao": "Celebração: 15 de Março."			
+	},
+	{
 		"id": 55,
 		"titulo": "Santos Primo e Feliciano",
 		"historia": "Nascidos na Sabina, os irmãos Primo e Feliciano foram perseguidos e martirizados durante o império de Diocleciano e Maximiano. ;Poucos se sabe sobre sua origem, apenas que nesta época já estavam com uma certa idade e que ajudavam aos pobres e presos, consolando-os e animando-os. ;Nesta época, os primeiros cristãos eram perseguidos e torturados, sendo forçados a abandonar sua fé. ;Mas como se negavam a isso, sempre fiéis a Jesus Cristo, eram presos, torturados e martirizados por aqueles que cultuavam falsos deuses.",
