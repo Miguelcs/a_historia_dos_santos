@@ -14,6 +14,7 @@
 			},
 		"bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/HKm8yG0/banner-Sao-Pedro-de-Alcantara.jpg",
+		"bannerSantoDia": "https://i.ibb.co/TKh4CDL/banner-Sao-Pedro-de-Alcantara-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/rkSqwdK/foto-Sao-Pedro-de-Alcantara.jpg",	
 		"celebracao": "Celebração: 20 de Outubro.",		
 		"dataCelebracao": "20/10"	
