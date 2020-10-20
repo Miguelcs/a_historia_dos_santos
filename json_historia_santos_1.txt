@@ -1,5 +1,24 @@
 [
 	{
+		"id": 58,
+		"titulo": "São Pedro de Alcântara",
+		"historia": "'Aqueles que são de Cristo crucificaram a própria carne com os seus vícios e concupiscências' (Gal 5,24). ;Essa Palavra do Senhor se aplica muito bem a São Pedro de Alcântara, que lembramos hoje. Ele soube vencer o corpo do pecado por meio de muita oração e mortificações. Pedro nasceu em Alcântara, na Espanha, em 1499. ;Menino simples, orante e de bom comportamento, estudou na universidade ainda novo, mas soube, igualmente, destacar-se no cultivo das virtudes cristãs, até que, obediente ao Mestre, o casto e caridoso jovem entrou para a Ordem de São Francisco, embora seu pai quisesse para ele o Direito. Pedro foi ordenado sacerdote e tornou-se modelo de perfeição monástica e ocupante de altos cargos, que administrou até chegar, com vinte anos, a superior do convento e, mais tarde, eleito provincial da Ordem. ;Franciscano de espírito e convicção, era sempre de oração e jejum, poucas horas de sono, hábito surrado, grande pregador e companheiro das viagens. Como provincial, visitou todos os conventos da sua jurisdição, promovendo uma reforma de acordo com a regra primeira de São Francisco, da qual era testemunho vivo. Conhecido, sem desejar, em toda a Europa, foi conselheiro do imperador Carlos V e do rei João III, além de amigo dos santos e diretor espiritual de Santa Teresa de Ávila; esta, sobre ele, atestou depois da morte do santo: 'Pedro viveu e morreu como um santo e, por sua intercessão, conseguiu muitas graças de Deus'. ;Considerado um dos grandes místicos espanhóis do século XVI e dos que levaram a austeridade até um grau sobre-humano, entrou no Céu com 63 anos, em 1562, após sofrer muito e receber os últimos Sinais do Amor (Sacramentos), que o preparou para um lindo encontro com Cristo. ;São Pedro de Alcântara, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
+		"banner": "https://i.ibb.co/yfNDzCm/banner-Santo-Afonso-Maria-de-Ligorio.jpg",
+		"foto": "https://i.ibb.co/Dz1NTwq/foto-Santo-Afonso-Maria-de-Ligorio.jpg",	
+		"celebracao": "Celebração: 20 de Outubro."			
+	},
+	{
 		"id": 57,
 		"titulo": "Santo Afonso Maria de Ligório",
 		"historia": "Celebramos, neste dia, a memória de um santo Bispo e Doutor da Igreja que se tornou, pelo seu testemunho, patrono dos confessores e teólogos de doutrina moral. Afonso Maria de Ligório nasceu em Nápoles, na Itália, em 1696, numa nobre família que, ao saber das qualidades do menino prodígio, proporcionaram-lhe o caminho dos estudos a fim de levá-lo à fama. ;Com 16 anos, doutorou-se em Direito Civil e Eclesiástico, e já se destacava em sua posição social quando se deparou, involuntariamente, sustentando uma falsidade. Isso levou Afonso a profundas reflexões, a ponto de passar três dias seguidos em frente ao crucifixo. Escolhendo a renúncia profissional, a herança e títulos de nobreza, Santo Afonso acolheu sua via vocacional, já que o Senhor o queria advogando as causas do Cristo. ;Santo Afonso Maria de Ligório colocou todos os seus dons a serviço do Reino dos Céus, por isso, como sacerdote, desenvolveu várias missões entre os mendigos da periferia de Nápoles e camponeses; isso até contagiar vários e fundar a Congregação do Santíssimo Redentor, ou Redentoristas. Depois de percorrer várias cidades e vilas do sul da Itália convertendo pecadores, reformando costumes e santificando as famílias, Santo Afonso de Ligório, com 60 anos, foi eleito bispo, e assim pastoreou, com prudência e santidade, o povo de Deus, mesmo com a realidade de ter perdido a amizade do Papa e sido expulso de sua fundação. ;Entrou no Céu com 91 anos, depois de deixar vários escritos sobre a Doutrina Moral, sobre a devoção ao Santíssimo Sacramento e a respeito da Mãe de Deus, sendo o mais conhecido: 'As Glórias de Maria'. ;Santo Afonso Maria de Ligório, rogai por nós!",
