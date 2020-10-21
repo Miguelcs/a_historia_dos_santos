@@ -14,7 +14,7 @@
 			},
 		"bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/6rmyPm8/banner-Santa-Ursula.jpg",
-		"bannerSantoDia": "https://i.ibb.co/9wcbxPf/banner-Santa-Ursula-Santo-do-dia.jpg",
+		"bannerSantoDia": "https://i.ibb.co/Cw6Y0tF/banner-Santa-Ursula-Santo-do-dia.jpg",
 		"foto": "https://i.ibb.co/Ph0K9MB/foto-Santa-Ursula.jpg",	
 		"celebracao": "Celebração: 21 de Outubro.",		
 		"dataCelebracao": "21/10"	
