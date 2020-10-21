@@ -1,5 +1,25 @@
 [
 	{
+		"id": 59,
+		"titulo": "Santa Úrsula",
+		"historia": "Úrsula nasceu no ano 362, filha dos reis da Cornúbia, na Inglaterra. A fama de sua beleza se espalhou e ela passou a ser desejada por vários pretendentes (embora Úrsula tenha feito um voto secreto de consagração total a Deus). Seu pai acabou aceitando a proposta de casamento feita pelo duque Conanus, um general de exército pagão, seu aliado. ;Úrsula fora educada nos princípios cristãos. Por isso ficou muito triste ao saber que seu pretendente era pagão. Quis recusar a proposta mas, conforme costume da época, deveria acatar a decisão de seu pai. Pediu, então, um período de três anos para se preparar. Ela esperava converter o general Conanus durante esse tempo, ou então, encontrar um meio de evitar o casamento. Mas não conseguiu nem uma coisa, nem outra. ;Conforme o combinado, ela partiu para as núpcias, viajando de navio, acompanhada de onze jovens, virgens como ela, que iriam se casar com onze soldados do duque Conanus. Há lendas e tradições que falam em onze mil virgens, ao invés de onze apenas. Mas outros escritos da época e pesquisas arqueológicas revelaram que foram mesmo onze meninas. ;Foram navegando pelo rio Reno e chegaram a Colônia, na Alemanha. A cidade havia sido tomada pelo exército de Átila, rei dos hunos. Eles mataram toda a comitiva, sobrando apenas Úrsula, cuja beleza deixou encantado ao próprio Átila. Ele tentou seduzi-la e lhe propôs casamento. Ela recusou, dizendo que já era esposa do mais poderoso de todos os reis da Terra, Jesus Cristo. Átila, enfurecido, degolou pessoalmente a jovem, no dia 21 de outubro de 383. Em Colônia, uma igreja guarda o túmulo de Santa Úrsula e suas companheiras. ;Durante a Idade Média, a italiana Ângela de Mérici, fundou a Companhia de Santa Úrsula, com o objetivo de dar formação cristã a meninas. Seu projeto foi que essas futuras mamães seriam multiplicadoras do Evangelho, catequizando seus próprios filhos. Foi um avanço, tendo em vista que nesta época a preocupação com a educação era voltada apenas para os homens. Segundo a fundadora, o nome da ordem surgiu de uma visão que ela teve. ;Atualmente as Irmãs Ursulinas, como são chamadas as filhas de Santa Ângela, estão presentes nos cinco continentes, mantendo acesas as memórias de Santa Ângela e Santa Úrsula. ;Santa Úrsula, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/6rmyPm8/banner-Santa-Ursula.jpg",
+		"bannerSantoDia": "https://i.ibb.co/9wcbxPf/banner-Santa-Ursula-Santo-do-dia.jpg",
+		"foto": "https://i.ibb.co/Ph0K9MB/foto-Santa-Ursula.jpg",	
+		"celebracao": "Celebração: 21 de Outubro.",		
+		"dataCelebracao": "21/10"	
+	},
+	{
 		"id": 58,
 		"titulo": "São Pedro de Alcântara",
 		"historia": "'Aqueles que são de Cristo crucificaram a própria carne com os seus vícios e concupiscências' (Gal 5,24). ;Essa Palavra do Senhor se aplica muito bem a São Pedro de Alcântara, que lembramos hoje. Ele soube vencer o corpo do pecado por meio de muita oração e mortificações. Pedro nasceu em Alcântara, na Espanha, em 1499. ;Menino simples, orante e de bom comportamento, estudou na universidade ainda novo, mas soube, igualmente, destacar-se no cultivo das virtudes cristãs, até que, obediente ao Mestre, o casto e caridoso jovem entrou para a Ordem de São Francisco, embora seu pai quisesse para ele o Direito. Pedro foi ordenado sacerdote e tornou-se modelo de perfeição monástica e ocupante de altos cargos, que administrou até chegar, com vinte anos, a superior do convento e, mais tarde, eleito provincial da Ordem. ;Franciscano de espírito e convicção, era sempre de oração e jejum, poucas horas de sono, hábito surrado, grande pregador e companheiro das viagens. Como provincial, visitou todos os conventos da sua jurisdição, promovendo uma reforma de acordo com a regra primeira de São Francisco, da qual era testemunho vivo. Conhecido, sem desejar, em toda a Europa, foi conselheiro do imperador Carlos V e do rei João III, além de amigo dos santos e diretor espiritual de Santa Teresa de Ávila; esta, sobre ele, atestou depois da morte do santo: 'Pedro viveu e morreu como um santo e, por sua intercessão, conseguiu muitas graças de Deus'. ;Considerado um dos grandes místicos espanhóis do século XVI e dos que levaram a austeridade até um grau sobre-humano, entrou no Céu com 63 anos, em 1562, após sofrer muito e receber os últimos Sinais do Amor (Sacramentos), que o preparou para um lindo encontro com Cristo. ;São Pedro de Alcântara, rogai por nós!",
