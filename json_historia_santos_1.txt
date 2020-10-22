@@ -9,8 +9,8 @@
 			{
 				"descricao": "Reconciliadora dos pecadores ;'Ah! Meus filhos, é preciso rezar bem, à noite e de manhã, dizendo ao menos um Pai Nosso e uma Ave Maria, quando não puderdes rezar mais. Quando puderdes rezar mais, dizei mais'.",
 				"dataPublicacao": "2020-10-21T12:00:10Z",
-				"videoId": "",
-				"videoFoto": ""
+				"videoId": "uZ8Y5vxIstA",
+				"videoFoto": "https://img.youtube.com/vi/uZ8Y5vxIstA/hqdefault.jpg"
 			},		
 		"bannerOracao": "https://i.ibb.co/Vm2sGd3/banner-Nossa-Senhora-de-La-Salette-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/2SBg127/banner-Nossa-Senhora-de-La-Salette.jpg",
