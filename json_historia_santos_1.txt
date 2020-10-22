@@ -94,7 +94,7 @@
 			},
 		"bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/HKm8yG0/banner-Sao-Pedro-de-Alcantara.jpg",
-		"bannerSantoDia": "https://i.ibb.co/hsgM6H6/banner-Sao-Pedro-de-Alcantara-Santo-do-dia.png",
+		"bannerSantoDia": "https://i.ibb.co/TKh4CDL/banner-Sao-Pedro-de-Alcantara-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/rkSqwdK/foto-Sao-Pedro-de-Alcantara.jpg",	
 		"celebracao": "Celebração: 20 de Outubro.",		
 		"dataCelebracao": "20/10"	
@@ -186,7 +186,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/ckLn8Hv/banner-Sao-Cosme-Damiao-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/x2KkzKH/banner-Sao-Cosme-Damiao.jpg",
-		"foto": "https://i.ibb.co/8z1pLsH/foto-Sao-Cosme-Damiao.jpg",	
+		"foto": "https://i.ibb.co/dtKbKpp/foto-Sao-Cosme-Damiao-1.jpg",	
 		"celebracao": "Celebração: 26 de setembro."			
 	},
 	{
@@ -204,7 +204,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/5FxkM97/banner-Santo-Expedito-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/syY7WzH/banner-Santo-Expedito.jpg",
-		"foto": "https://i.ibb.co/QPvnxyw/foto-Santo-Expedito.jpg",	
+		"foto": "https://i.ibb.co/GtMnYrz/foto-Santo-Expedito-1.jpg",	
 		"celebracao": "Celebração: 19 de abril."			
 	},
 	{
@@ -222,7 +222,7 @@
 			},		
 		"bannerOracao": "https://i.ibb.co/BrrtX8f/banner-Santa-Zita-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/vcWgYRk/banner-Santa-Zita.jpg",
-		"foto": "https://i.ibb.co/KrX2mjn/foto-Santa-Zita.jpg",	
+		"foto": "https://i.ibb.co/ChhdNRn/foto-Santa-Zita-1.jpg",	
 		"celebracao": "Celebração: 27 de abril."			
 	},
 	{
@@ -492,7 +492,7 @@
 			},
 		"bannerOracao": "https://i.ibb.co/rmHwTwr/banner-Sao-Judas-Tadeu-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/k0dbLXk/banner-Sao-Judas-Tadeu.jpg",
-		"foto": "https://i.ibb.co/8D951wP/foto-Sao-Judas-Tadeu.jpg",
+		"foto": "https://i.ibb.co/W0TCyp7/foto-Sao-Judas-Tadeu-1.jpg",
 		"celebracao": "Celebração: 28 de outubro."	
 	},
 	{
