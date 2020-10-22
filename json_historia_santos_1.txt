@@ -1,5 +1,25 @@
 [
 	{
+		"id": 63,
+		"titulo": "São João de Capistrano",
+		"historia": "O santo de hoje fez da ação um ato de amor e do amor uma força para a ação, por isso, muito penitente e grande devoto do nome de Jesus chegou à santidade. João nasceu em Capistrano (Itália), em 1386, e com privilegiado e belos talentos, cursou os estudos jurídicos na universidade de Perusa. ;Juiz de direito, casado e nomeado governador de uma cidade na Itália, acabou na prisão por causa de intrigas políticas. Diante do sistema do mundo, frágil, felicidade terrena, e após a morte de sua esposa, João quis entrar numa Ordem religiosa. Com este objetivo teve João a coragem de vender os bens, pagar o resgate de sua missão, dar o resto aos pobres e seguir Jesus como São Francisco de Assis. O superior da Ordem, conhecendo os antecedentes de João, o submeteu a duras provas de sua vocação e, por tudo, João passou com humildade e paciência. ;Ordenado sacerdote consagrou-se ao poder do Espírito no apostolado da pregação; viveu de modo profundo o espírito de mortificação. João de Capistrano enfrentou a ameaça dos turcos contra a Europa e a tentativa de desunião no seio da própria Ordem Franciscana. Apesar de homem de ação prodigiosa e de suas contínuas viagens através de toda a Europa descalço, João foi também escritor fecundo, consumido pelo trabalho. ;São João tinha muita habilidade para a diplomacia; era sábio, prudente, e media muito bem seus julgamentos e suas palavras. Tinha sido juiz e governador e sabia tratar muito bem às pessoas. Por isso quatro Pontífices (Martinho V, Eugênio IV, Nicolau V e Calixto III) empregaram-no como embaixador em muitas e muito delicadas missões diplomáticas e com muito bons resultados. ;Três vezes os Sumos Pontífices quiseram nomeá-lo Bispo de importantes cidades, mas preferiu seguir sendo humilde pregador, pobre e sem títulos honoríficos. Em 1453, os turcos muçulmanos propuseram invadir a Europa para acabar com o Cristianismo. Então São João foi à Hungria e percorreu toda a nação pregando ao povo, incitando-o a sair entusiasta em defesa de sua santa religião. As multidões responderam a seu chamado, e logo se formou um bom exército de crentes. Os muçulmanos chegaram perto de Belgrado com 200 canhões, uma grande frota de navios de guerra pelo rio Danúbio, e 50.000 terríveis jenízaros da cavalo, armados até os dentes. Os chefes católicos pensaram em retirar-se porque eram muito inferiores em número. ;Mas foi aqui quando interveio João de Capistrano: empunhando um crucifixo, foi percorrendo com ele todas as fileiras, animando os soldados com a lembrança de que iam combater por Jesus Cristo, o grande Deus dos exércitos. tanta confiança e coragem inspirou a presença do santo aos cristãos, que logo ao primeiro ímpeto foi derrotado o exército otomano. ;Morreu aos 71 anos de idade a 23 de outubro de 1456 e foi beatificado pelo Papa Leão X e solenemente canonizado pelo Papa Alexandre VIII no ano de 1690. São João de Capistrano, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/2t5wp83/banner-Sao-Joao-de-Capistrano.jpg",
+		"bannerSantoDia": "https://i.ibb.co/9stLh76/banner-Sao-Joao-Capistrano-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/Qvkkymk/foto-Sao-Joao-de-Capistrano.jpg",	
+		"celebracao": "Celebração: 23 de Outubro.",		
+		"dataCelebracao": "23/10"	
+	},
+	{
 		"id": 62,
 		"titulo": "Nossa Senhora de La Salette",
 		"historia": "O título de Nossa Senhora de La Salette se refere à aparição de Maria Santíssima a dois pastorinhos em uma montanha dos Alpes franceses, no dia 19 de setembro de 1846. ;Sendo descrita como uma senhora de grande beleza, a Santíssima Virgem tinha um semblante muito triste, derramando lágrimas durante toda a aparição. ;Como nas últimas aparições, Nossa Senhora decidiu aparecer aos simples e humildes, pois eram almas singelas e dariam ouvidos as suas palavras sem duvidar. ;Foi assim em Ruc du Bac, onde a noviça Santa Catarina Labouré recebeu as revelações da Medalha Milagrosa. ;Em Lourdes, quando a jovem Bernadette ouviu as promessas da Virgem Imaculada. ;Em Fátima, quando a Mãe Santíssima apareceu aos três pastorinhos na Cova da Iria. ;Em La Salette, Nossa Senhora apareceu a duas crianças, uma menina e um menino, que eram pastorinhos nas montanhas dos Alpes franceses.",
