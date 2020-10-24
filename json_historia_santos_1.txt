@@ -1,5 +1,25 @@
 [
 	{
+		"id": 65,
+		"titulo": "Santo André",
+		"historia": "Nascido em Betsaida, Santo André era pescador, assim como seu pai Jonas e seu irmão São Pedro, e, também foi discípulo de São João Batista. ;Santo André é reconhecido como o 'protocleto', o primeiro chamado: ;'Primeiro a escutar o apelo, ao Mestre, Pedro conduzes; possamos ao céu chegar, guiados por tuas luzes!'",
+		"tituloOracao": "Oração a Santo André",
+		"oracao": "Santo André, Apóstolo de Jesus Cristo, que conheceste a exigência e a alegria de seu primeiro apelo, dá-nos a graça de responder-lhe com a mesma fidelidade, de O servir cada dia no lugar que Ele para nós escolheu. Tu que distribuíste à multidão faminta o pão que o Senhor multiplicava em tuas mãos, obtém para nossa pobreza o mesmo milagre. Faze que esperemos o socorro de Deus com a invencível esperança do amor, preocupados unicamente com o advento de seu Reino. ;Testemunha da boa-nova que tua voz levou até as extremidades da terra, conserva nos apóstolos de nosso tempo esta fé viva que transporta montanhas e constrói o Reino. ;Mártir de teu testemunho,concede-nos a graça de união à Cruz de Jesus Cristo;que ela seja a alegria de nossa vidae o penhor de nossa ressurreição na claridade de Deus. Amém!",
+		"video": 
+			{
+				"descricao": "'Salve, santa cruz, tão amada e desejada! ;Tira-me do meio dos homens e entrega-me ao meu Mestre e Senhor, para que eu de ti receba o que por ti me salvou'.",
+				"dataPublicacao": "2020-10-23T12:00:10Z",
+				"videoId": "mozmZQoHfLA",
+				"videoFoto": "https://img.youtube.com/vi/mozmZQoHfLA/hqdefault.jpg"
+			},				
+		"bannerOracao": "https://i.ibb.co/q7YBQS8/banner-Santo-Andre-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/RSgjcCP/banner-Santo-Andre.png",
+		"bannerSantoDia": "https://i.ibb.co/0yJw5wN/banner-Santo-Andre-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/t4BHr3z/foto-Santo-Andre.png",	
+		"celebracao": "Celebração: 30 de Novembro.",		
+		"dataCelebracao": "30/11"	
+	},
+	{
 		"id": 64,
 		"titulo": "Santo Antônio Maria Claret",
 		"historia": "O santo lembrado hoje foi de muita importância para a Igreja que guarda o testemunho de sua santidade, que mereceu a frase do Papa Pio XI que disse: 'Antônio Maria Claret é uma figura verdadeiramente grande, como apóstolo infatigável'. Nasceu em 1807 em Sallent (Província de Barcelona – Espanha), ao ser batizado recebeu o nome de Antônio João, ao qual ele veio depois acrescentar o de Maria como sinal de sua especial devoção à Santíssima Virgem: 'Nossa Senhora é minha Mãe, minha Madrinha, minha Mestra, meu tudo, depois de Cristo'. ;Antônio Maria ajudou o pai numa fábrica de tecidos até os 22 anos, quando entrou para o seminário de vida, pois almejava um sacerdócio santo e como padre desejou consagrar-se nas difíceis missões da Espanha. Ao ver a pobreza dos missionários e as portas se abrindo, Antônio Maria, com amigos, tratou de fundar a 'Congregação dos Missionários Filhos do Imaculado Coração de Maria', conhecidos como Claretianos. ;O Carisma era evangelizar todos os setores, por meio da caridade de Cristo que constrangia, por isso dizia: 'Não posso resistir aos impulsos interiores que me chamam para salvar almas. Tenho sede de derramar o meu sangue por Cristo!' Mal tinha fundado a Congregação, o Espírito o nomeou para Arcebispo de Santiago de Cuba, onde fez de tudo, até arriscar a própria vida, para defender os oprimidos da ilha e converter a todos, conta-se que ao chegar às terras cubanas foi logo visitar e consagrar o apostolado à Nossa Senhora do Cobre. ;Com os amigos o Arcebispo Santo Antônio Maria Claret, evangelizou milhares de almas, isto através de missões populares e escritos, que chegaram a 144 obras. Fundador das Religiosas de Maria Imaculada, voltou a Espanha, também tornou-se confessor e conselheiro particular da rainha Isabel II; participou do Concílio Vaticano I, e ao desviar-se de calúnias retirou-se na França onde continuou o apostolado até passar pela morte e chegar na glória em 24 de outubro de 1870. ;Foi beatificado em 1934 pelo Papa Pio XI e canonizado por Pio XII em 1950. Pelo seu amor ao Imaculado Coração de Maria e pelo seu apostolado do Rosário, tem uma estátua de mármore no interior da Basílica de Fátima. ;Santo Antônio Maria Claret, rogai por nós!",
