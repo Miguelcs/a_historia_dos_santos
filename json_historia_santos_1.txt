@@ -1,5 +1,25 @@
 [
 	{
+		"id": 66,
+		"titulo": "Santo Antônio de Sant'Anna Galvão",
+		"historia": "Conhecido como 'o homem da paz e da caridade', Antônio de Sant’Anna Galvão, popularmente conhecido como Frei Galvão nasceu no dia 10 de maio de 1739, na cidade de Guaratinguetá (SP). ;Filho de Antônio Galvão, português natural da cidade de Faro em Portugal, e de Isabel Leite de Barros, natural da cidade de Pindamonhangaba, em São Paulo. O ambiente familiar era profundamente religioso. Antônio viveu com seus irmãos numa casa grande e rica, pois seus pais gozavam de prestígio social e influência política. ;O pai, querendo dar uma formação humana e cultural segundo suas possibilidades econômicas, mandou Antônio, com a idade de 13 anos, à Bahia, a fim de estudar no seminário dos padres jesuítas. ;Em 1760, ingressou no noviciado da Província Franciscana da Imaculada Conceição, no Convento de São Boaventura do Macacu, na Capitania do Rio de Janeiro. Foi ordenado sacerdote no dia 11 de julho de 1762, sendo transferido para o Convento de São Francisco em São Paulo. ;Em 1774, fundou o Recolhimento de Nossa Senhora da Conceição da Divina Providência, hoje Mosteiro da Imaculada Conceição da Luz, das Irmãs Concepcionistas da Imaculada Conceição. ;Cheio do espírito da caridade, não media sacrifícios para aliviar os sofrimentos alheios. Por isso o povo a ele recorria em suas necessidades. A caridade de Frei Galvão brilhou, sobretudo, como fundador do mosteiro da Luz, pelo carinho com que formou as religiosas e pelo que deixou nos estatutos do então recolhimento da Luz. São páginas que tratam da espiritualidade, mas em particular da caridade de como devem ser vivida a vida religiosa e tratadas as pessoas de dentro e de fora do 'recolhimento'. ;Às 10 horas do dia 23 de dezembro de 1822, no Mosteiro da Luz de São Paulo, havendo recebido todos os sacramentos, adormeceu santamente no Senhor, contando com seus quase 84 anos de idade. Foi sepultado na Capela-Mor da Igreja do Mosteiro da Luz, e sua sepultura ainda hoje continua sendo visitada pelos fiéis. ;Sobre a lápide do sepulcro de Frei Galvão está escrito para eterna memória: 'Aqui jaz Frei Antônio de Sant’Anna Galvão, ínclito fundador e reitor desta casa religiosa, que tendo sua alma sempre em suas mãos, placidamente faleceu no Senhor no dia 23 de dezembro do ano de 1822'. Sob o olhar de sua Rainha, a Virgem Imaculada, sob a luz que ilumina o tabernáculo, repousa o corpo do escravo de Maria e do Sacerdote de Cristo, a continuar, ainda depois da morte, a residir na casa de sua Senhora ao lado de seu Senhor Sacramentado. ;Frei Galvão é o religioso cujo coração é de Deus, mas as mãos e os pés são dos irmãos. Toda a sua pessoa era caridade, delicadeza e bondade: testemunhou a doçura de Deus entre os homens. Era o homem da paz, e como encontramos no Registro dos Religiosos Brasileiros: 'O seu nome é em São Paulo, mais que em qualquer outro lugar, ouvido com grande confiança e não uma só vez, de lugares remotos, muitas pessoas o vinham procurar nas suas necessidades'. ;O dia 25 de outubro, dia oficial do santo, foi estabelecido, na Liturgia, pelo saudoso Papa João Paulo II, na ocasião da beatificação de Frei Galvão em 1998 em Roma. Com a canonização do primeiro santo que nasceu, viveu e morreu no Brasil, a 11 de maio de 2007, o Papa Bento XVI manteve a data de 25 de outubro. ;Santo Antônio de Sant’Anna Galvão, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},				
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/sKQnd4Z/banner-Santo-Antonio-de-Sant-Anna-Galvao.png",
+		"bannerSantoDia": "https://i.ibb.co/st9V04d/banner-Santo-Antonio-de-Sant-Anna-Galvao-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/JrSpw7H/foto-Santo-Antonio-de-Sant-Anna-Galvao.png",	
+		"celebracao": "Celebração: 25 de Outubro.",		
+		"dataCelebracao": "25/10"	
+	},
+	{
 		"id": 65,
 		"titulo": "Santo André",
 		"historia": "Nascido em Betsaida, Santo André era pescador, assim como seu pai Jonas e seu irmão São Pedro, e, também foi discípulo de São João Batista. ;Santo André é reconhecido como o 'protocleto', o primeiro chamado: ;'Primeiro a escutar o apelo, ao Mestre, Pedro conduzes; possamos ao céu chegar, guiados por tuas luzes!'",
