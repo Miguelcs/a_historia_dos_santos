@@ -1,5 +1,45 @@
 [
 	{
+		"id": 69,
+		"titulo": "São Gonçalo de Lagos",
+		"historia": "Este santo português nasceu em Lagos, no Algarve, por volta do ano de 1370. Tomou o hábito de Santo Agostinho no convento da Graça, em Lisboa, aos 20 anos. ;Dedicou-se à uma vida de jejuns e de penitências enquanto aplicava-se às letras e aos estudos. Homem zeloso na vivência da Regra Religiosa, virtuoso e cheio de pureza, Gonçalo dedicou-se também à pregação chegando a ser superior de alguns mosteiros da sua Ordem. ;O último mosteiro foi o de Torres Vedras, onde morreu em 1422, depois de exortar aos que viviam com ele no mosteiro à observância religiosa e para uma vida virtuosa. ;São Gonçalo de Lagos, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},				
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/xM4cFY0/banner-Sao-Goncalo.png",
+		"bannerSantoDia": "https://i.ibb.co/3TNxCSw/banner-Sao-Goncalo-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/cXtvDWX/foto-Sao-Goncalo.png",	
+		"celebracao": "Celebração: 26 de Outubro.",		
+		"dataCelebracao": "26/10"
+	},
+	{
+		"id": 68,
+		"titulo": "São Tiago Maior",
+		"historia": "São Tiago, chamado o Maior, era filho de Zebedeu e de Maria Salomé, irmão de São João Evangelista. ;Chamado de Boanerges, 'Filho do trovão', assim como seu irmão, pois foi um homem cuja pregação abalou os corações, convertendo a muitos e fazendo-os aceitar a verdade. ;Chamado Tiago, o Maior para diferenciá-lo do outro Apóstolo Tiago, o Menor, filho de Alfeu.",
+		"tituloOracao": "Oração a São Tiago Maior",
+		"oracao": "Ó Deus, que a vossa Igreja exulte sempre no constante louvor do Apóstolo São Tiago, Maior, para que, sustentada por sua doutrina e intercessão, seja fiel a seus ensinamentos. ;Por Cristo nosso Senhor. Amém!",
+		"video": 
+			{
+				"descricao": "'Em nome de Jesus Cristo, por cuja fé sou conduzido à decapitação, levante curado e bendiga ao seu Criador'.",
+				"dataPublicacao": "2020-10-26T12:00:10Z",
+				"videoId": "FJiF6zY6iP8",
+				"videoFoto": "https://img.youtube.com/vi/FJiF6zY6iP8/hqdefault.jpg"
+			},			
+		"bannerOracao": "https://i.ibb.co/2tH6D5J/banner-Sao-Tiago-Maior-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/B2xyYGw/banner-Sao-Tiago-Maior.png",
+		"bannerSantoDia": "https://i.ibb.co/5syBbh7/banner-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/bddzKbP/foto-Sao-Tiago-Maior.png",	
+		"celebracao": "Celebração: 25 de Julho.",		
+		"dataCelebracao": "25/07"
+	},
+	{
 		"id": 67,
 		"titulo": "São Luís Orione",
 		"historia": "O Papa João Paulo II, em 1980, colocou diante dos nossos olhos um grande exemplo de santidade expressa na caridade: Luís Orione. Nasceu em Pontecurone, um pequeno município na Diocese de Tortona, no Norte da Itália, no dia 23 de junho de 1872.Bem cedo percebeu o chamado do Senhor ao sacerdócio. Ao entrar no Oratório, em Turim, recebeu no coração as palavras de São Francisco de Sales lançadas pelo amado São João Bosco: 'Um terno amor ao próximo é um dos maiores e excelentes dons que a Divina Providência pode conceder aos homens'. Concluiu o ginásio, deixou o Oratório Salesiano, voltou para casa e depois entrou no seminário onde cursou filosofia, teologia, até chegar ao sacerdócio que teve como lema: 'Renovar tudo em Cristo'. Luís Orione, sensível aos sofrimentos da humanidade, deixou-se guiar pela Divina Providência, a fim de aliviar as misérias humanas. ;Sendo assim, dedicou-se totalmente aos doentes, necessitados e marginalizados da sociedade. Também fundou a Congregação da 'Pequena Obra da Divina Providência'. Em 1899, Dom Orione deu início a mais um ramo da nova Congregação: os 'Eremitas da Divina Providência'. Em 1903, Dom Orione recebeu a aprovação canônica aos 'Filhos da Divina Providência', Congregação Religiosa de Padres, Irmãos e Eremitas da Família da Pequena Obra da Divina Providência. ;A Congregação e toda a Família Religiosa propunham-se a 'trabalhar para levar os pequenos, os pobres e o povo à Igreja e ao Papa, mediante obras de caridade'. Dom Orione teve atuação heroica no socorro às vítimas dos terremotos de Reggio e Messina (1908) e da Marsica (1915). ;Por decisão do Papa São Pio X, foi nomeado Vigário Geral da Diocese de Messina por 3 anos. Vinte anos depois da fundação dos 'Filhos da Divina Providência', em 1915, surgiu como novo ramo a Congregação das 'Pequenas Irmãs Missionárias da Caridade', Religiosas movidas pelo mesmo carisma fundacional. ;O zelo missionário de Dom Orione se manifestou cedo com o envio de missionários ao Brasil, em 1913, e, em seguida, à Argentina, ao Uruguai e aos diversos países espalhados pelo mundo. Dom Orione esteve pessoalmente, como missionário, duas vezes, na América Latina: em 1921 e nos anos de 1934 a 1937, no Brasil, na Argentina e no Uruguai, tendo chegado até ao Chile. Foi pregador popular, confessor e organizador de peregrinações, de missões populares e de presépios vivos. ;Grande devoto de Nossa Senhora, propagou de todos os modos a devoção mariana e ergueu santuários, entre os quais: o de Nossa Senhora da Guarda, em Tortona; e o de Nossa Senhora de Caravaggio. Na construção desses santuários, será sempre lembrada a iniciativa de Dom Orione de colocar seus clérigos no trabalho braçal ao lado dos mais operários civis. ;Em 1940, Dom Orione atacado por graves doenças de coração e das vias respiratórias foi enviado para Sanremo. E ali, três dias depois de ter chegado, morreu no dia 12 de março, sussurrando suas últimas palavras: 'Jesus! Jesus! Estou indo'. Vinte e cinco anos depois, em 1965, seu corpo foi encontrado incorrupto e depositado numa urna para veneração pública, junto ao Santuário da Guarda, em Sanremo na Itália. ;O Papa Pio XII o denominou: 'pai dos pobres, benfeitor da humanidade sofredora e abandonada'; e o Papa João Paulo II, depois de tê-lo declarado beato, em 26 de outubro de 1980, finalmente o canonizou em 16 de maio de 2004. São Luís Orione, rogai por nós!",
