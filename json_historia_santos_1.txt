@@ -1,5 +1,25 @@
 [
 	{
+		"id": 70,
+		"titulo": "São Simão",
+		"historia": "São Simão: Simão tinha o cognome de Cananeu, palavra hebraica que significa 'zeloso'. Nicéforo Calisto diz que Simão pregou na África e na Grã-Bretanha. São Fortunato, Bispo de Poitiers no fim do século VI, indica estarem Simão e Judas enterrados na Pérsia. IsSo vem das histórias apócrifas dos apóstolos; segundo elas, foram martirizados em Suanir, na Pérsia, a mando de sacerdotes pagãos que instigaram as autoridades locais e o povo, tendo sido ambos decapitados. É o que rege o martirológio jeronimita. ;Outros dizem que Simão foi sepultado perto do Mar Negro; na Caucásia, foi elevada em sua honra uma igreja entre o VI e o VIII séculos. Beda, pelo ano de 735, colocou os dois santos no martirológio a 28 de outubro; assim ainda hoje os celebramos. Na antiga basílica de São Pedro do Vaticano havia uma capela dos dois santos, Simão e Judas, e nela se conservava o Santíssimo Sacramento.",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},				
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/234cRFT/banner-Sao-Simao.png",
+		"bannerSantoDia": "https://i.ibb.co/hMrVZnS/banner-Sao-Simao-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/QHbVQmz/foto-Sao-Simao.png",	
+		"celebracao": "Celebração: 28 de Outubro.",		
+		"dataCelebracao": "28/10"
+	},
+	{
 		"id": 69,
 		"titulo": "São Gonçalo de Lagos",
 		"historia": "Este santo português nasceu em Lagos, no Algarve, por volta do ano de 1370. Tomou o hábito de Santo Agostinho no convento da Graça, em Lisboa, aos 20 anos. ;Dedicou-se à uma vida de jejuns e de penitências enquanto aplicava-se às letras e aos estudos. Homem zeloso na vivência da Regra Religiosa, virtuoso e cheio de pureza, Gonçalo dedicou-se também à pregação chegando a ser superior de alguns mosteiros da sua Ordem. ;O último mosteiro foi o de Torres Vedras, onde morreu em 1422, depois de exortar aos que viviam com ele no mosteiro à observância religiosa e para uma vida virtuosa. ;São Gonçalo de Lagos, rogai por nós!",
