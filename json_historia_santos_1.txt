@@ -1,4 +1,4 @@
-[
+[		
 	{
 		"id": 70,
 		"titulo": "São Simão",
@@ -182,7 +182,7 @@
 	{
 		"id": 61,
 		"titulo": "São João Paulo II",
-		"historia": "São João Paulo II nasceu no dia 18 de Maio de 1920, em Wadowice, na Polônia. Foi batizado com o nome de Karol Wojtyła. ;Em Outubro de 1942, entrou no seminário de Cracóvia clandestinamente, por causa da invasão comunista em seu país, e a 1º de Novembro de 1946, foi ordenado sacerdote. Em 4 de Julho de 1958, o Papa Pio XII nomeou-o Bispo auxiliar de Cracóvia. Tendo em vista sua espiritualidade marcadamente mariana, Karol escolheu como lema episcopal a conhecida expressão 'Totus tuus', de São Luís Maria Grignion de Montfort, grande apóstolo da Virgem Maria. A ordenação episcopal de Wojtyla foi em 28 de Setembro do mesmo ano. No dia 13 de Janeiro de 1964, foi eleito Arcebispo de Cracóvia. Em 26 de Junho de 1967, foi criado Cardeal por Paulo VI. Na tarde de 16 de Outubro de 1978, depois de oito escrutínios, foi eleito Papa. ;A espiritualidade mariana do grande São João Paulo II o levou a uma vida inteiramente dedicada a Deus, principalmente os seus mais de 25 anos de pontificado, um dos mais longos da história da Igreja. Olhando para a vida de João Paulo II, este santo dos nossos dias, podemos aprender a espiritualidade que o fez de um dos Papas mais extraordinários de todos os tempos e que o elevou rapidamente à glória dos altares. ;Ainda seminarista, um livro clássico de espiritualidade mariana o ajudou a tirar as dúvidas que tinha em relação a devoção a Nossa Senhora e a centralidade de Jesus Cristo na vida e na espiritualidade católica. ;A obra que marcou profundamente a vida e consequentemente a espiritualidade de Karol Wojtyla foi o 'Tratado da Verdadeira Devoção à Santíssima Virgem', de São Luís Maria Grignion de Montfort. Falando às Famílias Monfortinas, o Papa João Paulo II disse que o Tratado é um 'texto clássico da espiritualidade mariana', que teve singular importância em seu pensamento e em sua vida. Segundo o Santo Padre, o Tratado é uma 'obra de eficiência extraordinária para a difusão da ‘verdadeira devoção’ à Virgem Santíssima'. São João Paulo II experimentou e testemunhou essa eficácia do Tratado em sua própria vida: ;'Eu próprio, nos anos da minha juventude, tirei grandes benefícios da leitura deste livro, no qual encontrei a resposta às minhas perplexidades devidas ao receio que o culto a Maria, dilatando-se excessivamente, acabasse por comprometer a supremacia do culto devido a Cristo”. Sob a orientação sábia de São Luís Maria compreendi que, quando se vive o mistério de Maria em Cristo, esse risco não subsiste. O pensamento mariológico do Santo, de fato, está radicado no Mistério trinitário e na verdade da Encarnação do Verbo de Deus'. ;No dia 22 de Outubro, a Igreja Católica celebra o dia de São João Paulo II. A data foi estabelecida pelo papa Francisco por simbolizar o dia em que Karol Wojtyla celebrou sua primeira missa como Pontífice, em 1978, iniciando seu pontificado. ;São João Paulo II, rogai por nós!",
+		"historia": "São João Paulo II nasceu no dia 18 de Maio de 1920, em Wadowice, na Polônia. Foi batizado com o nome de Karol Wojtyła. ;Em Outubro de 1942, entrou no seminário de Cracóvia clandestinamente, por causa da invasão comunista em seu país, e a 1º de Novembro de 1946, foi ordenado sacerdote. Em 4 de Julho de 1958, o Papa Pio XII nomeou-o Bispo auxiliar de Cracóvia. Tendo em vista sua espiritualidade marcadamente mariana, Karol escolheu como lema episcopal a conhecida expressão 'Totus tuus', de São Luís Maria Grignion de Montfort, grande apóstolo da Virgem Maria. A ordenação episcopal de Wojtyla foi em 28 de Setembro do mesmo ano. No dia 13 de Janeiro de 1964, foi eleito Arcebispo de Cracóvia. Em 26 de Junho de 1967, foi criado Cardeal por Paulo VI. Na tarde de 16 de Outubro de 1978, depois de oito escrutínios, foi eleito Papa. ;A espiritualidade mariana do grande São João Paulo II o levou a uma vida inteiramente dedicada a Deus, principalmente os seus mais de 25 anos de pontificado, um dos mais longos da história da Igreja. Olhando para a vida de João Paulo II, este santo dos nossos dias, podemos aprender a espiritualidade que o fez de um dos Papas mais extraordinários de todos os tempos e que o elevou rapidamente à glória dos altares. ;Ainda seminarista, um livro clássico de espiritualidade mariana o ajudou a tirar as dúvidas que tinha em relação a devoção a Nossa Senhora e a centralidade de Jesus Cristo na vida e na espiritualidade católica. ;A obra que marcou profundamente a vida e consequentemente a espiritualidade de Karol Wojtyla foi o 'Tratado da Verdadeira Devoção à Santíssima Virgem', de São Luís Maria Grignion de Montfort. Falando às Famílias Monfortinas, o Papa João Paulo II disse que o Tratado é um 'texto clássico da espiritualidade mariana', que teve singular importância em seu pensamento e em sua vida. Segundo o Santo Padre, o Tratado é uma 'obra de eficiência extraordinária para a difusão da ‘verdadeira devoção’ à Virgem Santíssima'. São João Paulo II experimentou e testemunhou essa eficácia do Tratado em sua própria vida: ;'Eu próprio, nos anos da minha juventude, tirei grandes benefícios da leitura deste livro, no qual encontrei a resposta às minhas perplexidades devidas ao receio que o culto a Maria, dilatando-se excessivamente, acabasse por comprometer a supremacia do culto devido a Cristo'. Sob a orientação sábia de São Luís Maria compreendi que, quando se vive o mistério de Maria em Cristo, esse risco não subsiste. O pensamento mariológico do Santo, de fato, está radicado no Mistério trinitário e na verdade da Encarnação do Verbo de Deus'. ;No dia 22 de Outubro, a Igreja Católica celebra o dia de São João Paulo II. A data foi estabelecida pelo papa Francisco por simbolizar o dia em que Karol Wojtyla celebrou sua primeira missa como Pontífice, em 1978, iniciando seu pontificado. ;São João Paulo II, rogai por nós!",
 		"tituloOracao": "",
 		"oracao": "",
 		"video": 
@@ -649,11 +649,13 @@
 				"dataPublicacao": "2020-06-21T12:00:10Z",
 				"videoId": "T0N0DkJl-n8",
 				"videoFoto": "https://img.youtube.com/vi/T0N0DkJl-n8/hqdefault.jpg"
-			},
+			},					
 		"bannerOracao": "https://i.ibb.co/rmHwTwr/banner-Sao-Judas-Tadeu-Oracao.jpg",
 		"bannerSanto": "https://i.ibb.co/k0dbLXk/banner-Sao-Judas-Tadeu.jpg",
+		"bannerSantoDia": "https://i.ibb.co/3RnnsDC/banner-Sao-Judas-Tadeu-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/W0TCyp7/foto-Sao-Judas-Tadeu-1.jpg",
-		"celebracao": "Celebração: 28 de outubro."	
+		"celebracao": "Celebração: 28 de outubro.",		
+		"dataCelebracao": "28/10"
 	},
 	{
 		"id": 35,
@@ -712,7 +714,7 @@
 	{
 		"id": 32,
 		"titulo": "São Rafael Arcanjo",
-		"historia": "Rafael significa 'Deus cura'. Ele é  o guardião da saúde e da cura física e espiritual.;São Rafael Arcanjo conduz a humanidade ao caminho da defesa contra os males físicos e espirituais.;Ele é “um dos sete anjos santos que assistem diante da claridade do Senhor e estão em Sua presença” (Tb 12,15).",
+		"historia": "Rafael significa 'Deus cura'. Ele é  o guardião da saúde e da cura física e espiritual.;São Rafael Arcanjo conduz a humanidade ao caminho da defesa contra os males físicos e espirituais. ;Ele é 'um dos sete anjos santos que assistem diante da claridade do Senhor e estão em Sua presença' (Tb 12,15).",
 		"tituloOracao": "Oração a São Rafael Arcanjo",
 		"oracao": "Ficai conosco, ó arcanjo Rafael, chamado Medicina de Deus! ;Afastai para longe de nós as doenças do corpo, da alma e do espírito e trazei-nos a saúde e toda plenitude de vida prometida por Nosso Senhor Jesus Cristo. Amém.",
 		"video": 
@@ -1212,5 +1214,25 @@
 		"bannerOracao": "https://i.ibb.co/dKycmj4/banner-Santa-Cecilia-Oracao.jpg",
 		"foto": "https://i.ibb.co/nbCrjBt/foto-Santa-Cecilia.jpg",
 		"celebracao": "Celebração: 22 de Novembro."	
+	},
+	{
+		"id": 4,
+		"titulo": "São Januário (San Gennaro)",
+		"historia": "São Januário, também conhecido como San Gennaro, viveu no fim do século III, em uma época de perseguição ao Cristianismo. Januário foi martirizado testemunhando sua fé, na época do Imperador Diocleciano. ;Era considero um bom homem, cheio de fé e muito caridoso. Por isso foi eleito Bispo de Benevento, próximo a Nápoles, onde estão guardados seu corpo e sangue.",
+		"tituloOracao": "Oração à São Januário",
+		"oracao": "Deus eterno e todo-poderoso, que a vossos pastores associastes São Januário, a quem destes a graça de lutar pela justiça até a morte. Concedei-nos, por sua intercessão, suportar por vosso amor as adversidades e correr ao encontro de vós que sois a nossa vida. Por Cristo nosso Senhor. Amém!",
+		"video": 
+			{
+				"descricao": "O Santo da Liquefação do sangue. São Januário é celebrado no dia 19 de setembro. ;'A ciência não consegue explicar como o sangue em estado sólido se torna líquido, mudando sua consistência e cor. A liquefação do sangue de São Januário só pode ser entendida e explicada pela fé.'",
+				"dataPublicacao": "2019-10-30T12:00:10Z",
+				"videoId": "2923DFS3e-w",
+				"videoFoto": "https://img.youtube.com/vi/2923DFS3e-w/hqdefault.jpg"
+			},
+		"bannerOracao": "https://i.ibb.co/Pt9fTVm/banner-Sao-Januario-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/qJRM0Q5/banner-Sao-Januario.png",
+		"bannerSantoDia": "https://i.ibb.co/3h4qcBy/banner-Sao-Januario-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/4fjcJB5/foto-Sao-Januario.png",	
+		"celebracao": "Celebração: 19 de Setembro.",		
+		"dataCelebracao": "19/09"	
 	}
 ]
