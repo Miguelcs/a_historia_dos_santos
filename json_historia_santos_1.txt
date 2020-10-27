@@ -17,7 +17,7 @@
 		"bannerSantoDia": "https://i.ibb.co/hMrVZnS/banner-Sao-Simao-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/QHbVQmz/foto-Sao-Simao.png",	
 		"celebracao": "Celebração: 28 de Outubro.",		
-		"dataCelebracao": "2/10"
+		"dataCelebracao": "28/10"
 	},
 	{
 		"id": 69,
