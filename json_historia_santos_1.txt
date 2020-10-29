@@ -1,4 +1,44 @@
-[		
+[	
+	{
+		"id": 72,
+		"titulo": "São Narciso",
+		"historia": "O santo de hoje, São Narciso, foi Bispo de Jerusalém e, quando se deu tal fato, devia ter quase cem anos de idade. Narciso não era judeu e teria nascido no ano 96. Homem austero, penitente, humilde, simples e puro, sabe-se que presidiu com Teófilo de Cesareia a um concílio onde foi aprovada a determinação de se celebrar sempre a Páscoa num Domingo. ;Eusébio narra que em certo dia de festa, em que faltou o óleo necessário para as unções litúrgicas, Narciso mandou vir água de um poço vizinho, e com sua bênção a transformou em óleo. Conta também as circunstâncias que levaram Narciso a demitir-se das suas funções. ;Para se justificarem de um crime, três homens acusaram o Bispo Narciso de certo ato infame. 'Que me queimem vivo – disse o primeiro – se eu minto'. 'E a mim, que me devore a lepra', disse o segundo. 'E que eu fique cego', acrescentou o terceiro. O desgosto de ser assim caluniado despertou em Narciso o seu antigo desejo pelo recolhimento e, por isso, sem dizer para onde ia, perdoou os caluniadores e saiu de Jerusalém em direção ao deserto. Considerando-o definitivamente desaparecido, deram-lhe por sucessor a Dio, ao qual por sua vez sucederam Germânio e Górdio. Todavia, os três caluniadores não tardaram a sofrer os castigos que em má hora tinham invocado, pois o primeiro pereceu num incêndio com todos os seus, o segundo morreu de lepra e o terceiro cegou à força de tanto chorar o seu pecado. ;Alguns anos depois, Narciso reapareceu na cidade episcopal. Nunca tinha sido posta em dúvida a santidade do seu procedimento.; por isso, foi com imensa alegria que Jerusalém recebeu seu antigo pastor. Segundo diz Eusébio, continuou Narciso a governar a diocese até a idade de 119 anos, auxiliado por um coadjutor chamado Alexandre. Faleceu cerca do ano de 212. ;São Narciso, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},						
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/k5q5VT1/banner-Sao-Narciso.png",
+		"bannerSantoDia": "https://i.ibb.co/cCLSsBq/banner-Sao-Narciso-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/QMSfCKX/foto-Sao-Narciso.png",	
+		"celebracao": "Celebração: 29 de Outubro.",		
+		"dataCelebracao": "29/10"
+	},
+	{
+		"id": 71,
+		"titulo": "São Tiago Menor",
+		"historia": "Este santo português nasceu em Lagos, no Algarve, por volta do ano de 1370. Tomou o hábito de Santo Agostinho no convento da Graça, em Lisboa, aos 20 anos. ;Dedicou-se à uma vida de jejuns e de penitências enquanto aplicava-se às letras e aos estudos. Homem zeloso na vivência da Regra Religiosa, virtuoso e cheio de pureza, Gonçalo dedicou-se também à pregação chegando a ser superior de alguns mosteiros da sua Ordem. ;O último mosteiro foi o de Torres Vedras, onde morreu em 1422, depois de exortar aos que viviam com ele no mosteiro à observância religiosa e para uma vida virtuosa. ;São Gonçalo de Lagos, rogai por nós!",
+		"tituloOracao": "Oração a São Tiago Menor",
+		"oracao": "Senhor Jesus, ao contemplar a vida de vosso apóstolo Tiago, outra vez sinto vosso amor infinito. ;É difícil, Senhor, saber direito a história da vida de vossos apóstolos, pois é vosso amor que se conta e faz a vida acontecer. ;As outras coisas, mesmo que importantes, são passageiras. ;Ajudai-me, Senhor, compreender que a vida é entrega, é doação, é serviço. Não deixai-me seduzir pelas coisas passageiras e nem me deixeis levar por outros caminhos. ;Firmai minha vida em vossa vida. Dai-me a coragem de vossos apóstolos. ;Assumo meu amor a Nossa Senhora e o compromisso evangelizador com o Santuário, Casa bendita dos irmãos e irmãs, Casa de Maria, da Família de todos os Devotos, que se unem na prece, no ardor, no amor, no compromisso evangelizador! ;Nossa Senhora Aparecida, ajudai-me a evangelizar! ;São Tiago, ajudai-me seguir Jesus! Amém!",
+		"video": 
+			{
+				"descricao": "'Que pergunta é essa que me fazeis sobre o Filho do Homem? Ele está sentado à direita de Deus Onipotente e tornará a vir sobre as nuvens do céu'.",
+				"dataPublicacao": "2020-10-28T12:00:10Z",
+				"videoId": "iX35AWIL-DA",
+				"videoFoto": "https://img.youtube.com/vi/iX35AWIL-DA/hqdefault.jpg"
+			},				
+		"bannerOracao": "https://i.ibb.co/4p7nq9c/banner-Sao-Tiago-Menor-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/3pXfPsJ/banner-Sao-Tiago-Menor.png",
+		"bannerSantoDia": "https://i.ibb.co/qWTwvSm/banner-Sao-Tiago-Menor-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/bJTR3H2/foto-Sao-Tiago-Menor.png",	
+		"celebracao": "Celebração: 03 de Maio.",		
+		"dataCelebracao": "03/05"
+	},
 	{
 		"id": 70,
 		"titulo": "São Simão",
