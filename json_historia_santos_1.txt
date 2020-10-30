@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 73,
+		"titulo": "São Germano",
+		"historia": "Germano, nascido rico, doou todos os seus bens aos pobres e se dedicou à vida ascética. Em 516, como Bispo de Cápua, foi enviado pelo Papa a Constantinopla, onde, finalmente, conseguiu acabar com o cisma de Acácio, que, por anos, havia dividido a Igreja de Roma daquela do Oriente.",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},						
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/m4htdhW/banner-Sao-Germano.png",
+		"bannerSantoDia": "https://i.ibb.co/hMkVDq0/banner-Sao-Germano-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/nbwZxT1/foto-Sao-Germano.jpg",	
+		"celebracao": "Celebração: 30 de Outubro.",		
+		"dataCelebracao": "30/10"
+	},
+	{
 		"id": 72,
 		"titulo": "São Narciso",
 		"historia": "O santo de hoje, São Narciso, foi Bispo de Jerusalém e, quando se deu tal fato, devia ter quase cem anos de idade. Narciso não era judeu e teria nascido no ano 96. Homem austero, penitente, humilde, simples e puro, sabe-se que presidiu com Teófilo de Cesareia a um concílio onde foi aprovada a determinação de se celebrar sempre a Páscoa num Domingo. ;Eusébio narra que em certo dia de festa, em que faltou o óleo necessário para as unções litúrgicas, Narciso mandou vir água de um poço vizinho, e com sua bênção a transformou em óleo. Conta também as circunstâncias que levaram Narciso a demitir-se das suas funções. ;Para se justificarem de um crime, três homens acusaram o Bispo Narciso de certo ato infame. 'Que me queimem vivo – disse o primeiro – se eu minto'. 'E a mim, que me devore a lepra', disse o segundo. 'E que eu fique cego', acrescentou o terceiro. O desgosto de ser assim caluniado despertou em Narciso o seu antigo desejo pelo recolhimento e, por isso, sem dizer para onde ia, perdoou os caluniadores e saiu de Jerusalém em direção ao deserto. Considerando-o definitivamente desaparecido, deram-lhe por sucessor a Dio, ao qual por sua vez sucederam Germânio e Górdio. Todavia, os três caluniadores não tardaram a sofrer os castigos que em má hora tinham invocado, pois o primeiro pereceu num incêndio com todos os seus, o segundo morreu de lepra e o terceiro cegou à força de tanto chorar o seu pecado. ;Alguns anos depois, Narciso reapareceu na cidade episcopal. Nunca tinha sido posta em dúvida a santidade do seu procedimento.; por isso, foi com imensa alegria que Jerusalém recebeu seu antigo pastor. Segundo diz Eusébio, continuou Narciso a governar a diocese até a idade de 119 anos, auxiliado por um coadjutor chamado Alexandre. Faleceu cerca do ano de 212. ;São Narciso, rogai por nós!",
