@@ -51,7 +51,14 @@
 				"dataPublicacao": "2020-10-28T12:00:10Z",
 				"videoId": "iX35AWIL-DA",
 				"videoFoto": "https://img.youtube.com/vi/iX35AWIL-DA/hqdefault.jpg"
-			},				
+			},
+			"videoOracao": 
+			{
+				"descricao": "'Que pergunta é essa que me fazeis sobre o Filho do Homem? Ele está sentado à direita de Deus Onipotente e tornará a vir sobre as nuvens do céu'.",
+				"dataPublicacao": "2020-10-29T12:00:10Z",
+				"videoId": "_CMxJWen10E",
+				"videoFoto": "https://img.youtube.com/vi/_CMxJWen10E/hqdefault.jpg"
+			},	
 		"bannerOracao": "https://i.ibb.co/4p7nq9c/banner-Sao-Tiago-Menor-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/3pXfPsJ/banner-Sao-Tiago-Menor.png",
 		"bannerSantoDia": "https://i.ibb.co/qWTwvSm/banner-Sao-Tiago-Menor-Santo-do-dia.png",
