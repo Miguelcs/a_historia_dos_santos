@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 75,
+		"titulo": "Santo Afonso Rodrigues",
+		"historia": "Natural de Segóvia na Espanha, veio à luz aos 25 de julho de 1532. Pertencente a uma família cristã, teve de interromper seus estudos no primário, pois, com a morte do pai, assumiu os compromissos com o comércio. Casou-se com Maria Soares que amou tanto quanto os dois filhos, mas infelizmente, todos, com o tempo, faleceram. ;Ao entrar em crise espiritual, Afonso entrega-se à oração, à penitência e dirigido por um sacerdote, descobriu o seu chamado a ser Irmão religioso e assim, assumiu grandes dificuldades como a limitação dos estudos. Vencendo tudo em Deus, Afonso foi recebido na Companhia de Jesus como Irmão e depois do noviciado foi enviado para o colégio de formação. No colégio, desempenhou os ofícios de porteiro e a todos prestava vários serviços, e dentre as virtudes heroicas que conquistou na graça e querendo ser firme na fé, a obediência foi a sua prova de verdadeira humildade. ;Santo Afonso sabia ser simples, pois aceitava com amor toda ordem e desejo dos superiores, como expressão da vontade de Deus. Tinha como regra: 'Agradar somente a Deus, cumprir sempre e em toda parte a Vontade Divina'. Este santo encantador, com sua espiritualidade ajudou a muitos, principalmente São Pedro Claver quanto ao futuro apostolado na Colômbia. ;Místico de muitos carismas, Santo Afonso Rodrigues sofreu muito antes de morrer em 31 de outubro de 1617. ;Santo Afonso Rodrigues, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/VW8KSzS/banner-Santo-Afonso-Rodrigues.png",
+		"bannerSantoDia": "https://i.ibb.co/7VWYS5J/Santo-Afonso-Rodrigues-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/MS1bg34/foto-Santo-Afonso-Rodrigues.png",	
+		"celebracao": "Celebração: 31 de Outubro.",		
+		"dataCelebracao": "31/10"
+	},
+	{
+		"id": 74,
+		"titulo": "Santa Cristina",
+		"historia": "Cristina era de família nobre, nasceu em Tiro, na Toscana, Itália, próximo ao lago de Bolsena. ;Seu pai, Urbano, era um pagão e oficial do Império Romano, no tempo do Imperador Diocleciano, que havia ordenado uma cruel perseguição aos cristãos. ;Em sua casa, havia uma espécie de tribunal, onde os cristãos capturados pelos soldados eram levados e submetidos a interrogatórios humilhantes. ;Por diversas vezes Cristina viu essas cenas tristes, enchia-se de compaixão por aquelas vítimas, mas não conseguia achar uma explicação plausível para a serenidade,  paciência e alegria com que os cristãos suportavam toda aquela crueldade.",
+		"tituloOracao": "Oração a Santa Cristina, virgem e mártir",
+		"oracao": "Nós vos suplicamos, Senhor, ouvi as súplicas de Santa Cristina, virgem e mártir que intercede por nós diante de vosso trono. Nós cremos na comunhão dos santos, que nos ajudam porque Vós permitis. Que ela, que sempre vos agradou pelo mérito de sua castidade e pela sua grande fé que a levou a testemunhar vosso poder pelo martírio, possa alcançar de Vós a graça de que tanto necessito: (fazer o pedido). Eu vos peço por Nosso Senhor Jesus Cristo, na unidade do Espírito Santo. Amém. ;Rezar 1 Pai Nosso, 1 Ave Maria e o Glória ao Pai. ;Santa Cristina, virgem e mártir, rogai por nós.",
+		"video": 
+			{
+				"descricao": "'Deixar a vida, não me custa; abandonar minha fé, isso nunca'. 'O que estulto no mundo, Deus o escolheu para confundir os sábios; e o que é fraco no mundo, Deus o escolheu para confundir os fortes;' (1Cor 1, 27) Santa Cristina é protetora contra a depressão psicológica",
+				"dataPublicacao": "2020-10-30T12:00:10Z",
+				"videoId": "CL7R16C2vsg",
+				"videoFoto": "https://img.youtube.com/vi/CL7R16C2vsg/hqdefault.jpg"
+			},					
+		"bannerOracao": "https://i.ibb.co/Cht7D3y/banner-Santa-Cristina-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/M6r7W85/banner-Santa-Cristina.png",
+		"bannerSantoDia": "https://i.ibb.co/GM7qY0Z/banner-Santa-Cristina-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/4R8Ktdr/foto-Santa-Cristina.png",	
+		"celebracao": "Celebração: 24 de Julho.",		
+		"dataCelebracao": "24/07"
+	},
+	{
 		"id": 73,
 		"titulo": "São Germano",
 		"historia": "Germano, nascido rico, doou todos os seus bens aos pobres e se dedicou à vida ascética. Em 516, como Bispo de Cápua, foi enviado pelo Papa a Constantinopla, onde, finalmente, conseguiu acabar com o cisma de Acácio, que, por anos, havia dividido a Igreja de Roma daquela do Oriente.",
@@ -51,14 +91,7 @@
 				"dataPublicacao": "2020-10-28T12:00:10Z",
 				"videoId": "iX35AWIL-DA",
 				"videoFoto": "https://img.youtube.com/vi/iX35AWIL-DA/hqdefault.jpg"
-			},
-			"videoOracao": 
-			{
-				"descricao": "'Que pergunta é essa que me fazeis sobre o Filho do Homem? Ele está sentado à direita de Deus Onipotente e tornará a vir sobre as nuvens do céu'.",
-				"dataPublicacao": "2020-10-29T12:00:10Z",
-				"videoId": "_CMxJWen10E",
-				"videoFoto": "https://img.youtube.com/vi/_CMxJWen10E/hqdefault.jpg"
-			},	
+			},				
 		"bannerOracao": "https://i.ibb.co/4p7nq9c/banner-Sao-Tiago-Menor-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/3pXfPsJ/banner-Sao-Tiago-Menor.png",
 		"bannerSantoDia": "https://i.ibb.co/qWTwvSm/banner-Sao-Tiago-Menor-Santo-do-dia.png",
