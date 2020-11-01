@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 78,
+		"titulo": "Todos os Finados",
+		"historia": "Para todos os povos da humanidade, seja qual for a origem, cultura e credo, a morte continua a ser o maior e mais profundo dos mistérios. Mas, para os cristãos, tem o gosto da esperança. Esse é o mistério pascal de Cristo: morte e ressurreição. Ele nos garantiu que para quem crê, for batizado e seguir Seus ensinamentos, a morte é apenas a porta de entrada para desfrutar com Ele a vida eterna no Reino do Pai. ;Enquanto para todos os homens a morte é a única certeza absoluta, para os cristãos ela é a primeira de duas certezas. A segunda é a ressurreição que nos leva a aceitar o fim da vida terrena com compreensão e consolo. Para nós, a morte é um passo definitivo em direção à colheita dos frutos que plantamos aqui na Terra. ;A Igreja nos ensina que as almas em purificação podem ser socorridas pelas orações dos fiéis. Assim, este dia é dedicado à memória dos nossos antepassados e entes que já partiram. Encontramos a celebração da missa pelos mortos desde o século V. ;Um dos mais belos Dogmas da Igreja é o da 'Comunhão dos Santos'. Dessa maneira entendemos que os que estão no Céu, na feliz morada com Deus para sempre, os que se purificam no purgatório, e nós, que ainda caminhamos pelas estradas deste mundo, formamos um só corpo. Por esse motivo, podemos e devemos rezar pelos que partiram, pois nossas orações são eficazes para ajuda-los a mais rapidamente chegarem à casa definitiva do Pai.",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},					
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/NVSb8r1/banner-Todos-os-Finados.png",
+		"bannerSantoDia": "https://i.ibb.co/RgJh7bJ/banner-Todos-os-Finados-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/sWxYzrg/foto-Todos-os-Finados.png",	
+		"celebracao": "Celebração: 02 de Novembro.",		
+		"dataCelebracao": "02/11"
+	},
+	{
 		"id": 77,
 		"titulo": "São Filipe Apóstolo",
 		"historia": "Natural de Betsaida, na Galiléia, São Filipe foi um dos doze Apóstolos de Cristo. ;São Clemente de Alexandria nos diz que Filipe era aquele que havia pedido a Jesus licença para sepultar o pai, e ouviu essas palavras: ;Segue-me e deixa que os mortos enterrem seus mortos.' (Mt 8, 22) ;São Filipe, depois de passar a seguir o Mestre, convidou a Natanael a segui-lo também. ;Segundo São Crisóstomo, Filipe era casado e tinha algumas filhas. ;Passados três dias, Filipe acompanhou o Mestre nas bodas de Caná. Após um ano, foi chamado a ser um dos 12 Apóstolos de Cristo.",
