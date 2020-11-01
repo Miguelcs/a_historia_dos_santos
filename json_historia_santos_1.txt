@@ -1,24 +1,5 @@
 [	
-	{
-		"id": 77,
-		"titulo": "São Filipe Apóstolo",
-		"historia": "Natural de Betsaida, na Galiléia, São Filipe foi um dos doze Apóstolos de Cristo. ;São Clemente de Alexandria nos diz que Filipe era aquele que havia pedido a Jesus licença para sepultar o pai, e ouviu essas palavras: ;Segue-me e deixa que os mortos enterrem seus mortos.' (Mt 8, 22) ;São Filipe, depois de passar a seguir o Mestre, convidou a Natanael a segui-lo também. ;Segundo São Crisóstomo, Filipe era casado e tinha algumas filhas. ;Passados três dias, Filipe acompanhou o Mestre nas bodas de Caná. Após um ano, foi chamado a ser um dos 12 Apóstolos de Cristo.",
-		"tituloOracao": "Oração",
-		"oracao": "Ó Deus, que a vossa Igreja exulte sempre no constante louvor dos Santos Filipe e Tiago Menor, para que, sustentada por sua doutrina e intercessão, seja fiel a seus ensinamentos. Por Cristo nosso Senhor. Amém!",
-		"video": 
-			{
-				"descricao": "'Há tanto tempo que estou convosco e não me conheceste, Filipe! Aquele que me viu, viu também o Pai. Como, pois, dizes: Mostra-nos o Pai.' (João 14, 9)",
-				"dataPublicacao": "2020-11-01T12:00:10Z",
-				"videoId": "SpR6R7oj0xw",
-				"videoFoto": "https://img.youtube.com/vi/SpR6R7oj0xw/hqdefault.jpg"
-			},					
-		"bannerOracao": "https://i.ibb.co/WnyzT5k/banner-Sao-Filipe-Oracao.png",
-		"bannerSanto": "https://i.ibb.co/z2QRc4V/banner-Sao-Filipe.png",
-		"bannerSantoDia": "https://i.ibb.co/12Kd6XZ/banner-Sao-Filipe-Santo-do-dia.png",
-		"foto": "https://i.ibb.co/bbr6cMy/foto-Sao-Filipe.png",	
-		"celebracao": "Celebração: 03 de Maio.",		
-		"dataCelebracao": "03/05"
-	},
+	
 	{
 		"id": 76,
 		"titulo": "Solenidade de todos os Santos",
