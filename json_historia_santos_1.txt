@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 77,
+		"titulo": "São Filipe Apóstolo",
+		"historia": "Natural de Betsaida, na Galiléia, São Filipe foi um dos doze Apóstolos de Cristo. ;São Clemente de Alexandria nos diz que Filipe era aquele que havia pedido a Jesus licença para sepultar o pai, e ouviu essas palavras: ;Segue-me e deixa que os mortos enterrem seus mortos.' (Mt 8, 22) ;São Filipe, depois de passar a seguir o Mestre, convidou a Natanael a segui-lo também. ;Segundo São Crisóstomo, Filipe era casado e tinha algumas filhas. ;Passados três dias, Filipe acompanhou o Mestre nas bodas de Caná. Após um ano, foi chamado a ser um dos 12 Apóstolos de Cristo.",
+		"tituloOracao": "Oração",
+		"oracao": "Ó Deus, que a vossa Igreja exulte sempre no constante louvor dos Santos Filipe e Tiago Menor, para que, sustentada por sua doutrina e intercessão, seja fiel a seus ensinamentos. Por Cristo nosso Senhor. Amém!",
+		"video": 
+			{
+				"descricao": "'Há tanto tempo que estou convosco e não me conheceste, Filipe! Aquele que me viu, viu também o Pai. Como, pois, dizes: Mostra-nos o Pai.' (João 14, 9)",
+				"dataPublicacao": "2020-11-01T12:00:10Z",
+				"videoId": "SpR6R7oj0xw",
+				"videoFoto": "https://img.youtube.com/vi/SpR6R7oj0xw/hqdefault.jpg"
+			},					
+		"bannerOracao": "https://i.ibb.co/WnyzT5k/banner-Sao-Filipe-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/z2QRc4V/banner-Sao-Filipe.png",
+		"bannerSantoDia": "https://i.ibb.co/12Kd6XZ/banner-Sao-Filipe-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/bbr6cMy/foto-Sao-Filipe.png",	
+		"celebracao": "Celebração: 03 de Maio.",		
+		"dataCelebracao": "03/05"
+	},
+	{
 		"id": 76,
 		"titulo": "Solenidade de todos os Santos",
 		"historia": "'Todos os fiéis cristãos, de qualquer estado ou ordem, são chamados à plenitude da vida cristã e à perfeição da caridade. Todos são chamados à santidade: ‘Deveis ser perfeitos como o vosso Pai celeste é perfeito’ '(Mt 5,48) (CIC 2013). ;Sendo assim, nós passamos a compreender o início do sermão do Abade São Bernardo: 'Para que louvar os santos, para que glorificá-los? Para que, enfim, esta solenidade? Que lhes importam as honras terrenas? A eles que, segundo a promessa do Filho, o Pai celeste glorifica? Os santos não precisam de nossas homenagens. Não há dúvida alguma, se veneramos os santos, o interesse é nosso, não deles'. ;Sabemos que desde os primeiros séculos os cristãos praticam o culto dos santos, a começar pelos mártires, por isto hoje vivemos esta Tradição, na qual nossa Mãe Igreja convida-nos a contemplarmos os nossos 'heróis' da fé, esperança e caridade. Na verdade é um convite a olharmos para o Alto, pois neste mundo escurecido pelo pecado, brilham no Céu com a luz do triunfo e esperança daqueles que viveram e morreram em Cristo, por Cristo e com Cristo, formando uma 'constelação', já que São João viu: 'Era uma imensa multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas' (Ap 7,9). ;Todos estes combatentes de Deus, merecem nossa imitação, pois foram adolescentes, jovens, homens casados, mães de família, operários, empregados, patrões, sacerdotes, pobres mendigos, profissionais, militares ou religiosos que se tornaram um sinal do que o Espírito Santo pode fazer num ser humano que se decide a viver o Evangelho que atua na Igreja e na sociedade. Portanto, a vida destes acabaram virando proposta para nós, uma vez que passaram fome, apelos carnais, perseguições, alegrias, situações de pecado, profundos arrependimentos, sede, doenças, sofrimentos por calúnia, ódio, falta de amor e injustiças; tudo isto, e mais o que constituem o cotidiano dos seguidores de Cristo que enfrentam os embates da vida sem perderem o entusiasmo pela Pátria definitiva, pois 'não sois mais estrangeiros, nem migrantes; sois concidadãos dos santos, sois da Família de Deus' (Ef 2,19). ;Neste dia a Mãe Igreja faz este apelo a todos nós, seus filhos: 'O apelo à plenitude da vida cristã e à perfeição da caridade se dirige a todos os fiéis cristãos.' 'A perfeição cristã só tem um limite: ser ilimitada' (CIC 2028). ;Todos os santos de Deus, rogai por nós!",
