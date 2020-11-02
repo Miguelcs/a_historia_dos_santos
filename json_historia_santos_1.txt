@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 79,
+		"titulo": "São Martinho de Lima",
+		"historia": "Com alegria, celebramos a santidade de vida de um santo do nosso chão latino-americano. São Martinho nasceu no Peru, em 1579, filho de um conquistador espanhol com uma mulata panamenha. ;Grande parte da sociedade de Lima não diferenciava tanto da nossa atual, pois sustentava a hipócrita postura do preconceito racial, por isso Martinho sofreu humilhações, por causa de sua pele escura. ;Aconteceu que São Martinho não foi reconhecido portador de sangue nobre, e nem precisava, porque educado de forma cristã pela mãe, descobriu com a vida que o 'aspecto mais sublime da dignidade humana está na vocação do homem à comunhão com Deus' (Catecismo da Igreja Católica). ;Com idade suficiente, São Martinho, homem cheio do Espírito Santo e de obras no amor, conseguia servir a Cristo no próximo, primeiramente pela suas diversas profissões (barbeiro, dentista, ajudante de médico), e mais tarde amou Deus no outro e o outro em Deus, como irmão da Ordem Dominicana. Mendigo por amor aos mendigos, São Martinho de Porres, ou de Lima, destacou-se dentre tantos pela sua luta contra o Tentador e a tentação, além da humildade, piedade e caridade. Sendo assim, Deus pôde munir Martinho com muitos Carismas, como o de cura e milagres, sem que estes o orgulhasse e o impedisse de ir para o Céu, onde entrou em 1639. ;São Martinho de Lima, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/DLTwm48/banner-Sao-Martinho-de-Lima.png",
+		"bannerSantoDia": "https://i.ibb.co/wg6kDGX/banner-Sao-Martinho-de-Lima-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/p0rmtx6/foto-Sao-Martinho-de-Lima.png",	
+		"celebracao": "Celebração: 03 de Novembro.",		
+		"dataCelebracao": "03/11"
+	},
+	{
 		"id": 78,
 		"titulo": "Todos os Finados",
 		"historia": "Para todos os povos da humanidade, seja qual for a origem, cultura e credo, a morte continua a ser o maior e mais profundo dos mistérios. Mas, para os cristãos, tem o gosto da esperança. Esse é o mistério pascal de Cristo: morte e ressurreição. Ele nos garantiu que para quem crê, for batizado e seguir Seus ensinamentos, a morte é apenas a porta de entrada para desfrutar com Ele a vida eterna no Reino do Pai. ;Enquanto para todos os homens a morte é a única certeza absoluta, para os cristãos ela é a primeira de duas certezas. A segunda é a ressurreição que nos leva a aceitar o fim da vida terrena com compreensão e consolo. Para nós, a morte é um passo definitivo em direção à colheita dos frutos que plantamos aqui na Terra. ;A Igreja nos ensina que as almas em purificação podem ser socorridas pelas orações dos fiéis. Assim, este dia é dedicado à memória dos nossos antepassados e entes que já partiram. Encontramos a celebração da missa pelos mortos desde o século V. ;Um dos mais belos Dogmas da Igreja é o da 'Comunhão dos Santos'. Dessa maneira entendemos que os que estão no Céu, na feliz morada com Deus para sempre, os que se purificam no purgatório, e nós, que ainda caminhamos pelas estradas deste mundo, formamos um só corpo. Por esse motivo, podemos e devemos rezar pelos que partiram, pois nossas orações são eficazes para ajuda-los a mais rapidamente chegarem à casa definitiva do Pai.",
@@ -1394,5 +1414,65 @@
 		"foto": "https://i.ibb.co/4fjcJB5/foto-Sao-Januario.png",	
 		"celebracao": "Celebração: 19 de Setembro.",		
 		"dataCelebracao": "19/09"	
+	},
+	{
+		"id": 3,
+		"titulo": "Nossa Senhora da Imaculada Conceição",
+		"historia": "'Porei ódio entre ti e a mulher, entre a tua escendência e a dela. Esta te ferirá a cabeça, e tu ferirás o calcanhar'. (Gn 3, 15). Se por causa de Eva o pecado entrou no mundo, é por causa de Maria que o perdão e a salvação se estabelecerá. Reconhecida pela Igreja de Cristo como sendo sem pecado desde sua concepção, Nossa Senhora da Imaculada Conceição não se refere apenas à Concepção de Jesus, porém, a sua própria concepção, que foi sem pecado, sendo ela preservada pela onipotência de Deus. ;Em 1854, o Papa Pio IX proclamou: 'Por uma graça e favor singular de Deus onipotente e em previsão dos méritos de Jesus Cristo, Salvador do gênero humano, a bem-aventurada Virgem Maria foi preservada intacta de toda a mancha do pecado original no primeiro instante da sua conceição'.",
+		"tituloOracao": "Oração a Imaculada Conceição",
+		"oracao": "Virgem Santíssima, que fostes concebida sem o pecado original e por isto merecestes o título de Nossa Senhora da Imaculada Conceição e por terdes evitado todos os outros pecados, o Anjo Gabriel vos saudou com as belas palavras: Ave Maria, cheia de graça; nós vos pedimos que nos alcanceis do vosso divino Filho o auxílio necessário para vencermos as tentações e evitarmos os pecados e, já que vós chamamos de Mãe, atendei-nos com carinho maternal e  ajudai-nos a viver como dignos filhos vossos. Nossa Senhora da Imaculada Conceição, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Se por causa de Eva o pecado entrou no mundo, é por causa de Maria que o perdão e a salvação se estabelecerá. Reconhecida pela Igreja de Cristo como sendo sem pecado desde sua concepção, Nossa Senhora da Imaculada Conceição não se refere apenas à Concepção de Jesus, porém, a sua própria concepção, que foi sem pecado, sendo ela preservada pela onipotência de Deus",
+				"dataPublicacao": "2019-10-21T12:00:10Z",
+				"videoId": "1R0nFWUoAIY",
+				"videoFoto": "https://img.youtube.com/vi/1R0nFWUoAIY/hqdefault.jpg"
+			},
+		"bannerOracao": "https://i.ibb.co/2cCjgCM/banner-Nossa-Senhora-da-Imaculada-Conceicao-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/Pxvp29y/banner-Nossa-Senhora-da-Imaculada-Conceicao.png",
+		"bannerSantoDia": "https://i.ibb.co/wY3F8J9/banner-Nossa-Senhora-da-Imaculada-Conceicao-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/Gnj6vrj/foto-Nossa-Senhora-da-Imaculada-Conceicao.png",	
+		"celebracao": "Celebração: 08 de Dezembro.",		
+		"dataCelebracao": "08/12"	
+	},
+	{
+		"id": 2,
+		"titulo": "Nossa Senhora de Nazaré",
+		"historia": "Conta-nos a tradição que esta imagem teria sido esculpida por São José e, posteriormente,pintada por São Lucas. ;No século quinto, o monge grego Ciríaco transportou-a até ao mosteiro de Cauliniana, perto de Mérida. Ali permaneceu até 711, ano da batalha de Guadalete. Quando a notícia da derrota chegou a Mérida, os monges de Cauliniana prepararam-se para abandonar o mosteiro. ;O rei Rodrigo fugiu levando as relíquias de São Brás, São Bartolomeu e a imagem de Nossa Senhora de Nazaré, junto com sua família e com Frei Romano que sempre o acompanhou. ;Em 711 chegaram ao seu destino e instalaram-se no monte Seano. Passado pouco tempo separaram-se para viver como eremitas. ;O rei ficou, o monge levou consigo a imagem e instalou-se, a três quilômetros do monte, numa pequena gruta no topo de uma falésia sobre o mar. ;Os Jesuítas foram os responsáveis em propagar a devoção de Nossa Senhora de Nazaré por toda a região de Portugal e posteriormente para toda a Europa. ;A principal casa de estudos e noviciado do mosteiro Jesuíta em Portugal é dedicada a Nossa Senhora de Nazaré.",
+		"tituloOracao": "Oração a Nossa Senhora de Nazaré",
+		"oracao": "Ó Virgem Imaculada de Nazaré, fostes na terra criatura tão humilde a ponto de dizer ao Anjo Gabriel: 'Eis aqui a escrava do Senhor!'. Mas por Deus fostes exaltada e preferida entre todas as mulheres para exercer a sublime missão de Mãe do Verbo Encarnado. Adoro e louvo o Altíssimo que vos elevou a esta excelsa dignidade e vos preservou da culpa original. Quanto a mim, soberbo e carregado de pecados, sinto-me confundido e envergonhado perante vós. Entretanto, confiado na bondade e ternura do vosso coração imaculado e maternal, peço-vos a força de imitar a vossa humildade e participar da vossa caridade a fim de viver unido, pela graça, ao vosso divino Filho, Jesus, assim como vós vivestes no retiro de Nazaré. Para alcançar essa graça, quero com imenso afecto e filial devoção saudar-vos como o Arcanjo São Gabriel: 'Ave Maria, cheia de graça...' Nossa Senhora de Nazaré, rogai por nós.",
+		"video": 
+			{
+				"descricao": "Nossa Senhora de Nazaré é um dos títulos dados a Maria, mãe de Jesus. A devoção teve início com uma famosa aparição e milagre ocorridos em Portugal e espalhou-se pelas colônias portuguesas.",
+				"dataPublicacao": "2019-10-19T12:00:10Z",
+				"videoId": "Nd4Mp0ugfys",
+				"videoFoto": "https://img.youtube.com/vi/Nd4Mp0ugfys/hqdefault.jpg"
+			},
+		"bannerOracao": "https://i.ibb.co/17s5Sph/banner-Nossa-Senhora-de-Nazare-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/r4SV7hZ/banner-Nossa-Senhora-de-Nazare.png",
+		"bannerSantoDia": "https://i.ibb.co/31MqKBZ/banner-Nossa-Senhora-de-Nazare-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/m9CBZSK/foto-Nossa-Senhora-de-Nazare.png",	
+		"celebracao": "Celebração: Segundo Domingo de Outubro.",		
+		"dataCelebracao": "00/10"	
+	},
+	{
+		"id": 1,
+		"titulo": "São Miguel Arcanjo",
+		"historia": "Miguel significa 'Quem como Deus?'. É, na verdade, uma pergunta afirmação, pois ninguém é como Deus. ;São Miguel é um dos príncipes do céu, protetor dos filhos de Deus e de Sua Igreja. Ele é o arcanjo da justiça e do arrependimento, além de ser de grande ajuda no combate âs forças maléficas.",
+		"tituloOracao": "Oração a São Miguel Arcanjo",
+		"oracao": "São Miguel Arcanjo, defendei-nos no combate, sede o nosso refúgio contra as maldades e ciladas do demônio. Ordene-lhe Deus, instantemente o pedimos, e vós, príncipe da milícia celeste, pela virtude divina, precipitai no inferno a satanás e aos outros espíritos malignos, que andam pelo mundo para perder as almas. Amém",
+		"video": 
+			{
+				"descricao": "São Miguel Arcanjo. Mensageiros de Deus, bendizei ao Senhor, heróis poderosos que cumpris suas ordens, sempre atentos à sua palavra. (Sl 102, 20).",
+				"dataPublicacao": "2019-10-16T12:00:10Z",
+				"videoId": "7XbZHuZYneo",
+				"videoFoto": "https://img.youtube.com/vi/7XbZHuZYneo/hqdefault.jpg"
+			},			
+		"bannerOracao": "https://i.ibb.co/2j8C4vR/banner-Sao-Miguel-Arcanjo-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/vCWF8b5/banner-Sao-Miguel-Arcanjo.png",
+		"bannerSantoDia": "https://i.ibb.co/jVQDdGs/banner-Sao-Miguel-Arcanjo-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/5W66sGz/foto-Sao-Miguel-Arcanjo.png",	
+		"celebracao": "Celebração: 29 de Setembro.",		
+		"dataCelebracao": "29/09"	
 	}
 ]
