@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 87,
+		"titulo": "Nossa Senhora Medianeira",
+		"historia": "A veneração à Virgem Maria nasceu com os cristãos primitivos. A partir do século IV, o culto à sua intercessão alcançou toda a cristandade. A crença no poder de mediação de todas as graças da Mãe junto ao Filho de Deus teve origem no próprio Evangelho. ;Ele revela que Maria cooperou com o Plano de Deus desde a Encarnação até a Redenção; Plano este que é Cristo Jesus. Revela que foi intermediária entre Jesus e São João Batista, santificado antes de nascer. Também revela que o próprio Filho quis se associar à Mãe na tarefa da reparação da Humanidade. Finalmente, revela que o Espírito Santo desceu sobre a Virgem Maria e os apóstolos quando rezavam no cenáculo, momento solene do nascimento da Igreja. Assim, por sua maternidade divina, Maria se tornou Corredentora, obteve a função de Medianeira e se tornou Mãe da Igreja, da qual ela é o modelo perfeito. ;A festa de Nossa Senhora Medianeira de Todas as Graças, foi instituída pelo Papa Bento XV em 1921. Uma justa homenagem à confiança da Igreja a esta mediação materna do Redentor. A invocação da mediação da Mãe já estava enraizada no coração de todos os povos cristãos, de modo que a devoção sob esse título se difundiu rapidamente. Em 25 de outubro de 1942, Nossa Senhora Medianeira foi proclamada Padroeira do Rio Grande do Sul, pelo Arcebispo Metropolitano Dom João Becker. A partir de 1943, a Romaria passa a ser Estadual e, no segundo domingo do mês de novembro, a cidade de Santa Maria acolhe milhares de romeiros, de sul a norte do estado, de outros Estados e excursões de países vizinhos, como a Argentina, Uruguai e Paraguai. A cidade hospeda e atende a todos. É o maior evento religioso do município, da região e do estado. ;A devoção também chegou no Brasil e, no sul do país, ganhou enorme expressão. Em 1928, foi introduzida no Seminário São José da cidade de Santa Maria através de um santinho recebido da Bélgica por Pe. Inácio Valle. Dois anos depois, diante da eminência de uma luta armada na cidade, um pequeno grupo de romeiros foi à igreja do Seminário São José orar pela intervenção de Nossa Senhora Medianeira de Todas as Graças. Logo em seguida, a demanda foi resolvida sem confronto. ;O povo, organizou uma romaria maior e se dirigiu à igreja do Seminário para agradecer a proteção da Mãe Medianeira. A romaria cada vez maior se repetiu todos os anos. Hoje, é a manifestação religiosa popular mais tradicional, antiga e numerosa do Rio Grande do Sul. ",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/9tzjZS7/banner-Nossa-Senhora-Medianeira.png",
+		"bannerSantoDia": "https://i.ibb.co/NrfCkF6/banner-Nossa-Senhora-Medianeira-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/DzYfRZc/foto-Nossa-Senhora-Medianeira.png",	
+		"celebracao": "Celebração: 08 de Novembro.",		
+		"dataCelebracao": "08/11"
+	},
+	{
+		"id": 86,
+		"titulo": "São Deodato",
+		"historia": "O santo de hoje, cujo nome significa 'dado por Deus', foi por quarenta anos Padre em Roma antes de suceder ao Papa Bonifácio IV a 19 de outubro de 615. Em Roma, o Papa não era somente o Bispo e o Pai espiritual, mas também o guia civil, o juiz, o supremo magistrado, a garantia da ordem. Com a morte de cada pontífice, os romanos se sentiam privados de proteção, expostos às invasões dos bárbaros nórdicos ou às reivindicações do império do Oriente. A teoria dos dois únicos, Papa e imperador, que deviam governar unidos o mundo cristão, não encontrava grandes adesões em Constantinopla. ;O Papa Deodato, entretanto, buscou o diálogo junto ao imperador intercedendo pelas necessidades de seu povo e, apesar do imperador mostrar-se pouco solícito para o bem do povo, enviou o exarca Eleutério para acabar com as revoltas de Ravena e de Nápoles. Foi a única vez que o Papa Deodato, ocupado em aliviar os desconfortos da população da cidade, nas calamidades acima referidas, teve um contato, se bem que indireto, com o imperador. ;Foi inserido no Martirológio Romano, um episódio que revalidaria a fama de santidade que circundava este pontífice que guiou os cristãos em épocas tão difíceis: durante uma das suas frequentes visitas aos doentes, os mais abandonados, os que era atingidos pela lepra, teria curado um desses infelizes, após havê-lo amavelmente abraçado e beijado. ;São Deodato morreu em novembro do ano 618, amado e chorado pelos romanos que tiveram a oportunidade de apreciar seu bom coração durante as grandes calamidades que se abateram sobre Roma nos seus três anos de Pontificado (inclusive um terremoto, que deu golpe de graça aos edifícios de mármore dos Foros, já devastados por sucessivas invasões bárbaras e horríveis epidemia). ;São Deodato, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/vJ4rWbR/banner-Sao-Deodato.png",
+		"bannerSantoDia": "https://i.ibb.co/qyFsq8Y/banner-Sao-Deodato-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/CBTv7SB/foto-Sao-Deodato.jpg",	
+		"celebracao": "Celebração: 08 de Novembro.",		
+		"dataCelebracao": "08/11"
+	},
+	{
 		"id": 85,
 		"titulo": "São Justino",
 		"historia": "Justino nasceu no ano de 103, na cidade de Siquém, Palestina. ;De família pagã, buscou sempre os estudos nas escolas filosóficas de sua terra, dedicando especialmente à filosofia de Platão. ;Buscando conhecer a verdade, retirou-se para a solidão durante muito tempo, até que, certo dia, um ancião de aparência simpática apareceu e tiveram conversas sobre a filosofia. ;O ancião mostrou a Justino que o sistema Platônico possuía insuficiências que não satisfaziam o desejo do espírito de conhecer a verdade sobre Deus. ;Revelou-lhe que os filósofos antigos se baseavam em falsos princípios, pois não possuíam a clara idéia de Deus e da alma humana, o que os tornava incapazes de ser guias para o caminho da verdade.",
@@ -84,7 +124,7 @@
 		"titulo": "Nossa Senhora do Silêncio",
 		"historia": "Maria Santíssima é a Mãe do Silêncio pois nos ajuda a concentrar no que é essencial e importante na vida. ;A Mãe que 'guardava tudo em seu coração' (Lc 2,16), nos ajuda a escutar a Deus e ao próximo. ;No ano de 1829, na aldeia de Knock, localizada no condado de Mayo, Irlanda, uma pequena Igreja foi construída, sendo dedicada a São João Batista. ;Ela não comportava mais do que 30 pessoas e o terreno ao redor da Igreja era rodeado por um muro de pedra. ;A Irlanda estava sofrendo com uma depressão em sua economia por causa das colheitas, que estavam sendo escassas, principalmente a de batatas. ;O ano de 1879 foi desastroso na colheita de batatas, os agricultores não tinham comida e muitas pessoas morreram de fome e doenças.",
 		"tituloOracao": "Oração a Nossa Senhora do Silêncio",
-		"oracao": "Mãe do Silêncio e da Humildade, tu vives perdida e encontrada no mar sem fundo do Mistério do Senhor. ;Tu és disponibilidade e receptividade. Tu és fecundidade e plenitude. Tu és atenção e solicitude pelos irmãos. Estás revestida de fortaleza. Resplandecem em ti a maturidade humana e a elegância espiritual. ;És senhora de ti mesma antes de ser nossa Senhora. Em ti não existe dispersão. Em um ato de simples e total, tua alma, toda imóvel, está paralisada e identificada com o Senhor. ;Estás dentro de Deus, e Deus dentro de ti. O Mistério total te envolve e te penetra e te possui, ocupa e entrega todo o teu ser. Parece que em ti tudo ficou parado, tudo se identificou contigo: o tempo, o espaço, a palavra, a música, o silêncio, a mulher, Deus. ;Tudo ficou assumido em ti, e divinizado. Jamais se viu figura humana de tamanha doçura, se voltará a ver nesta terra uma mulher tão inefavelmente evocadora. ;Entretanto, teu silêncio não é a ausência, mas presença. Estás abismada no Senhor e ao mesmo tempo atenta aos irmãos, como em Caná. ;A comunicação nunca é tão profunda como quando não se diz nada, o silêncio nunca é tão eloquente como quando nada se comunica. ;Faze-nos compreender que o silêncio não é desinteressante pelos irmãos, mas fonte de energia e de irradiação, não é encolhimento mas projeção. Faz-nos compreender que, para derramar, é preciso preencher-se. ;Afoga-se o mundo no mar da dispersão, e não é possível amar os irmãos com um coração disperso. Faze-nos compreender que o apostolado, sem silêncio, é alienação, e que o silêncio, sem apostolado, é comodidade. ;Envolve-nos em teu manto de silêncio e comunica-nos a fortaleza de tua fé, a altura de tua Esperança e a profundidade de teu Amor. Fica com os que ficam e vai com os que partem. ;Ó Mãe Admirável do Silêncio! Amém. ;(Frei Ignacio Larrañaga)",
+		"oracao": "Senhora do silêncio, ensina-me como fizestes, a guardar em meu coração todas as coisas, pois é no silêncio que eu ouço tudo o que o Senhor tem a me dizer, o que Espírito Santo sopra sobre mim; e os ensinamentos do seu Filho Jesus. ;Vós Senhora, soubestes fazer silêncio, e nós Vossos filhos murmuramos e reclamamos, vinde nos ensinar. ;Mãe do Silêncio, em Vós não existe dispersão. ;Em um ato simples e total, Vossa alma, toda imóvel, está paralisada e identificada com o Senhor. ;Fazei-nos entender que o silêncio não é desinteresse pelos irmãos, mas fonte de energia e irradiação. ;Fazei-nos compreender que para derramar é preciso preencher-se. Vinde Mãe mostrai-nos como fazer. ;Envolve-nos em Vosso manto do silêncio e comunica-nos, a fortaleza da Vossa Fé a altura da Vossa Esperança, e a profundidade de Vossa Amor. ;Ficai conosco Senhora. Ó Mãe Admirável do Silêncio. Amém.",
 		"video": 
 			{
 				"descricao": "Maria Santíssima é a Mãe do Silêncio pois nos ajuda a concentrar no que é essencial e importante na vida. A Mãe que 'guardava tudo em seu coração' (Lc 2,16), nos ajuda a escutar a Deus e ao próximo.",
