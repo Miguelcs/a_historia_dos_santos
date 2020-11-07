@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 85,
+		"titulo": "São Justino",
+		"historia": "Justino nasceu no ano de 103, na cidade de Siquém, Palestina. ;De família pagã, buscou sempre os estudos nas escolas filosóficas de sua terra, dedicando especialmente à filosofia de Platão. ;Buscando conhecer a verdade, retirou-se para a solidão durante muito tempo, até que, certo dia, um ancião de aparência simpática apareceu e tiveram conversas sobre a filosofia. ;O ancião mostrou a Justino que o sistema Platônico possuía insuficiências que não satisfaziam o desejo do espírito de conhecer a verdade sobre Deus. ;Revelou-lhe que os filósofos antigos se baseavam em falsos princípios, pois não possuíam a clara idéia de Deus e da alma humana, o que os tornava incapazes de ser guias para o caminho da verdade.",
+		"tituloOracao": "Oração a São Justino",
+		"oracao": "Deus eterno e todo-poderoso, que destes a São Justino a graça de lutar pela justiça até a morte, concedei-nos, por sua intercessão, suportar por vosso amor as adversidades, e correr ao encontro de vós que sois a nossa vida. ;Por Cristo nosso Senhor. Amém!",
+		"video": 
+			{
+				"descricao": "'Um homem de bem não abandona a fé para abraçar o erro e a impiedade. Maior desejo não tenho, senão de padecer por Aquele que entregou a vida por mim'.",
+				"dataPublicacao": "2020-11-06T12:00:10Z",
+				"videoId": "fgSwTJDJMGc",
+				"videoFoto": "https://img.youtube.com/vi/fgSwTJDJMGc/hqdefault.jpg"
+			},				
+		"bannerOracao": "https://i.ibb.co/cJsP7j1/banner-Sao-Justino-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/rxDpTXY/banner-Sao-Justino.png",
+		"bannerSantoDia": "https://i.ibb.co/nrrLP8t/banner-Sao-Justino-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/37pMzjt/foto-Sao-Justino.png",	
+		"celebracao": "Celebração: 01 de Junho.",		
+		"dataCelebracao": "01/06"
+	},
+	{
+		"id": 84,
+		"titulo": "São Vilibrardo",
+		"historia": "Nasceu em Northúmbria, na Irlanda, em 658, e morreu em Echternach (Luxemburgo), a 7 de novembro de 739. ;'Durante cinquenta anos, escreve Alcuíno, este grande missionário e grande amigo de Cristo dedicou-se, dia após dia, à conversão dos infiéis'. Em 690, quando Pepino d’Herstal terminava a conquista da Frísia, Vilibardo chegou lá, vindo do seu país, à frente de um grupo de anglo-saxões. Em 695, o Papa Sérgio I consagrou-o Bispo de Echternach. Era de Utrecht e Echternach que os seus missionários partiam para ir evangelizar os povos da Renânia ainda pagãos. Vilibrardo chegou até à Dinamarca e parece que também à Turíngia. Batizou Pepino, o Breve, pai de Carlos Magno. Foi sepultado em Echternach, onde todos os anos, desde o século XIV, na terça-feira de Pentecostes, uma procissão se realiza em sua honra. São Vilibrardo, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/M7pYdh6/banner-Sao-Vilibrardo.png",
+		"bannerSantoDia": "https://i.ibb.co/gtLW12c/banner-Sao-Vilibrardo-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/THVFmKg/foto-Sao-Vilibrardo.png",	
+		"celebracao": "Celebração: 07 de Novembro.",		
+		"dataCelebracao": "07/11"
+	},
+	{
 		"id": 83,
 		"titulo": "São Nuno de Santa Maria",
 		"historia": "Nuno Álvares Pereira nasceu em Portugal a 24 de Junho de 1360, e recebeu a educação cavalheiresca típica dos filhos das famílias nobres do seu tempo. ;Aos treze anos, torna-se pajem da rainha D. Leonor, tendo sido bem recebido na Corte e acabando por ser, pouco depois, cavaleiro. Aos dezesseis anos, casa-se, por vontade de seu pai, com uma jovem e rica viúva, D. Leonor de Alvim. ;Da sua união nascem três filhos, dois do sexo masculino, que morrem em tenra idade; e uma do sexo feminino, Beatriz, a qual mais tarde viria a desposar o filho do rei D. João I, D. Afonso, primeiro duque de Bragança. ;Quando o rei D. Fernando I morreu a 22 de Outubro de 1383, sem ter deixado filhos varões, o seu irmão D. João, Mestre de Avis, viu-se envolvido na luta pela coroa lusitana, que lhe era disputada pelo rei de Castela por ter desposado a filha do falecido rei. ;Nuno tomou o partido de D. João, o qual o nomeou Condestável, isto é, comandante supremo do exército. Nuno conduziu o exército português repetidas vezes à vitória, até se ter consagrado na batalha de Aljubarrota (14 de Agosto de 1385), a qual acaba por determinar à resolução do conflito. ;Os dotes militares de Nuno eram no entanto acompanhados por uma espiritualidade sincera e profunda. O amor pela Eucaristia e pela Virgem Maria são os alicerces da sua vida interior. ;O estandarte que elegeu como insígnia pessoal traz as imagens do Crucificado, de Maria e dos cavaleiros S. Tiago e S. Jorge. Fez ainda construir às suas próprias custas numerosas igrejas e mosteiros, entre os quais se contam o Carmo de Lisboa e a Igreja de S. Maria da Vitória, na Batalha. ;Com a morte da esposa, em 1387, Nuno recusa contrair novas núpcias, tornando-se um modelo de pureza de vida. Quando finalmente alcançou a paz, distribui grande parte dos seus bens entre os seus companheiros, antigos combatentes, e acaba por se desfazer totalmente daqueles em 1423, quando decide entrar no convento carmelita por ele fundado, tomando então o nome de frei Nuno de Santa Maria. ;Impelido pelo amor, abandona as armas e o poder para revestir-se da armadura do Espírito recomendada pela Regra do Carmo: era a opção por uma mudança radical de vida em que sela o percurso da fé autêntica que sempre o tinha norteado. ;O Condestável do rei de Portugal, o comandante supremo do exército e seu guia vitorioso, o fundador e benfeitor da comunidade carmelita, ao entrar no convento recusa todos os privilégios e assume como própria a condição mais humilde, a de frade Donato, dedicando-se totalmente ao serviço do Senhor, de Maria — a sua terna Padroeira que sempre venerou—, e dos pobres, nos quais reconhece o rosto de Jesus. ;Significativo foi o dia da morte de frei Nuno de Santa Maria, aos 71 anos de idade. Era o Domingo de Páscoa, dia 1 de Abril de 1431. Após sua morte, passou imediatamente a ser reputado de 'santo' pelo povo que, desde então, o começa a chamar 'Santo Condestável'. ;Nuno Álvares Pereira foi beatificado em 23 de Janeiro de 1918 pelo Papa Bento XV através do Decreto 'Clementíssimus Deus' e foi consagrado o dia 6 de Novembro ao, então, beato. ;O Santo Padre, Papa Bento XVI, durante o Consistório de 21 de Fevereiro de 2009, determina que o Beato Nuno seja inscrito no álbum dos Santos no dia 26 de Abril de 2009. São Nuno de Santa Maria, rogai por nós!",
