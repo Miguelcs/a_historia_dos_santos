@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 89,
+		"titulo": "São Teodoro",
+		"historia": "O santo de hoje, São Teodoro, foi um soldado que acabou sendo decapitado na Província do Ponto por confessar a fé cristã. ;Era já venerado no século IV. Achaita (Tchorum, Turquia), onde se encontra o seu túmulo, atraiu durante muito tempo os peregrinos. ;A lenda depressa lhe embelezou a memória, atribuindo-lhe toda a espécie de aventuras, em particular, como a São Jorge, ter matado um dragão. ;Com São Jorge e São Demétrio, é um dos 'três grandes soldados mártires', para os Orientais. ;São Teodoro, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/c38dMM2/banner-Sao-Teodoro.png",
+		"bannerSantoDia": "https://i.ibb.co/QnWJB2R/banner-Sao-Teodoro-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/PWC3NYP/foto-Sao-Teodoro.png",	
+		"celebracao": "Celebração: 09 de Novembro.",		
+		"dataCelebracao": "09/11"
+	},
+	{
+		"id": 88,
+		"titulo": "Beato Carlo Acutis, o anjo da juventude",
+		"historia": "Carlo Acutis nasceu no dia 3 de Maio de 1991, em Londres, na Inglaterra. ;Filho de André e Antônia, pais católicos cheios de muita fé, que desde cedo ensinaram o caminho da verdade a seu filho. ;Como forma de agradecer a Deus a entrada do filho na comunidade cristã, os pais de Carlo preparam um pequeno bolo em forma de cordeiro, no dia do batismo.",
+		"tituloOracao": "Oração ao Beato Carlo Acutis",
+		"oracao": "Ó Pai, que nos deu o testemunho apaixonado do jovem Venerável Carlo Acutis, que fez da Eucaristia o centro de sua vida e a força de seu empenho diário porque mesmo os outros Te amaram acima de qualquer coisas, faça com que possa ser em breve considerado um dos Beatos e Santos de Sua Igreja. ;Confirme minha Fé, alimente minha Esperança, revigore minha Caridade, à imagem do jovem Carlo que, ao crescer com estas virtudes, agora vive perto de Você. ;Conceda a graça que tanto desejo… ;Confio em Você, Pai, e em Seu amadíssimo Filho Jesus, na Virgem Maria, nossa doce Mãe, e na intercessão de Seu Venerável Carlo Acutis. ;Pai nosso, Ave Maria, Gloria.",
+		"video": 
+			{
+				"descricao": "'Peça ao seu Anjo da Guarda para ajudá-lo continuamente, de modo que ele se torne seu melhor amigo'. ;'Ofereço todos os sofrimentos desta minha partida ao Senhor, ao Papa e à Igreja, para não fazer o Purgatório e ir direto para o Paraíso.'.",
+				"dataPublicacao": "2020-11-08T12:00:10Z",
+				"videoId": "nnMSsIwT51w",
+				"videoFoto": "https://img.youtube.com/vi/nnMSsIwT51w/hqdefault.jpg"
+			},			
+		"bannerOracao": "https://i.ibb.co/NLXkvZs/banner-Beato-Carlo-Acustis-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/rZ5nG6b/banner-Beato-Carlo-Acustis.png",
+		"bannerSantoDia": "",
+		"foto": "https://i.ibb.co/RQp01w5/foto-Beato-Carlo-Acustis.jpg",	
+		"celebracao": "",		
+		"dataCelebracao": "0/0"
+	},
+	{
 		"id": 87,
 		"titulo": "Nossa Senhora Medianeira",
 		"historia": "A veneração à Virgem Maria nasceu com os cristãos primitivos. A partir do século IV, o culto à sua intercessão alcançou toda a cristandade. A crença no poder de mediação de todas as graças da Mãe junto ao Filho de Deus teve origem no próprio Evangelho. ;Ele revela que Maria cooperou com o Plano de Deus desde a Encarnação até a Redenção; Plano este que é Cristo Jesus. Revela que foi intermediária entre Jesus e São João Batista, santificado antes de nascer. Também revela que o próprio Filho quis se associar à Mãe na tarefa da reparação da Humanidade. Finalmente, revela que o Espírito Santo desceu sobre a Virgem Maria e os apóstolos quando rezavam no cenáculo, momento solene do nascimento da Igreja. Assim, por sua maternidade divina, Maria se tornou Corredentora, obteve a função de Medianeira e se tornou Mãe da Igreja, da qual ela é o modelo perfeito. ;A festa de Nossa Senhora Medianeira de Todas as Graças, foi instituída pelo Papa Bento XV em 1921. Uma justa homenagem à confiança da Igreja a esta mediação materna do Redentor. A invocação da mediação da Mãe já estava enraizada no coração de todos os povos cristãos, de modo que a devoção sob esse título se difundiu rapidamente. Em 25 de outubro de 1942, Nossa Senhora Medianeira foi proclamada Padroeira do Rio Grande do Sul, pelo Arcebispo Metropolitano Dom João Becker. A partir de 1943, a Romaria passa a ser Estadual e, no segundo domingo do mês de novembro, a cidade de Santa Maria acolhe milhares de romeiros, de sul a norte do estado, de outros Estados e excursões de países vizinhos, como a Argentina, Uruguai e Paraguai. A cidade hospeda e atende a todos. É o maior evento religioso do município, da região e do estado. ;A devoção também chegou no Brasil e, no sul do país, ganhou enorme expressão. Em 1928, foi introduzida no Seminário São José da cidade de Santa Maria através de um santinho recebido da Bélgica por Pe. Inácio Valle. Dois anos depois, diante da eminência de uma luta armada na cidade, um pequeno grupo de romeiros foi à igreja do Seminário São José orar pela intervenção de Nossa Senhora Medianeira de Todas as Graças. Logo em seguida, a demanda foi resolvida sem confronto. ;O povo, organizou uma romaria maior e se dirigiu à igreja do Seminário para agradecer a proteção da Mãe Medianeira. A romaria cada vez maior se repetiu todos os anos. Hoje, é a manifestação religiosa popular mais tradicional, antiga e numerosa do Rio Grande do Sul. ",
