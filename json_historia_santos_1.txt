@@ -16,8 +16,8 @@
 		"bannerSanto": "https://i.ibb.co/9tzjZS7/banner-Nossa-Senhora-Medianeira.png",
 		"bannerSantoDia": "https://i.ibb.co/NrfCkF6/banner-Nossa-Senhora-Medianeira-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/DzYfRZc/foto-Nossa-Senhora-Medianeira.png",	
-		"celebracao": "Celebração: 08 de Novembro.",		
-		"dataCelebracao": "08/11"
+		"celebracao": "Celebração: 31 de Maio.",		
+		"dataCelebracao": "31/05"
 	},
 	{
 		"id": 86,
