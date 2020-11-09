@@ -1,0 +1,98 @@
+[		
+	{
+		"id": 1,
+		"titulo": "Orações Comuns",
+		"banner": "",
+		"itens": 
+			[		
+				{
+					"id": 1,
+					"titulo": "Ave Maria",
+					"banner": "",
+					"foto": "",
+					"oracao": "Ave Maria, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte. Amém",
+					"oracaoId": "1"
+				},
+				{
+					"id": 2,
+					"titulo": "Cordeiro de Deus",
+					"banner": "",
+					"foto": "",
+					"oracao": "Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós. Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós. Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz.",
+					"oracaoId": "1"
+				},
+				{
+					"id": 3,
+					"titulo": "Credo",
+					"banner": "",
+					"foto": "",
+					"oracao": "Creio em Deus Pai todo-poderoso, criador do céu e da terra; e em Jesus Cristo, seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu na Virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado à direita de Deus Pai todo-poderoso, donde há de vir a julgar os vivos e os mortos; creio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na vida eterna. Amém",
+					"oracaoId": "1"
+				},
+				{
+					"id": 4,
+					"titulo": "Glória a Deus nas alturas",
+					"banner": "",
+					"foto": "",
+					"oracao": "Glória a Deus nas alturas e paz na terra aos homens por Ele amados. Senhor Deus, Rei dos céus, Deus Pai todo-poderoso: nós Vos louvamos, nós Vos bendizemos, nós Vos adoramos, nós Vos glorificamos, nós Vos damos graças, por vossa imensa glória. Senhor Jesus Cristo, Filho Unigénito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai: Vós que tirais o pecado do mundo, tende piedade de nós; Vós que tirais o pecado do mundo, acolhei a nossa súplica; Vós que estais à direita do Pai, tende piedade de nós. Só Vós sois o Santo; só Vós, o Senhor; só Vós, o Altíssimo, Jesus Cristo; com o Espírito Santo na glória de Deus Pai. Amém",
+					"oracaoId": "1"
+				},
+				{
+					"id": 5,
+					"titulo": "Glória ao Pai",
+					"banner": "",
+					"foto": "",
+					"oracao": "Glória ao Pai e ao Filho e ao Espírito Santo. Como era, no princípio, agora e sempre. Amém",
+					"oracaoId": "1"
+				}
+			]
+	},
+	{
+		"id": 2,
+		"titulo": "Orações Específicas",
+		"banner": "",
+		"itens": 
+			[		
+				{
+					"id": 1,
+					"titulo": "À vossa proteção",
+					"banner": "",
+					"foto": "",
+					"oracao": "À vossa proteção recorremos, Santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó virgem gloriosa e bendita. Amém",
+					"oracaoId": "2"
+				},
+				{
+					"id": 2,
+					"titulo": "Adoro te Devote",
+					"banner": "",
+					"foto": "",
+					"oracao": "Eu vos adoro devotamente, ó Divindade escondida, Que verdadeiramente oculta-se sob estas aparências, A Vós, meu coração submete-se todo por inteiro, Porque, vos contemplando, tudo desfalece. ;A vista, o tato, o gosto falham com relação a Vós Mas, somente em vos ouvir em tudo creio. Creio em tudo aquilo que disse o Filho de Deus, Nada mais verdadeiro que esta Palavra de Verdade. ;Na cruz, estava oculta somente a vossa Divindade, Mas aqui, oculta-se também a vossa Humanidade. Eu, contudo, crendo e professando ambas, Peço aquilo que pediu o ladrão arrependido. ;Não vejo, como Tomé, as vossas chagas Entretanto, vos confesso meu Senhor e meu Deus Faça que eu sempre creia mais em Vós, Em vós esperar e vos amar. ;Ó memorial da morte do Senhor, Pão vivo que dá vida aos homens, Faça que minha alma viva de Vós, E que à ela seja sempre doce este saber. ;Senhor Jesus, bondoso pelicano, Lava-me, eu que sou imundo, em teu sangue Pois que uma única gota faz salvar Todo o mundo e apagar todo pecado. ;Ó Jesus, que velado agora vejo Peço que se realize aquilo que tanto desejo Que eu veja claramente vossa face revelada Que eu seja feliz contemplando a vossa glória. Amém",
+					"oracaoId": "2"
+				}
+			]
+	},
+	{
+		"id": 3,
+		"titulo": "Orações ao Santos",
+		"banner": "",
+		"itens": 
+			[		
+				{
+					"id": 1,
+					"titulo": "Oração ao Beato Carlos de Foucauld",
+					"banner": "",
+					"foto": "",
+					"oracao": "Perdoa-me e ajuda-me, meu Deus! Faz morrer em mim o homem velho, vil, tíbio, ingrato, infiel, indeciso e enfraquecido, e cria em mim um coração novo, caloroso, corajoso, agradecido, fiel, forte, decidido e enérgico. Consagro-te todos os instantes que me resto viver. Faz com que meu futuro seja totalmente contrário do meu passado, que o redima, que seja inteiramente entregue a fazer a tua vontade, que em todos os instantes te glorifique na medida exigida pela tua vontade. Amém",
+					"oracaoId": "3"
+				},
+				{
+					"id": 2,
+					"titulo": "Divino Pai Eterno",
+					"banner": "",
+					"foto": "",
+					"oracao": "Pai Eterno, Senhor de toda a força e poder, dai-me hoje a segurança do Vosso amor e a certeza de que estais comigo. Peço ajuda e proteção, nesta hora tão difícil de minha vida. Preciso da Tua assistência, Pai Eterno, do teu amor e da tua misericórdia. Tira de mim o medo, tira de mim esta dúvida, esclarecendo meu espírito abatido com a luz que ilumina o Teu Divino Filho Jesus Cristo, aqui na terra. Que eu possa receber toda a Tua grandeza, Pai Eterno, a Tua presença em minha vida, hora a hora, minuto a minuto. Que eu sinta o Teu Espírito e a Tua voz dentro de mim, ao meu redor, nas minhas decisões deste dia. Que eu sinta o Teu maravilhoso poder pela oração e com este poder, Pai Eterno, espero pelos milagres que podes realizar em favor da resolução dos meus problemas. Não me deixes e nem me abandones, para que eu não caia em desespero e nem perca a fé nesta caminhada rumo à eternidade. Entrego-te, neste dia, a minha vida e a de minha família. Livrai-me de minhas moléstias, ainda que seja por milagre. Obrigado, Pai Eterno, meu Deus, meu mestre e amigo. Sei que vais me dar à solução do que tanto preciso. Amém!",
+					"oracaoId": "3"
+				}
+			]
+	}
+]
