@@ -56,8 +56,8 @@
 		"bannerSanto": "https://i.ibb.co/9tzjZS7/banner-Nossa-Senhora-Medianeira.png",
 		"bannerSantoDia": "https://i.ibb.co/NrfCkF6/banner-Nossa-Senhora-Medianeira-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/DzYfRZc/foto-Nossa-Senhora-Medianeira.png",	
-		"celebracao": "Celebração: 31 de Maio.",		
-		"dataCelebracao": "31/05"
+		"celebracao": "Celebração: 08 de Novembro.",		
+		"dataCelebracao": "08/11"
 	},
 	{
 		"id": 86,
@@ -165,13 +165,16 @@
 		"historia": "Maria Santíssima é a Mãe do Silêncio pois nos ajuda a concentrar no que é essencial e importante na vida. ;A Mãe que 'guardava tudo em seu coração' (Lc 2,16), nos ajuda a escutar a Deus e ao próximo. ;No ano de 1829, na aldeia de Knock, localizada no condado de Mayo, Irlanda, uma pequena Igreja foi construída, sendo dedicada a São João Batista. ;Ela não comportava mais do que 30 pessoas e o terreno ao redor da Igreja era rodeado por um muro de pedra. ;A Irlanda estava sofrendo com uma depressão em sua economia por causa das colheitas, que estavam sendo escassas, principalmente a de batatas. ;O ano de 1879 foi desastroso na colheita de batatas, os agricultores não tinham comida e muitas pessoas morreram de fome e doenças.",
 		"tituloOracao": "Oração a Nossa Senhora do Silêncio",
 		"oracao": "Senhora do silêncio, ensina-me como fizestes, a guardar em meu coração todas as coisas, pois é no silêncio que eu ouço tudo o que o Senhor tem a me dizer, o que Espírito Santo sopra sobre mim; e os ensinamentos do seu Filho Jesus. ;Vós Senhora, soubestes fazer silêncio, e nós Vossos filhos murmuramos e reclamamos, vinde nos ensinar. ;Mãe do Silêncio, em Vós não existe dispersão. ;Em um ato simples e total, Vossa alma, toda imóvel, está paralisada e identificada com o Senhor. ;Fazei-nos entender que o silêncio não é desinteresse pelos irmãos, mas fonte de energia e irradiação. ;Fazei-nos compreender que para derramar é preciso preencher-se. Vinde Mãe mostrai-nos como fazer. ;Envolve-nos em Vosso manto do silêncio e comunica-nos, a fortaleza da Vossa Fé a altura da Vossa Esperança, e a profundidade de Vossa Amor. ;Ficai conosco Senhora. Ó Mãe Admirável do Silêncio. Amém.",
-		"video": 
+		"video":
 			{
 				"descricao": "Maria Santíssima é a Mãe do Silêncio pois nos ajuda a concentrar no que é essencial e importante na vida. A Mãe que 'guardava tudo em seu coração' (Lc 2,16), nos ajuda a escutar a Deus e ao próximo.",
-				"dataPublicacao": "2020-11-04T12:00:10Z",
-				"videoId": "hif9koV8Njs",
-				"videoFoto": "https://img.youtube.com/vi/hif9koV8Njs/hqdefault.jpg"
-			},				
+				"videoId": "hif9koV8Njs"
+			},
+		"videoOracao":
+			{
+				"titulo": "Oração a Nossa Senhora do Silêncio",
+				"videoId": "x_HtfIp14Ws"
+			},		
 		"bannerOracao": "https://i.ibb.co/KL5PGqf/banner-Nossa-Senhora-do-Silencio-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/f1Ypxzp/banner-Nossa-Senhora-do-Silencio.png",
 		"bannerSantoDia": "https://i.ibb.co/K2KcMY9/banner-Nossa-Senhora-do-Silencio-Santo-do-dia.png",
@@ -1604,10 +1607,13 @@
 		"video": 
 			{
 				"descricao": "O Santo da Liquefação do sangue. São Januário é celebrado no dia 19 de setembro. ;'A ciência não consegue explicar como o sangue em estado sólido se torna líquido, mudando sua consistência e cor. A liquefação do sangue de São Januário só pode ser entendida e explicada pela fé.'",
-				"dataPublicacao": "2019-10-30T12:00:10Z",
-				"videoId": "2923DFS3e-w",
-				"videoFoto": "https://img.youtube.com/vi/2923DFS3e-w/hqdefault.jpg"
+				"videoId": "2923DFS3e-w"
 			},
+		"videoOracao":
+			{
+				"titulo": "Oração a São Januário (San Gennaro)",
+				"videoId": "3yPO7DMld-M"
+			},		
 		"bannerOracao": "https://i.ibb.co/Pt9fTVm/banner-Sao-Januario-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/qJRM0Q5/banner-Sao-Januario.png",
 		"bannerSantoDia": "https://i.ibb.co/3h4qcBy/banner-Sao-Januario-Santo-do-dia.png",
@@ -1624,10 +1630,13 @@
 		"video": 
 			{
 				"descricao": "Se por causa de Eva o pecado entrou no mundo, é por causa de Maria que o perdão e a salvação se estabelecerá. Reconhecida pela Igreja de Cristo como sendo sem pecado desde sua concepção, Nossa Senhora da Imaculada Conceição não se refere apenas à Concepção de Jesus, porém, a sua própria concepção, que foi sem pecado, sendo ela preservada pela onipotência de Deus",
-				"dataPublicacao": "2019-10-21T12:00:10Z",
-				"videoId": "1R0nFWUoAIY",
-				"videoFoto": "https://img.youtube.com/vi/1R0nFWUoAIY/hqdefault.jpg"
+				"videoId": "1R0nFWUoAIY"
 			},
+		"videoOracao":
+			{
+				"titulo": "Oração a Imaculada Conceição",
+				"videoId": "SRqCi4Mi3bY"
+			},		
 		"bannerOracao": "https://i.ibb.co/2cCjgCM/banner-Nossa-Senhora-da-Imaculada-Conceicao-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/Pxvp29y/banner-Nossa-Senhora-da-Imaculada-Conceicao.png",
 		"bannerSantoDia": "https://i.ibb.co/wY3F8J9/banner-Nossa-Senhora-da-Imaculada-Conceicao-Santo-do-dia.png",
