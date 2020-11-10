@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 93,
+		"titulo": "São Bartolomeu, Abade de Grottaferrata",
+		"historia": "No ano 980, nasceu o herdeiro de uma família nobre, proveniente de Constantinopla, mas residente em Rossano, Calábria, batizado com o nome de Basílio. Era considerado um menino prodígio, tanto que, aos 7 anos, foi confiado aos monges do mosteiro de São João Calibita, de Caloveto, para ser educado na fé cristã. Após cinco anos, foi transferido para Vallelucio, próximo de Montecassino, onde conheceu seu mestre: São Nilo, do qual jamais se separou. ;Companheiro de São Nilo ;Após dois anos, Nilo foi transferido para Serperi, próximo de Gaeta. Basílio, - que, ao se tornar monge, recebeu o nome de Bartolomeu, - o seguiu. Os dois futuros Santos viveram ali por dez anos, um longo período transcorrido em oração, silêncio, jejum e abstinência, sobretudo do sono. A seguir, partiram para Roma: o objetivo era interceder, junto ao Papa Gregório V, pelo seu concidadão João Filagato, que se era autoproclamado, unilateralmente, Papa com o nome de João XVI. Mas, em vão: no caminho de volta, perto de Grottaferrata, receberão a aparição de Nossa Senhora, que lhes pediu para construir, naquele lugar, um mosteiro e uma igreja em sua homenagem. ;Abadia de Grottaferrata. ;Assim, ambos permaneceram em Grottaferrata, até à morte: São Nilo, faleceu logo em seguida, em 1004. No novo mosteiro, Bartolomeu dedicou-se, de modo particular, à assistência dos pobres; escreveu hinos religiosos e, com uma notável habilidade diplomática, conseguiu resolver os muitos dissídios entre os poderosos da época. Entre as obras mais famosas que escreveu - cujas versões originais são preservadas na abadia de Grottaferrata – destacam-se a biografia mais precisa sobre a figura de São Nilo, seu mestre, e o Typicon, código litúrgico e disciplinar do mosteiro, do qual é considerado cofundador. Bartolomeu faleceu em 1055 e foi sepultado, no seu mosteiro, ao lado do seu mestre. ;O milagre do amor pelos pobres. ;Segundo o relato de várias testemunhas, São Bartolomeu fez muitos milagres ao longo de sua vida. Porém, o mais famoso, que chegou até nós, ocorreu alguns anos após a sua morte: o protagonista, Frei Franco, um monge moribundo, ficou curado, milagrosamente, após um sonho: ele diz ter visto duas pombas, - uma branca e uma preta - que, ao se aproximarem dele, o guiaram a um campo, repleto de luz, onde São Bartolomeu o aguardava com alguns pobres. Após ter dado a todos um pedaço de pão, o Santo entrou em esplêndido palácio, onde se encontrava a Virgem Maria. Mas, ao se despedir de Franco, pediu-lhe para recordar aos monges de Grottaferrata, que fossem sempre misericordiosos com os mais necessitados.",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/qxRmScs/banner-Sao-Bartolomeu-Abade-de-Grottaferrata.jpg",
+		"bannerSantoDia": "https://i.ibb.co/5n73dMk/banner-Sao-Bartolomeu-Abade-de-Grottaferrata-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/Q9XLdhK/foto-Sao-Bartolomeu-Abade-de-Grottaferrata.jpg",	
+		"celebracao": "Celebração: 11 de Novembro.",		
+		"dataCelebracao": "11/11"
+	},
+	{
+		"id": 92,
+		"titulo": "São Martinho de Tours",
+		"historia": "Nasceu em 316 na Panônia (atual Hungria), numa família pagã que, da parte do pai (oficial do exército romano), fez de Martinho um militar enquanto o Pai do Céu o estava fazendo cristão, já que começou a fazer o Catecumenato. ;Certa vez, quando militar, mas ainda não batizado, Martinho partiu em duas partes seu manto para dá-lo a um pobre e, assim, Jesus aparece-lhe durante a noite e disse-lhe: 'Martinho, principiante na fé, cobriu-me com este manto'. Então, esse homem de Deus foi batizado e abandonou a vida militar para viver intensamente a vida religiosa e as inspirações do Espírito Santo para sua vida. ;Com a direção e ajuda do Bispo Hilário, Martinho tornou-se monge, Diácono, fundador do primeiro mosteiro na França e, depois, sacerdote, que formava os seus 'filhos' para a contemplação e, ao mesmo tempo, para a missão de evangelizar os pagãos; diferenciando-se com isso dos mosteiros do Oriente. ;Por ser fiel no pouco, São Martinho recebeu o mais, que veio com a sua Ordenação para Bispo em Tours. E, ainda, isso não o impediu de fundar os muitos outros mosteiros, a fim de melhor evangelizar sua Diocese. Entrou no Céu em 397. ;São Martinho de Tours, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/HBNMHSp/banner-Sao-Martinho-de-Tours.jpg",
+		"bannerSantoDia": "https://i.ibb.co/TRc5LcL/banner-Sao-Martinho-de-Tours-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/dcGM88F/foto-Sao-Martinho-de-Tours.jpg",	
+		"celebracao": "Celebração: 11 de Novembro.",		
+		"dataCelebracao": "11/11"
+	},
+	{
 		"id": 91,
 		"titulo": "Santo André Avelino",
 		"historia": "Natural de Potentino, o futuro Santo era chamado Lancellotto. Ordenado sacerdote, em 1545, graças ao seu diretor espiritual, o Beato João Marinonio, recebeu o hábito religioso dos Teatinos, em Nápoles, onde se tornou “Apóstolo da Cruz”. Faleceu em 10 de novembro de 1608, enquanto celebrava a Missa.  ",
