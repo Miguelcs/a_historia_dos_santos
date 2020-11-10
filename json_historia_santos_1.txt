@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 91,
+		"titulo": "Santo André Avelino",
+		"historia": "Natural de Potentino, o futuro Santo era chamado Lancellotto. Ordenado sacerdote, em 1545, graças ao seu diretor espiritual, o Beato João Marinonio, recebeu o hábito religioso dos Teatinos, em Nápoles, onde se tornou “Apóstolo da Cruz”. Faleceu em 10 de novembro de 1608, enquanto celebrava a Missa.  ",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/2qRNZkR/banner-Santo-Andre-Avelino.png",
+		"bannerSantoDia": "https://i.ibb.co/xXmhdWG/banner-Santo-Andre-Avelino-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/KWLTrJd/foto-Santo-Andre-Avelino.png",	
+		"celebracao": "Celebração: 10 de Novembro.",		
+		"dataCelebracao": "10/11"
+	},
+	{
+		"id": 90,
+		"titulo": "São Leão Magno",
+		"historia": "O santo de hoje mostrou-se digno de receber o título de 'Magno', que significa Grande, isso porque é considerado um dos maiores Papas da história da Igreja, grande no trabalho e na santidade. São Leão Magno nasceu em Toscana (Itália), no ano de 395; e, depois de entrar jovem no seminário, serviu a diocese num sacerdócio santo e prestativo. ;Ao ser eleito Papa, em 440, teve que evangelizar e governar a Igreja numa época brusca do Império Romano, pois já sofria com as heresias e invasões dos povos bárbaros, com suas violentas invasões. São Leão enfrentou e condenou o veneno de várias mentiras doutrinais, porém, combateu com intenso fervor o monofisismo que defendia, mentirosamente, ter Jesus Cristo uma só natureza e não a Divina e a humana em uma só pessoa como é a verdade. O Concílio de Calcedônia foi o triunfo da doutrina e da autoridade do grande Pontífice. Os 500 Bispos que o Imperador convocara para resolverem sobre a questão do monofisismo, limitaram-se a ler a carta papal, exclamando ao mesmo tempo: 'Roma falou por meio de Leão, a causa está decidida; causa finita est'. ;Quanto à dimensão social, Leão foi crescendo, já que com a vitória dos desordeiros bárbaros sobre as forças do Império Romano, a última esperança era o eloquente e santo Doutor da Igreja, que conseguiu salvar da destruição, a Itália, Roma e muitas pessoas. Átila ultrapassara os Alpes e entrara na Itália. O Imperador fugira e os generais romanos escondiam-se. O Papa era a única força capaz de impedir a ruína universal. São Leão sai ao encontro do conquistador bárbaro, acampado às portas de Mântua. É certo que o bárbaro abrandou-se ao ver diante de si, em atitude de suplicante, o Pontífice dos cristãos, e o mesmo retrocedeu com todo o seu exército. ;Dentre tantas riquezas em obras e escritos, São Leão Magno deixou-nos este grito: 'Toma consciência, ó cristão, da tua dignidade, já que participas da natureza Divina'. ;Entrou no Céu no ano de 461. ;São Leão Magno, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},	
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/7y1PH04/banner-Sao-Leao-Magno.png",
+		"bannerSantoDia": "https://i.ibb.co/PMJjZ3M/banner-Sao-Leao-Magno-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/DQnJ73f/foto-Sao-Leao-Magno.png",	
+		"celebracao": "Celebração: 10 de Novembro.",		
+		"dataCelebracao": "10/11"
+	},
+	{
 		"id": 89,
 		"titulo": "São Teodoro",
 		"historia": "O santo de hoje, São Teodoro, foi um soldado que acabou sendo decapitado na Província do Ponto por confessar a fé cristã. ;Era já venerado no século IV. Achaita (Tchorum, Turquia), onde se encontra o seu túmulo, atraiu durante muito tempo os peregrinos. ;A lenda depressa lhe embelezou a memória, atribuindo-lhe toda a espécie de aventuras, em particular, como a São Jorge, ter matado um dragão. ;Com São Jorge e São Demétrio, é um dos 'três grandes soldados mártires', para os Orientais. ;São Teodoro, rogai por nós!",
