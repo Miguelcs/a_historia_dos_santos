@@ -5,8 +5,7 @@
 		"banner": "",
 		"itens": 
 			[		
-				{
-					"id": 1,
+				{				
 					"titulo": "Ave Maria",
 					"banner": "",
 					"foto": "",
@@ -14,7 +13,6 @@
 					"oracaoId": 1
 				},
 				{
-					"id": 2,
 					"titulo": "Cordeiro de Deus",
 					"banner": "",
 					"foto": "",
@@ -22,7 +20,6 @@
 					"oracaoId": 1
 				},
 				{
-					"id": 3,
 					"titulo": "Credo",
 					"banner": "",
 					"foto": "",
@@ -30,7 +27,6 @@
 					"oracaoId": 1
 				},
 				{
-					"id": 4,
 					"titulo": "Glória a Deus nas alturas",
 					"banner": "",
 					"foto": "",
@@ -38,7 +34,6 @@
 					"oracaoId": 1
 				},
 				{
-					"id": 5,
 					"titulo": "Glória ao Pai",
 					"banner": "",
 					"foto": "",
@@ -54,7 +49,6 @@
 		"itens": 
 			[		
 				{
-					"id": 1,
 					"titulo": "À vossa proteção",
 					"banner": "",
 					"foto": "",
@@ -62,7 +56,6 @@
 					"oracaoId": 2
 				},
 				{
-					"id": 2,
 					"titulo": "Adoro te Devote",
 					"banner": "",
 					"foto": "",
@@ -78,7 +71,6 @@
 		"itens": 
 			[		
 				{
-					"id": 1,
 					"titulo": "Oração ao Beato Carlos de Foucauld",
 					"banner": "",
 					"foto": "",
@@ -86,7 +78,6 @@
 					"oracaoId": 3
 				},
 				{
-					"id": 2,
 					"titulo": "Divino Pai Eterno",
 					"banner": "",
 					"foto": "",
