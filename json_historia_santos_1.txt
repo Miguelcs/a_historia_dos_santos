@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 96,
+		"titulo": "São Diego de Alcalá",
+		"historia": "Nasceu em Alcalá del Puerto, Espanha, por volta de 1400. Entrou para a Comunidade Franciscana, mas não se tornou sacerdote. Foi enviado às Canárias para pregar o cristianismo. Em Roma, durante a epidemia de 1450, prestou assistência aos seus confrades. Muitas localidades americanas recebem seu nome.  ",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/SXnpMdz/banner-Sao-Diego-de-Alcala.jpg",
+		"bannerSantoDia": "https://i.ibb.co/1dnzzPv/banner-Sao-Diego-de-Alcala-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/30Xpbwy/foto-Sao-Diego-de-Alcala.jpg",	
+		"celebracao": "Celebração: 12 de Novembro.",		
+		"dataCelebracao": "12/11"
+	},
+	{
 		"id": 95,
 		"titulo": "São Josafá",
 		"historia": "oão Kuncevicz nasceu em Wladimir (Ucrânia), no ano de 1580, numa família de ortodoxos, ou seja, ligados à Igreja Bizantina e não à Igreja Romana. ;Com a mudança de vida mudou também o nome para Josafá, pois era comerciante até que, tocado pelo Espírito do Senhor, abraçou a fé católica e entrou para a Ordem de São Basílio, na qual, como monge desde os 24 anos, tornou-se apóstolo da unidade e sacerdote do Senhor. Dotado de muitas virtudes e dons, foi superior de vários conventos, até tornar-se Arcebispo de Polotsk em 1618 e lutar pela formação do Clero, pela catequese do povo e pela evangelização de todos. ;São Josafá, além de promover com o seu testemunho a caridade para com os pobres, desgastou-se por inteiro na promoção da unidade da Igreja Bizantina com a Romana; por isso conseguiu levar muitos a viverem unidos na Igreja de Cristo. Os que entravam em comunhão com a Igreja Romana, como Josafá, passaram a ser chamados de 'uniatas', ou seja, excluídos e acusados de maus patriotas e apóstolos, segundo os ortodoxos. ;Aconteceu que numa viagem pastoral, Josafá, com 43 anos na época, foi atacado, maltratado e martirizado. Após ser assassinado, São Josafá foi preso a um cão morto e lançado num rio. Dessa forma, entrou no Céu, donde continua intercedendo pela unidade dos cristãos, tanto assim que os próprios assassinos mais tarde converteram-se à unidade desejada por Nosso Senhor Jesus Cristo. ;São Josafá, rogai por nós!",
