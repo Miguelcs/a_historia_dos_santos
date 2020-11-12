@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 95,
+		"titulo": "São Josafá",
+		"historia": "oão Kuncevicz nasceu em Wladimir (Ucrânia), no ano de 1580, numa família de ortodoxos, ou seja, ligados à Igreja Bizantina e não à Igreja Romana. ;Com a mudança de vida mudou também o nome para Josafá, pois era comerciante até que, tocado pelo Espírito do Senhor, abraçou a fé católica e entrou para a Ordem de São Basílio, na qual, como monge desde os 24 anos, tornou-se apóstolo da unidade e sacerdote do Senhor. Dotado de muitas virtudes e dons, foi superior de vários conventos, até tornar-se Arcebispo de Polotsk em 1618 e lutar pela formação do Clero, pela catequese do povo e pela evangelização de todos. ;São Josafá, além de promover com o seu testemunho a caridade para com os pobres, desgastou-se por inteiro na promoção da unidade da Igreja Bizantina com a Romana; por isso conseguiu levar muitos a viverem unidos na Igreja de Cristo. Os que entravam em comunhão com a Igreja Romana, como Josafá, passaram a ser chamados de 'uniatas', ou seja, excluídos e acusados de maus patriotas e apóstolos, segundo os ortodoxos. ;Aconteceu que numa viagem pastoral, Josafá, com 43 anos na época, foi atacado, maltratado e martirizado. Após ser assassinado, São Josafá foi preso a um cão morto e lançado num rio. Dessa forma, entrou no Céu, donde continua intercedendo pela unidade dos cristãos, tanto assim que os próprios assassinos mais tarde converteram-se à unidade desejada por Nosso Senhor Jesus Cristo. ;São Josafá, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/TmpbDG1/banner-Sao-Josafa.jpg",
+		"bannerSantoDia": "https://i.ibb.co/9qWHJsd/banner-Sao-Josafa-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/bXsbvwy/foto-Sao-Josafa.jpg",	
+		"celebracao": "Celebração: 12 de Novembro.",		
+		"dataCelebracao": "12/11"
+	},
+	{
+		"id": 94,
+		"titulo": "Santa Águeda",
+		"historia": "Santa Águeda ou Ágata nasceu no século III, na cidade de Catânia, na Sicília, Itália, em uma família nobre e rica. ;Jovem, virgem e lindíssima, consagrou-se inteiramente a Cristo, sempre ajudando os mais necessitados, levando uma constante vida de oração. ;A beleza da jovem encantou o cônsul da Sicília, Quintiano, adorador de ídolos, que se esforçava para conquistar o coração de Ágata. ;Pedida em casamento, Ágata recusou, pois havia se consagrado ao Senhor.",
+		"tituloOracao": "Oração a Santa Águeda",
+		"oracao": "Concedei-nos, Senhor, o amor constante ao Vosso Santo Nome e a graça da perseverança nas coisas do alto durante toda a nossa vida. E pela intercessão de Santa Águeda, dai-nos, Senhor Onipotente, a graça que humildemente vos pedimos. Por Cristo nosso Senhor. Amém!",
+		"video": 
+			{
+				"descricao": "'Senhor Jesus Cristo, que me criou e me protegeu desde a infância, que preservou meu coração de máculas, que o poupou do amor do mundo e que me fez vencer os tormentos, dando-me a virtude da paciência, receba meu espírito e permita-me alcançar Sua misericórdia'..",
+				"dataPublicacao": "2020-11-11T12:00:10Z",
+				"videoId": "fczfqN5qeJI",
+				"videoFoto": "https://img.youtube.com/vi/fczfqN5qeJI/hqdefault.jpg"
+			},
+		"bannerOracao": "https://i.ibb.co/M59zY5h/banner-Santa-Agueda-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/MMbT64B/banner-Santa-Agueda.jpg",
+		"bannerSantoDia": "https://i.ibb.co/3cV5jmT/banner-Santa-Agueda-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/2vSMDQJ/foto-Santa-Agueda.jpg",	
+		"celebracao": "Celebração: 05 de Fevereiro.",		
+		"dataCelebracao": "05/02"
+	},
+	{
 		"id": 93,
 		"titulo": "São Bartolomeu, Abade de Grottaferrata",
 		"historia": "No ano 980, nasceu o herdeiro de uma família nobre, proveniente de Constantinopla, mas residente em Rossano, Calábria, batizado com o nome de Basílio. Era considerado um menino prodígio, tanto que, aos 7 anos, foi confiado aos monges do mosteiro de São João Calibita, de Caloveto, para ser educado na fé cristã. Após cinco anos, foi transferido para Vallelucio, próximo de Montecassino, onde conheceu seu mestre: São Nilo, do qual jamais se separou. ;Companheiro de São Nilo ;Após dois anos, Nilo foi transferido para Serperi, próximo de Gaeta. Basílio, - que, ao se tornar monge, recebeu o nome de Bartolomeu, - o seguiu. Os dois futuros Santos viveram ali por dez anos, um longo período transcorrido em oração, silêncio, jejum e abstinência, sobretudo do sono. A seguir, partiram para Roma: o objetivo era interceder, junto ao Papa Gregório V, pelo seu concidadão João Filagato, que se era autoproclamado, unilateralmente, Papa com o nome de João XVI. Mas, em vão: no caminho de volta, perto de Grottaferrata, receberão a aparição de Nossa Senhora, que lhes pediu para construir, naquele lugar, um mosteiro e uma igreja em sua homenagem. ;Abadia de Grottaferrata. ;Assim, ambos permaneceram em Grottaferrata, até à morte: São Nilo, faleceu logo em seguida, em 1004. No novo mosteiro, Bartolomeu dedicou-se, de modo particular, à assistência dos pobres; escreveu hinos religiosos e, com uma notável habilidade diplomática, conseguiu resolver os muitos dissídios entre os poderosos da época. Entre as obras mais famosas que escreveu - cujas versões originais são preservadas na abadia de Grottaferrata – destacam-se a biografia mais precisa sobre a figura de São Nilo, seu mestre, e o Typicon, código litúrgico e disciplinar do mosteiro, do qual é considerado cofundador. Bartolomeu faleceu em 1055 e foi sepultado, no seu mosteiro, ao lado do seu mestre. ;O milagre do amor pelos pobres. ;Segundo o relato de várias testemunhas, São Bartolomeu fez muitos milagres ao longo de sua vida. Porém, o mais famoso, que chegou até nós, ocorreu alguns anos após a sua morte: o protagonista, Frei Franco, um monge moribundo, ficou curado, milagrosamente, após um sonho: ele diz ter visto duas pombas, - uma branca e uma preta - que, ao se aproximarem dele, o guiaram a um campo, repleto de luz, onde São Bartolomeu o aguardava com alguns pobres. Após ter dado a todos um pedaço de pão, o Santo entrou em esplêndido palácio, onde se encontrava a Virgem Maria. Mas, ao se despedir de Franco, pediu-lhe para recordar aos monges de Grottaferrata, que fossem sempre misericordiosos com os mais necessitados.",
