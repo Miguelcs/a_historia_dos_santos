@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"titulo": "Orações Comuns",
-		"banner": "",
+		"banner": "https://i.ibb.co/R60QJLr/oracoes-comuns.png",
 		"itens": 
 			[		
 				{				
