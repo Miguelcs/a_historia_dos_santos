@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 97,
+		"titulo": "Santo Estanislau Kostka",
+		"historia": "O santo, que lembramos com muito carinho neste dia, nasceu na nobre e influente família dos Kostka, a qual possuía uma sólida vida de piedade familiar. Nasceu no castelo de Rostkow, na vila de Prasnitz (Polônia), a 28 de outubro de 1550. Nesse ambiente é que Estanislau cresceu na amizade e intimidade com Cristo. ;Quando tinha 14 anos foi estudar em Viena, juntamente com seu irmão mais velho, Paulo. Devido a uma ordem do Imperador Maximiliano I, o internato jesuíta onde estudavam foi fechado, sobrando como refúgio o castelo de um príncipe luterano, que com Paulo, promoveu o calvário doméstico de Estanislau. Em resposta às agressões do irmão, que também eram físicas, e as tentações da corte, o santo e penitente menino permanecia firme em seus propósitos cristãos: 'Eu nasci para as coisas eternas e não para as coisas do mundo'. ;Diante da pressão sofrida, a saúde de Estanislau cedeu, e ao pedir que providenciassem um sacerdote para que pudesse comungar o Corpo de Cristo, recebeu a negativa dos homens, mas não a de Deus. Santa Bárbara apareceu-lhe, na companhia de anjos, portando Jesus Eucarístico e, em seguida, trazendo-lhe a saúde física, surgiu a Virgem Maria com o Menino Jesus. ;Depois desse fato o jovem discerniu sua vocação à vida religiosa como jesuíta, por isso enfrentou familiares e, ousadamente, fugiu sozinho, a pé, e foi parar na Companhia de Jesus. Acolhido pelo Provincial que o ouviu e se encantou com sua história, com somente 18 anos de idade, viveu apenas 9 meses no Noviciado, porque adquiriu uma misteriosa febre e antes de morrer os sacerdotes ouviram do seus lábios sorridentes dizerem: 'Maria veio buscar-me, acompanhada de virgens para me levar consigo'. ;Santo Estanislau Kostka , rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/WfvkfcM/banner-Santo-Estanislau-Kostka.jpg",
+		"bannerSantoDia": "https://i.ibb.co/Ht32LNL/banner-Santo-Estanislau-Kostka-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/4T58MDw/foto-Santo-Estanislau-Kostka.png",	
+		"celebracao": "Celebração: 13 de Novembro.",		
+		"dataCelebracao": "13/11"
+	},
+	{
 		"id": 96,
 		"titulo": "São Diego de Alcalá",
 		"historia": "Nasceu em Alcalá del Puerto, Espanha, por volta de 1400. Entrou para a Comunidade Franciscana, mas não se tornou sacerdote. Foi enviado às Canárias para pregar o cristianismo. Em Roma, durante a epidemia de 1450, prestou assistência aos seus confrades. Muitas localidades americanas recebem seu nome.  ",
