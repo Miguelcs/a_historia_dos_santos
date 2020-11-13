@@ -14,7 +14,7 @@
 			},			
 		"bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/WfvkfcM/banner-Santo-Estanislau-Kostka.jpg",
-		"bannerSantoDia": "https://i.ibb.co/Ht32LNL/banner-Santo-Estanislau-Kostka-Santo-do-dia.png",
+		"bannerSantoDia": "https://i.ibb.co/BftGCvP/banner-Santo-Estanislau-Kostka-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/4T58MDw/foto-Santo-Estanislau-Kostka.png",	
 		"celebracao": "Celebração: 13 de Novembro.",		
 		"dataCelebracao": "13/11"
