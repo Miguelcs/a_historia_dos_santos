@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 100,
+		"titulo": "Santo Alberto Magno",
+		"historia": "Celebramos, neste dia, a santidade de um grande santo da nossa Igreja, o qual foi digno de ser intitulado de Magno (Grande). Nasceu na Alemanha, em 1206, numa família militar que desejava para Alberto a carreira militar ou administrativa. ;Soldado do Senhor e administrador do Reino de Deus, devotíssimo da Virgem Maria, Santo Alberto optou pelos desejos do coração de Deus, por isso, depois de estudar ciências naturais em Pádua e Paris, entrou na família Dominicana em 1223, a fim de mergulhar nos estudos, santidade e apostolado. Como consequência da sua crescente adesão ao Reino, foram aumentando os trabalhos na 'vinha do Senhor', por isso na Ordem Religiosa foi superior provincial e mais tarde, nomeado pelo Papa, Bispo de Ratisbona, num tempo em que somente um santo e sábio poderia estabelecer a paz entre os povos e cidades, como de fato aconteceu. ;Santo Alberto Magno era um apaixonado e vocacionado ao magistério (teve como discípulo São Tomás de Aquino); foi dispensado do Episcopado, para na humildade e pobreza continuar lecionando, pregando e pesquisando e dominando com tranquilidade os assuntos sobre mecânica, zoologia, botânica, meteorologia, agricultura, física, tecelagem, navegação e outras áreas do conhecimento, os quais inseriu no seu caminho de santidade: 'Minha intenção última, escrevia, está na ciência de Deus'. Suas obras escritas encheram 38 grossos volumes, e com o testemunho impregnou toda a Igreja de santidade e exemplo de quem soube viver com equilíbrio e graça a fé que não contradiz a razão. Entrou no Céu, em 1280, proclamado Doutor da Igreja e Patrono dos cultores das ciências naturais. Santo Alberto Magno, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/bb4jZKj/banner-Santo-Alberto-Magno.jpg",
+		"bannerSantoDia": "https://i.ibb.co/HYMWhnN/banner-Santo-Alberto-Magno-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/Xy7mkFv/foto-Santo-Alberto-Magno.jpg",	
+		"celebracao": "Celebração: 15 de Novembro.",		
+		"dataCelebracao": "15/11"
+	},
+	{
 		"id": 99,
 		"titulo": "São Nicolau de Mira",
 		"historia": "São Nicolau era natural de Pátara, na Ásia Menor. Filho de pais ricos e fervorosos na oração, nasceu por volta do ano 270. ;Quando era jovem, Nicolau se afastava de toda companhia de moços levianos e evitava as moças, preferindo estar participando das atividades da Santa Igreja. ;Alguns anos depois mudaram-se para Mira. ;Nicolau guardava em sua memória tudo o que aprendia da Sagrada Escritura. ;Tomava todo cuidado para evitar toda ocasião de pecado, realizando exercícios de penitência e mortificação do corpo. ;O jovem fazia doações aos pobres e necessitados, ajudava as crianças e viúvas, sempre de bom grado. ;Após a morte dos pais, Nicolau pensou no que faria com a riqueza que possuía para proporcionar glória a Deus, porém, evitando elogios humanos por suas obras.",
