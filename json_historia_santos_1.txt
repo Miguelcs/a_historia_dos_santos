@@ -1,5 +1,45 @@
 [	
 	{
+		"id": 99,
+		"titulo": "São Nicolau de Mira",
+		"historia": "São Nicolau era natural de Pátara, na Ásia Menor. Filho de pais ricos e fervorosos na oração, nasceu por volta do ano 270. ;Quando era jovem, Nicolau se afastava de toda companhia de moços levianos e evitava as moças, preferindo estar participando das atividades da Santa Igreja. ;Alguns anos depois mudaram-se para Mira. ;Nicolau guardava em sua memória tudo o que aprendia da Sagrada Escritura. ;Tomava todo cuidado para evitar toda ocasião de pecado, realizando exercícios de penitência e mortificação do corpo. ;O jovem fazia doações aos pobres e necessitados, ajudava as crianças e viúvas, sempre de bom grado. ;Após a morte dos pais, Nicolau pensou no que faria com a riqueza que possuía para proporcionar glória a Deus, porém, evitando elogios humanos por suas obras.",
+		"tituloOracao": "Oração a São Nicolau",
+		"oracao": "Deus, Todo-Poderoso, atendei às nossas preces e aceitai que Vos adoremos, prestando homenagem a São Nicolau, Sede bendito e louvado, eternamente, pelos dons que concedestes a esse Vosso Santo, e por nos haver dado São Nicolau com nosso protetor. ;São Nicolau, protegei-me contra os perigos do mar. ;São Nicolau, guiai-me.São Nicolau, socorrei-me. ;(Rezar um Pai-Nosso e uma Ave-Maria).",
+		"video": 
+			{
+				"descricao": "'É preciso suportar com magnanimidade as ofensas dirigidas a nós, mas não tolerar sequer ouvir as injúrias feitas a Deus'.",
+				"dataPublicacao": "2020-11-13T12:00:10Z",
+				"videoId": "Z1zheGvk6Qc",
+				"videoFoto": "https://img.youtube.com/vi/Z1zheGvk6Qc/hqdefault.jpg"
+			},				
+		"bannerOracao": "https://i.ibb.co/1RHZJqR/banner-Sao-Nicolau-de-Mira-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/pPdQm2w/banner-Sao-Nicolau-de-Mira.jpg",
+		"bannerSantoDia": "https://i.ibb.co/ZKr61rP/banner-Sao-Nicolau-de-Mira-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/XtrKnXK/foto-Sao-Nicolau-de-Mira.jpg",	
+		"celebracao": "Celebração: 06 de Dezembro.",		
+		"dataCelebracao": "06/12"
+	},
+	{
+		"id": 98,
+		"titulo": "São José Pignatelli",
+		"historia": "José Pignatelli nasceu em 1737 em Saragoça, do ramo espanhol de uma nobilíssima família do reino de Nápoles. Perdendo a mãe aos cinco anos, veio para esta cidade onde recebeu, de uma irmã, ótima educação católica. Voltando para Espanha, aos quinze anos entrou na Companhia de Jesus. Feito o Noviciado e emitidos depois os primeiros votos em Tarragona, aplicou-se aos estudos, primeiro em Manresa e depois nos colégios de Bilbau e de Saragoça. ;Ordenado sacerdote, dedicou-se ao ensino das letras e, com grande fruto, aos ministérios apostólicos. Levantou-se, porém, uma grande perseguição contra a Companhia de Jesus e ele figurou entre os jesuítas que foram expulsos da Espanha para a Córsega. ;Entre adversidades, mostrou o Padre Pignatelli grande fortaleza e constância; foi por isso nomeado Provincial de todos esses exilados. E recomendaram-lhe especial cuidado pelos mais jovens, o que ele praticou com grande zelo. Da Córsega foi obrigado a transferir-se, com os outros, para várias regiões, vindo finalmente a fixar-se em Ferrara (Itália), onde fez a profissão solene de quatro votos. ;Pouco depois, sendo a Companhia de Jesus dissolvida por Clemente XIV, em 1773, Padre Pignatelli deu exemplo extraordinário de perfeita obediência à Sé Apostólica como também de intenso amor para com a Companhia de Jesus. Indo para Bolonha e, estando proibido de exercer o ministério apostólico com as almas, durante quase vinte e cinco anos entregou-se totalmente ao estudo, reunindo uma biblioteca de valor, dando-se principalmente a obras de caridade para com os antigos membros da suprimida Companhia. ;Logo, porém, que lhe foi possível, pediu para ser recebido na Família Inaciana existente na Rússia, onde reinava Catarina, que sendo cismática não aceitara a supressão vinda de Roma. Os jesuítas da Rússia ligaram-se a bom número de ex-jesuítas italianos, e Padre Pignatelli uniu-se a todos eles, tendo-lhe sido permitido renovar a profissão solene. Com licença do Papa Pio VI, foi construída uma casa para noviços no ducado de Parma, onde o Padre Pignatelli foi reitor. Em 1804, Pio VII restaurou a Companhia de Jesus no reino de Nápoles, e o Padre Pignatelli vem a ser Provincial. Mas o exército francês aparece e dispersa este grupo de jesuítas. ;Em 1806, transfere-se para Roma onde é muito bem recebido pelo Sumo Pontífice. Os franceses, que estão a ocupar Roma, toleram-no. No silêncio, Padre Pignatelli vai preparando o renascimento da sua Companhia. Este fato ocorre em 1814, com o citado Papa beneditino Pio VII. Mas o Padre Pignatelli já tinha morrido em 1811, com setenta e quatro anos. O funeral decorreu quase secretamente. ;Foi beatificado por Pio XI em 1933, que chamou o santo de 'o principal anel da cadeia entre a Companhia que existira e a Companhia que ia existir,… o restaurador dos Jesuítas'. ;Profundo devoto do Sagrado Coração de Jesus e da Virgem Santíssima, homem adorador (passava noites inteiras diante do Santíssimo Sacramento), São José Pignatelli foi canonizado em 1954 pelo Papa Pio XII. ;São José Pignatelli, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/PrpXFbC/banner-Sao-Jose-Pignatelli.jpg",
+		"bannerSantoDia": "https://i.ibb.co/G09YKBN/banner-Sao-Jose-Pignatelli-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/S0K6Jj4/foto-Sao-Jose-Pignatelli.png",	
+		"celebracao": "Celebração: 14 de Novembro.",		
+		"dataCelebracao": "14/11"
+	},
+	{
 		"id": 97,
 		"titulo": "Santo Estanislau Kostka",
 		"historia": "O santo, que lembramos com muito carinho neste dia, nasceu na nobre e influente família dos Kostka, a qual possuía uma sólida vida de piedade familiar. Nasceu no castelo de Rostkow, na vila de Prasnitz (Polônia), a 28 de outubro de 1550. Nesse ambiente é que Estanislau cresceu na amizade e intimidade com Cristo. ;Quando tinha 14 anos foi estudar em Viena, juntamente com seu irmão mais velho, Paulo. Devido a uma ordem do Imperador Maximiliano I, o internato jesuíta onde estudavam foi fechado, sobrando como refúgio o castelo de um príncipe luterano, que com Paulo, promoveu o calvário doméstico de Estanislau. Em resposta às agressões do irmão, que também eram físicas, e as tentações da corte, o santo e penitente menino permanecia firme em seus propósitos cristãos: 'Eu nasci para as coisas eternas e não para as coisas do mundo'. ;Diante da pressão sofrida, a saúde de Estanislau cedeu, e ao pedir que providenciassem um sacerdote para que pudesse comungar o Corpo de Cristo, recebeu a negativa dos homens, mas não a de Deus. Santa Bárbara apareceu-lhe, na companhia de anjos, portando Jesus Eucarístico e, em seguida, trazendo-lhe a saúde física, surgiu a Virgem Maria com o Menino Jesus. ;Depois desse fato o jovem discerniu sua vocação à vida religiosa como jesuíta, por isso enfrentou familiares e, ousadamente, fugiu sozinho, a pé, e foi parar na Companhia de Jesus. Acolhido pelo Provincial que o ouviu e se encantou com sua história, com somente 18 anos de idade, viveu apenas 9 meses no Noviciado, porque adquiriu uma misteriosa febre e antes de morrer os sacerdotes ouviram do seus lábios sorridentes dizerem: 'Maria veio buscar-me, acompanhada de virgens para me levar consigo'. ;Santo Estanislau Kostka , rogai por nós!",
