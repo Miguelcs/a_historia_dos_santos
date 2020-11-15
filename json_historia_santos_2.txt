@@ -1,0 +1,42 @@
+[	
+	{
+		"id": 102,
+		"titulo": "Santa Doroteia",
+		"historia": "Modelo de virgem e mártir, Santa Doroteia foi serena e pacífica, mas muito corajosa. ;Nascida em Cesaréia da Capadócia no século III, Doroteia era uma jovem de família nobre, possuía dotes invejáveis, tanto naturais como sobrenaturais e possuía uma distinta educação. ;Teve seus pais martirizados e escolheu viver a juventude na castidade perfeita. ;Verdadeira apóstola de Cristo, ela vivia em jejum e oração, quase não aparecia em público, mas era muito estimada pelos cristãos, pois Doroteia os ajudava dando-lhes forças para combater os perseguidores.",
+		"tituloOracao": "Oração a Santa Doroteia",
+		"oracao": "Santa Doroteia, serva de Cristo, dirijo-me a vós pedindo vossas orações para que eu me torne mais simples e humilde, sem pretensões e vanglórias, peço-vos para passar por esta vida sempre lembrando a glória da eterna. ;Lembre-me, ó santa das flores, de que a nossa vida é passageira como uma rosa, que é bela num dia e no outro já despareceu. ;Retire de mim todo medo. Encha-me de amor à vida. Faça-me agir com grandeza, nobreza e naturalidade em tudo. ;Rodeia-me de proteção e bons amigos e boas companhias. Faça com que eu reconheça boas pessoas. ;Vós que não tivestes medo do martírio por amor a Jesus, ensine-me a viver com intensidade cada momento, sem medo, e a ser ousado e confiante em mim mesmo e em Deus. Amém.",
+		"video": 
+			{
+				"descricao": "'Sendo cristã só servirei a Deus, rei do céu e da terra, para os deuses não tenho senão desprezo'.",
+				"dataPublicacao": "2020-11-15T12:00:10Z",
+				"videoId": "v7EiH00bJj4",
+				"videoFoto": "https://img.youtube.com/vi/v7EiH00bJj4/hqdefault.jpg"
+			},			
+		"bannerOracao": "https://i.ibb.co/tK5vGBP/banner-Santa-Doroteia-Oracao.jpg",
+		"bannerSanto": "https://i.ibb.co/TKBtFYy/banner-Santa-Doroteia.jpg",
+		"bannerSantoDia": "https://i.ibb.co/CmWN3Dk/banner-Santa-Doroteia-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/bHGV6k8/foto-Santa-Doroteia.jpg",	
+		"celebracao": "Celebração: 02 de Setembro.",		
+		"dataCelebracao": "02/09"
+	},	
+	{
+		"id": 101,
+		"titulo": "Santa Margarida da Escócia, intercessora dos pecadores",
+		"historia": "Santa Margarida da Escócia, alimentava e servia diariamente mais de cem pobres. ;Neste dia, lembramos com carinho a vida de mais uma irmã nossa que para a Igreja militante brilha como exemplo e no Céu como intercessora de todos nós pecadores chamados à santidade. ;Santa Margarida nasceu na Hungria no ano de 1046, isto quando seu pai Eduardo III (de nobre família inglesa) aí vivia exilado, devido aos conflitos pelo trono da Inglaterra (o rei da Dinamarca ocupara o trono inglês). Em 1054, seu pai retornou à Inglaterra, Margarida tinha portanto oito ou nove anos quando conheceu a pátria inglesa. No entanto, após a morte de seu tio-avô, Santo Eduardo, em 1066, recomeçaram os conflitos: a luta entre Haroldo e Guilherme da Normandia obrigou Edgardo, irmão de Margarida, a refugiar-se novamente na Escócia com a mãe e as irmãs, tendo-lhes o pai morrido alguns anos antes. ;Vivendo na Escócia, Margarida casou-se com o rei Malcom III e buscou com os oito filhos (seis príncipes e duas princesas, uma delas chamada Edite, que veio posteriormente a ser rainha da Inglaterra e conhecida com o nome de Santa Matilde) a graça de constituir uma verdadeira Igreja doméstica. Santa Margarida, como rainha da Escócia, procurou cooperar com o rei, tanto no seu aperfeiçoamento humano (pois de rude passou a doce) quanto na administração do reino (porque baniu todas futilidades e aproximou os bens reais das necessidades dos pobres). ;Conta-se que a própria Santa Margarida alimentava e servia diariamente mais de cem pobres, ao ponto de lavar os pés e beijar as chagas daqueles que eram vistos e tratados por ela como irmãos e presença de Cristo. Quando infelizmente seu esposo e filho morreram num assalto ao castelo, Margarida que tanto os amava não se desesperou, mas sim aceitou e entregou tudo a Deus rezando: 'Agradeço, ó Deus, porque me dás a paciência para suportar tantas desgraças!' ;Santa Margarida entrou no Céu a 16 de novembro de 1093. Foi sepultada na igreja da Santíssima Trindade, em Dunfermline, para onde também o corpo do rei Malcom III foi levado mais tarde. ;Santa Margarida da Escócia, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},			
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/PD8Y0rc/banner-Santa-Margarida-da-Escocia.jpg",
+		"bannerSantoDia": "https://i.ibb.co/jf4ZWch/banner-Santa-Margarida-da-Escocia-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/tHg8C7f/foto-Santa-Margarida-da-Escocia.jpg",	
+		"celebracao": "Celebração: 16 de Novembro.",		
+		"dataCelebracao": "16/11"
+	}
+]
