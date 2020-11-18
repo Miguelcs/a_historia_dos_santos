@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 104,
+		"titulo": "Beatos Domingos Jorge, Isabel Fernandes e Inácio",
+		"historia": "Domingos Jorge, com a esposa Isabel Fernandes e o filho Inácio, foram beatificados pelo Papa Pio IX. ;Domingos Jorge nasceu em Vermoim da Maia, perto do Porto (Portugal). Muito jovem, partiu para a Índia, onde combateu pela fé e pela Pátria. Aventureiro por natureza, empreendeu viagem para o Japão, onde nesse tempo reinava perseguição furiosa. Todos os missionários eram mortos, e mortos também todos aqueles que os acolhessem em suas casas. Apesar de todos os riscos, não quiseram os missionários estrangeiros abandonar para os instruir, animar e lhes administrar os sacramentos. ;Domingos Jorge, membro da Companhia do Rosário, casou com uma jovem japonesa, à qual o missionário português, Padre Pedro Gomes, oito dias após o nascimento, deu o nome de Isabel Fernandes. Vivia este casal modelo no amor de Deus, na paz e na felicidade, perto da cidade de Nagazáki. Por bondade e piedade, receberam em sua casa dois missionários jesuítas e, naquela noite (era o dia da festa de Santa Luzia), o governador de Nagasáki ordenou que fossem presos os dois missionários juntamente com Domingos Jorge. Após um ano de prisão, foram condenados à morte. Domingos Jorge, após escutar a sentença, pronunciou estas palavras: 'Mais aprecio eu esta sentença do que me fizessem Senhor de todo o Japão'. ;Era o ano de 1619. Domingos Jorge foi amarrado ao poste no chamado 'Monte Santo' de Nagasáki, onde tantos cristãos deram a vida por Deus, e, ali, juntamente com outros mártires rezando a oração do Credo, Domingos Jorge foi queimado vivo. ;Passados três anos, na manhã de 10 de novembro de 1622, o 'Monte Santo' de Nagasáki, regado com o sangue de tantas centenas de cristãos, apresentava um aspecto solene e comovedor. Ali se apinhavam mais de 30.000 pessoas para assistirem ao Grande Martírio, isto é, à morte de 56 filhos da Santa Igreja Católica. Entre eles, encontravam-se Isabel Fernandes, de uns 25 anos de idade, viúva do Beato Domingos Jorge, e seu filhinho Inácio, de quatro anos. Os mártires foram divididos em dois grupos: 24 religiosos de várias Ordens, condenados a morrer a fogo lento; os outros 32 eram constituídos por 14 mulheres e 18 homens (a maioria deste segundo grupo recebeu como condenação serem decapitados). Isabel Fernandes, antes de ser degolada juntamente com seu filhinho Inácio, exclamou: 'De todo o coração ofereço a Deus as duas coisas mais preciosas que possuo no mundo: a minha vida e a do meu filhinho'. ;Domingos Jorge, com a esposa Isabel Fernandes e o filho Inácio, foram beatificados pelo Papa Pio IX em julho de 1867. ;Beatos Domingos Jorge, Isabel Fernandes e Inácio, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/hfXMp12/banner-Beatos-Domingos-Jorge-Isabel-Fernandes-e-Inacio.jpg",
+		"bannerSantoDia": "https://i.ibb.co/m8hSZQ3/banner-Beatos-Domingos-Jorge-Isabel-Fernandes-e-Inacio-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/PFWFJqP/foto-Beatos-Domingos-Jorge-Isabel-Fernandes-e-Inacio.jpg",	
+		"celebracao": "Celebração: 18 de Novembro.",		
+		"dataCelebracao": "18/11"
+	},
+	{
 		"id": 103,
 		"titulo": "Santa Isabel da Hungria - Padroeira da Ordem Terceira Franciscana",
 		"historia": "Santa Isabel da Hungria, pôs-se a servir os doentes e enfermos até morrer. ;Isabel era filha de André, rei da Hungria, e nasceu num tempo em que os acordos das nações eram selados com o casamento. No caso de Isabel, ela fora prometida a Luís IV (duque hereditário da Turíngia) em matrimônio, um pouco depois de seu nascimento em 1207. ;Santa Isabel foi morar na corte do futuro esposo e lá começou a sofrer veladas perseguições por parte da sogra que, invejando o amor do filho para com a santa, passou a caluniá-la como esbanjadora, já que tinha grande caridade para com os pobres. Mulher de oração e generosa em meio aos sofrimentos, Isabel sempre era em tudo socorrida por Deus. Quando já casada e com três filhos, perdeu o marido numa guerra e foi expulsa da corte pelo tio de seu falecido esposo, agora encarregado da regência. ;Aconteceu que Isabel teve que se abrigar num curral de porcos com os filhos, até ser socorrida como pobre pelos franciscanos de Eisenach, uma vez que até mesmo os mendigos e enfermos ajudados por ela insultavam-na, por temerem desagradar o regente. Ajudada por um tio que era Bispo de Bamberga, Isabel logo foi chamada para voltar à corte, e seus direitos, como os de seus filhos, foram reconhecidos, isto porque os companheiros de cruzada do falecido rei tinham voltado com a missão de dar proteção à Isabel, pois nisto consistiu o último pedido de Luís IV. ;Santa Isabel não quis retornar para Hungria; renunciou aos títulos, além de entrar na Ordem Terceira de São Francisco. Fundou um convento de franciscanas em 1229 e pôs-se a servir os doentes e enfermos até morrer, em 1231, com apenas 24 anos num hospital construído com seus bens. ;Santa Isabel da Hungria, rogai por nós!",
