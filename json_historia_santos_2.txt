@@ -13,8 +13,8 @@
 				"videoFoto": ""
 			},
 		"bannerOracao": "",
-		"bannerSanto": "https://i.ibb.co/KbGd4fs/banner-Sao-Roque-Gonzalez-e-companheiros-martires.png",
-		"bannerSantoDia": "https://i.ibb.co/8YR28KN/banner-Sao-Roque-Gonzalez-e-companheiros-martires-Santo-do-dia.jpg",
+		"bannerSanto": "https://i.ibb.co/MNr2Zjy/banner-Sao-Roque-Gonzalez-e-companheiros-martires.jpg",
+		"bannerSantoDia": "https://i.ibb.co/R3hrSq7/banner-Sao-Roque-Gonzalez-e-companheiros-martires-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/ts4Npbh/foto-Sao-Roque-Gonzalez-e-companheiros-martires.jpg",	
 		"celebracao": "Celebração: 19 de Novembro.",		
 		"dataCelebracao": "19/11"
