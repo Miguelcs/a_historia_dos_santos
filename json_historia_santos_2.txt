@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 106,
+		"titulo": "Santo Edmundo",
+		"historia": "Reinava Offa nos Estados ingleses. Desejando terminar seus dias em Roma, no exercício da piedade e da penitência, passou a coroa para Edmundo, de quinze anos de idade, descendente dos antigos reis anglo-saxões da Grã-Bretanha. ;Edmundo, segundo os seus historiadores, foi coroado no dia de Natal de 855. Suas qualidades morais tornaram-no modelo dos bons reis. Tinha grande aversão aos lisonjeiros; toda a sua ambição era manter a paz e assegurar a felicidade dos súditos. Daí o grande zelo na administração da justiça e na implantação dos bons costumes nos seus Estados. Foi o pai dos súditos, sobretudo dos pobres, protetor das viúvas e dos órfãos, sustento e apoio dos fracos. O fervor no serviço de Deus realçava o brilho das suas outras virtudes. A exemplo dos monges e de várias outras pessoas piedosas, aprendeu o saltério de cor. ;No décimo quinto ano do seu reinado, foi atacado pelos Dinamarqueses Hínguar e Hubla, príncipes desta nação, verdadeiros piratas, que foram desembarcar na Inglaterra. Edmundo, a princípio, manteve-se sereno, confiando num tratado que tinha feito com os bárbaros logo que vieram para o seu país. Mas quando viu que não respeitaram o tratado, reuniu o seu exército. Mas os infiéis receberam auxílios. Perante este reforço do inimigo, Edmundo sentia-se impotente para o combater. ;Então os bárbaros fizeram-lhe várias propostas que recusou, por serem contrárias à religião e à justiça que devia aos súditos. Preferiu expor-se à morte a trair sua consciência. Carregaram-no de pesadas cadeias e levaram Edmundo à tenda do general inimigo. Fizeram-lhe novas propostas. Respondeu com firmeza que a religião lhe era mais cara do que a vida, e que nunca consentiria em ofender a Deus, que adorava. Hínguar, enfurecido com esta resposta, mandou açoitá-lo cruelmente. ;O santo sofreu todos os maus tratos com paciência invencível, invocando o Sagrado Nome de Jesus. Por fim, foi condenado a ser decapitado, recebendo a palma do martírio a 20 de novembro de 870. ;Os ingleses consideraram-no mártir e dedicaram-lhe numerosas igrejas. Santo Edmundo, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/Cwczf09/banner-Santo-Edmundo.jpg",
+		"bannerSantoDia": "https://i.ibb.co/cX354sQ/banner-Santo-Edmundo-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/F3nV3D8/foto-Santo-Edmundo.png",	
+		"celebracao": "Celebração: 20 de Novembro.",		
+		"dataCelebracao": "20/11"
+	},
+	{
 		"id": 105,
 		"titulo": "São Roque González e companheiros mártires",
 		"historia": "Roque González nasceu em Assunção do Paraguai, em 1576, e estudou com os Padres Jesuítas, que muito ajudaram-no a desenvolver seus dotes humanos e espirituais. ;O coração de Roque González sempre se compadeceu com a realidade dos indígenas oprimidos, por isso ao se formar e ser ordenado Sacerdote do Senhor, aos 22 anos de idade, foi logo trabalhar como padre diocesano numa aldeia carente. São Roque, sempre obediente à vontade do Pai do Céu, entrou no noviciado da Companhia de Jesus, com 33 anos, e acompanhado com outros ousados missionários, aceitou a missão de pacificar terríveis indígenas. ;São Roque González fez de tudo para ganhar a todos para Cristo, portanto aprendeu além das línguas indígenas, aprofundou-se em técnicas agrícolas, manejo dos bois e vários outros costumes da terra. Os Jesuítas – bem ao contrário do que muitos contam de forma injusta – tinham como meta a salvação das almas, mas também a promoção humana, a qual era e é a consequência lógica de toda completa evangelização. ;Certa vez numa dessas reduções que levavam os indígenas para a vida em aldeias bem estruturadas e protegidas dos colonizadores, Roque González com seus companheiros foram atacados, dilacerados e martirizados por índios ferozes fechados ao Evangelho e submissos a um feiticeiro, que matou o corpo mas não a alma destes que, desde 1628, estão na Glória Celeste. ;Em 1988, o Papa João Paulo II canonizou os três primeiros mártires sul-americanos: São Roque González, Santo Afonso Rodríguez e São João del Castillo. ;São Roque González e companheiros mártires, rogai por nós!",
