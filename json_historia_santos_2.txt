@@ -14,7 +14,7 @@
 			},
 		"bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/P1dX7ns/banner-Apresentacao-de-Nossa-Senhora-no-Templo.jpg",
-		"bannerSantoDia": "https://i.ibb.co/XYvs1f6/banner-Apresentacao-de-Nossa-Senhora-no-Templo-Santo-do-dia.png",
+		"bannerSantoDia": "https://i.ibb.co/t3RRRYM/banner-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/5MWP9sC/foto-Apresentacao-de-Nossa-Senhora-no-Templo.jpg",	
 		"celebracao": "Celebração: 21 de Novembro.",		
 		"dataCelebracao": "21/11"
