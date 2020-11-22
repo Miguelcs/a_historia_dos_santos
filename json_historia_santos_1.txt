@@ -1815,6 +1815,7 @@
 			},
 		"bannerSanto": "https://i.ibb.co/JsQJfZX/banner-Santa-Cecilia.jpg",
 		"bannerOracao": "https://i.ibb.co/dKycmj4/banner-Santa-Cecilia-Oracao.jpg",
+		"bannerSantoDia": "https://i.ibb.co/F0CgYY9/banner-Santa-Cecilia-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/nbCrjBt/foto-Santa-Cecilia.jpg",
 		"celebracao": "Celebração: 22 de Novembro."	
 	},
