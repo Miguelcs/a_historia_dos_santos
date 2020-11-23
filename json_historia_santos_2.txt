@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 108,
+		"titulo": "São Clemente I",
+		"historia": "São Clemente I assumiu a Cátedra de Pedro, depois de Lino, Anacleto e com muito empenho regeu a Igreja de Roma dos anos 88 até 97. ;Sobressai no seu pontificado um documento de primeira grandeza, fundamental a favor do primado universal do Bispo de Roma: a carta aos Coríntios, escrita no ano de 96. ;Perturbada por agitadores presumidos e invejosos, a comunidade cristã de Corinto ameaçava desagregação e ruptura. ;São Clemente escreve-lhe então uma extensa carta de orientação e pacificação, repassada de energia persuasiva, recomendando humildade, paz e obediência à hierarquia eclesiástica já então definida nos seus diversos graus: Bispos, Presbíteros e Diáconos. ;Esta sua intervenção mostra que Clemente, para além de Bispo de Roma, sentia-se responsável e com autoridade sobre as outras Igrejas. ;E saliente-se que, nessa altura, vivia ainda o Apóstolo São João, o que nos permite concluir que o Primado não foi de modo algum uma ideia meramente nascida de circunstâncias favoráveis, mas uma convicção clara logo desde o início. Se assim não fosse, nunca São Clemente teria ousado meter-se onde, por hipótese, não era chamado. ;João, como Apóstolo de Cristo, era sem dúvida uma figura venerável. Mas era ao Bispo de Roma, como sucessor de São Pedro, que competia o governo da cristandade. ;Uma tradição, que remonta ao fim do século IV, afirma que São Clemente terminou sua vida com o martírio. Seu nome ficou incluído no Cânon Romano da Missa. São Clemente I, rogai por nós!",
+		"tituloOracao": "",
+		"oracao": "",
+		"video": 
+			{
+				"descricao": "",
+				"dataPublicacao": "",
+				"videoId": "",
+				"videoFoto": ""
+			},
+		"bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/HKmPrtd/banner-Sao-Clemente-I.jpg",
+		"bannerSantoDia": "https://i.ibb.co/LJFM9cX/banner-Sao-Clemente-I-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/yy4FQXW/foto-Sao-Clemente-I.png",	
+		"celebracao": "Celebração: 23 de Novembro.",		
+		"dataCelebracao": "23/11"
+	},
+	{
 		"id": 107,
 		"titulo": "Apresentação de Nossa Senhora no Templo",
 		"historia": "A memória que a Igreja celebra hoje não encontra fundamentos explícitos nos Evangelhos Canônicos, mas algumas pistas no chamado proto-evangelho de Tiago, livro de Tiago, ou ainda, História do nascimento de Maria. A validade do acontecimento que lembramos possui real alicerce na Tradição que a liga à Dedicação da Igreja de Santa Maria Nova, construída em 543, perto do templo de Jerusalém. ;Os manuscritos não canônicos, contam que Joaquim e Ana, por muito tempo não tinham filhos, até que nasceu Maria, cuja infância se dedicou totalmente, e livremente a Deus, impelida pelo Espírito Santo desde sua concepção imaculada. Tanto no Oriente, quanto no Ocidente observamos esta celebração mariana nascendo do meio do povo e com muita sabedoria sendo acolhida pela Liturgia Católica, por isso esta festa aparece no Missal Romano a partir de 1505, onde busca exaltar a Jesus através daquela muito bem soube isto fazer com a vida, como partilha Santo Agostinho, em um dos seus Sermões: ;'Acaso não fez a vontade do Pai a Virgem Maria, que creu pela fé, pela fé concebeu, foi escolhida dentre os homens para que dela nos nascesse a salvação; criada por Cristo antes que Cristo nela fosse criado? Fez Maria totalmente a vontade do Pai e por isto mais valeu para ela ser discípula de Cristo do que mãe de Cristo; maior felicidade gozou em ser discípula do que mãe de Cristo. E assim Maria era feliz porque já antes de dar à luz o Mestre, trazia-o na mente'. ;A Beata Maria do Divino Coração dedicava devoção especial à festa da Apresentação de Nossa Senhora, de modo que quis que os atos mais importantes da sua vida se realizassem neste dia. ;Foi no dia 21 de novembro de 1964 que o Papa Paulo VI, na clausura da 3ª Sessão do Concílio Vaticano II, consagrou o mundo ao Coração de Maria e declarou Nossa Senhora Mãe da Igreja. ;Nossa Senhora da Apresentação, rogai por nós!",
