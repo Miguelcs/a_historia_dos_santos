@@ -1,5 +1,25 @@
 [	
-	{
+         {
+        "id": 109,
+        "titulo": "Santo André Dung-Lac e companheiros mártires",
+        "historia": "O Papa João Paulo II, em 1988, canonizou na verdade alguns, dos muitos ousados na fé, que se encontram entre o período de 1830 até 1870. ;O Vietnã conheceu a Boa-nova de Jesus Cristo no século XVI, e o acolheu em sua integridade: 'Então, entregar-vos-ão à aflição, matar-vos-ão, sereis odiados por todos os pagãos por causa do meu nome…mas quem perseverar até o fim, este será salvo'. (Mt 24,9-13). ;Santo André Dung-Lac, era de família pobre, reconheceu a riqueza do Dom Sacerdotal e foi ordenado Padre em 1823, em meio às perseguições desejava ardentemente testemunhar Jesus Cristo com o martírio, pois dizia que 'aqueles que morrem pela fé sobem ao céu'. ;Na Ásia, iniciou-se grande perseguição aos cristãos. De 1625 a 1886, os governantes tudo fizeram para despertar o ódio e a vingança contra a religião cristã e àqueles que anunciavam o Evangelho ou tornavam-se cristãos. Mas, quanto mais os perseguiam, mais aumentava o fervor dos cristãos. Esse período culminou com a morte de 117 santos: Sacerdotes, Bispos, pais de famílias, jovens, crianças, catequistas, seminaristas, militares. Todos estes mostrando a universalidade do chamado à Santidade com o próprio sangue. ;Santo André Dung-Lac e companheiros mártires, rogai por nós!",
+        "tituloOracao": "",
+        "oracao": "",
+        "video": 
+            {
+                "descricao": "",
+                "dataPublicacao": "",
+                "videoId": "",
+                "videoFoto": ""
+            },
+        "bannerOracao": "",
+        "bannerSanto": "https://i.ibb.co/ggm77VX/banner-Santo-Andre-Dung.jpg",
+        "bannerSantoDia": "https://i.ibb.co/QFwQ7qf/banner-Santo-Andre-Dung-Santo-do-dia-png.png",
+        "foto": "https://i.ibb.co/C004x8z/foto-Santo-Andre-Dung.jpg",    
+        "celebracao": "Celebração: 24 de Novembro.",        
+        "dataCelebracao": "24/11"
+    },
+       {
 		"id": 108,
 		"titulo": "São Clemente I",
 		"historia": "São Clemente I assumiu a Cátedra de Pedro, depois de Lino, Anacleto e com muito empenho regeu a Igreja de Roma dos anos 88 até 97. ;Sobressai no seu pontificado um documento de primeira grandeza, fundamental a favor do primado universal do Bispo de Roma: a carta aos Coríntios, escrita no ano de 96. ;Perturbada por agitadores presumidos e invejosos, a comunidade cristã de Corinto ameaçava desagregação e ruptura. ;São Clemente escreve-lhe então uma extensa carta de orientação e pacificação, repassada de energia persuasiva, recomendando humildade, paz e obediência à hierarquia eclesiástica já então definida nos seus diversos graus: Bispos, Presbíteros e Diáconos. ;Esta sua intervenção mostra que Clemente, para além de Bispo de Roma, sentia-se responsável e com autoridade sobre as outras Igrejas. ;E saliente-se que, nessa altura, vivia ainda o Apóstolo São João, o que nos permite concluir que o Primado não foi de modo algum uma ideia meramente nascida de circunstâncias favoráveis, mas uma convicção clara logo desde o início. Se assim não fosse, nunca São Clemente teria ousado meter-se onde, por hipótese, não era chamado. ;João, como Apóstolo de Cristo, era sem dúvida uma figura venerável. Mas era ao Bispo de Roma, como sucessor de São Pedro, que competia o governo da cristandade. ;Uma tradição, que remonta ao fim do século IV, afirma que São Clemente terminou sua vida com o martírio. Seu nome ficou incluído no Cânon Romano da Missa. São Clemente I, rogai por nós!",
