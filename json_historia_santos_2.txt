@@ -8,7 +8,7 @@
 		"video": 
 			{
 				"descricao": "'Quem subirá a montanha do Senhor?. Aquele cujas mãos são inocentes e o coração puro, que não ocupou sua alma com futilidades, que não fez juramentos falsos contra seu próximo'.",
-				""dataPublicacao": "2020-11-24T12:00:10Z",
+				"dataPublicacao": "2020-11-24T12:00:10Z",
 				"videoId": "jRHMNdiqdTI",
 				"videoFoto": "https://img.youtube.com/vi/jRHMNdiqdTI/hqdefault.jpg"
 			},
