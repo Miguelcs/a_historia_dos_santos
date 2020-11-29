@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 115,
+		"titulo": "São Francisco Antônio Fasani",
+		"historia": "O santo de hoje nasceu em Lucera (Itália), a 6 de agosto de 1681, e lá morreu a 29 de novembro de 1742. Foi beatificado no dia 15 de abril de 1951 e canonizado a 13 de abril de 1986 pelo Papa João Paulo II. Fez os estudos no convento dos Frades Menores Conventuais. Sentindo o chamamento divino, ingressou no noviciado da mesma Ordem. Fez a profissão em 1696 e a 19 de setembro de 1705 recebeu a Ordenação Sacerdotal. Doutorou-se em Teologia e tornou-se exímio pregador e diretor de almas. Exerceu os cargos de Superior do convento de Lucera e de Ministro Provincial. ;'Ele fez do amor, que nos foi ensinado por Cristo, o parâmetro fundamental da sua existência. O critério basilar do seu pensamento e da sua ação. O vértice supremo das suas aspirações', afirmou o Papa João Paulo II a respeito de São Fasani. ;São Fasani apresenta-se a nós, de modo especial, como modelo perfeito de Sacerdote e Pastor de almas. Por mais de 35 anos, no início do século XVIII, São Francisco Fasani dedicou-se, em Lucera, e também nos territórios ao redor, às mais diversificadas formas de ministério e do apostolado sacerdotal. ;Verdadeiro amigo do seu povo, ele foi para todos irmão e pai, eminente mestre de vida, por todos procurado como conselheiro iluminado e prudente, guia sábio e seguro nos caminhos do Espírito, defensor dos humildes e dos pobres. Disto é testemunho o reverente e afetuoso título com que o saudaram os seus contemporâneos e que ainda hoje é familiar ao povo de Lucera: ele, outrora como hoje, é sempre para eles o 'Pai Mestre'. ;Como Religioso, foi um verdadeiro 'ministro' no sentido franciscano, ou seja, o servo de todos os frades: caridoso e compreensivo, mas santamente exigente quanto à observância da Regra, e de modo particular em relação à prática da pobreza, dando ele mesmo incensurável exemplo de regular observância e de austeridade de vida. São Francisco Antônio Fasani, rogai por nós!",
+		"tituloOracao": "",
+        "oracao": "",
+        "video": 
+            {
+                "descricao": "",
+                "dataPublicacao": "",
+                "videoId": "",
+                "videoFoto": ""
+            },			
+        "bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/2Y68Rg5/banner-Sao-Francisco-Antonio-Fasani.jpg",
+		"bannerSantoDia": "https://i.ibb.co/bBN6qZV/banner-Sao-Francisco-Antonio-Fasani-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/984VdRn/Sao-Francisco-Antonio-Fasani.jpg",	
+		"celebracao": "Celebração: 29 de Novembro.",		
+		"dataCelebracao": "29/11"
+	},
+	{
 		"id": 114,
 		"titulo": "São Tiago da Marca",
 		"historia": "O santo de hoje morreu dizendo 'Jesus, Maria, bendita Paixão de Jesus', isso porque a sua vida foi toda dedicada para a causa do Evangelho. Tiago da Marca nasceu no ano 1391, numa aldeia da Marca de Ancona, Itália. Recebeu no Batismo o nome de Domingos. Tendo morrido seu pai e sua mãe, ficou aos cuidados de um homem rico que o encaminhou para trabalhos administrativos. Desta forma, São Tiago conheceu a iniquidade do mundo, tomando a decisão de se retirar para um convento. ;Quando despertou para a vocação à vida Consagrada, São Tiago pensou em entrar para os Cartuxos, mas ao viajar para Babiena, na Toscana, ficou tão edificado com os diálogos que travou com os franciscanos, que resolveu entrar para a Família de São Francisco de Assis. Recebeu o hábito, tomando o nome de Tiago, no Convento de Nossa Senhora dos Anjos, perto de Assis, onde, pouco tempo depois, fez profissão. ;Dormia apenas três horas por noite e passava o restante da noite na meditação das coisas celestes. Nunca comia carne, jejuava inviolavelmente as sete quaresmas de S. Francisco. Todos os dias se disciplinava com rigor. A única pena que sentia era não poder dedicar-se à pregação, único emprego que desejava na sua Ordem. Para conseguir o que tanto desejava, foi a Nossa Senhora do Loreto, celebrou a Santa Missa e, depois da consagração, a Santíssima Virgem apareceu-lhe a dizer que a sua oração tinha sido ouvida. ;Começou a pregar com tanto fervor que nunca subia ao púlpito sem tocar os corações mais endurecidos, fazendo muitas conversões miraculosas. Foi associado a São João Capistrano para pregar a Cruzada contra os turcos que, tendo-se apoderado de Constantinopla, enchiam de terror toda a cristandade. Foi tal o seu zelo por essa ocasião, que pode atribuir a ele, em grande parte, o sucesso dessa gloriosa empreitada. ;Como sacerdote, dedicou-se nas pregações populares onde, de modo simples, vivo e eficaz, evangelizava e espalhava a Sã Doutrina Católica em diversas regiões da Europa. São Tiago anunciava, mas também denunciava toda opressão social, pois os negociantes e mercadores tiranizavam o povo com empréstimos de juros sem fim, por causa disso o santo fundou os bancos populares que emprestavam com juros mínimos. Por fim, São Tiago se instalou em Nápoles onde teve a revelação que aí terminaria seus dias, como, de fato, aconteceu a 28 de novembro de 1476, isso depois de ser atingido por uma doença mortal. Foi canonizado em 1726 pelo Papa Bento XIII. ;São Tiago da Marca, rogai por nós!",
