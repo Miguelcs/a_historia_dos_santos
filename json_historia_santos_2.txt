@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 116,
+		"titulo": "Santo Elígio",
+		"historia": "Santo Elígio nasceu em Limoges no ano de 588, de nobre família galo-romana, exerceu várias profissões e chegou a Bispo. ;Elígio (também conhecido pelo nome de Elói) que em Paris tinha trabalhado como aprendiz junto com o superintendente de confecções de moedas reais, empenhou-se tanto e com tamanha honestidade que, com o precioso metal (ouro) que lhe foi fornecido para fazer um trono para o rei Clotário II, ele fez dois tronos, isso valeu-lhe a promoção de diretor da casa da moeda e ourives do rei. Ainda existem muitas moedas assinadas por Elígio e sabe-se que, em determinada altura, também cunhou moedas em Marselha. ;No tempo de Dagoberto II, filho e sucessor de Clotário II, Elígio foi um dos conselheiros mais influentes do rei. Diz-se que os enviados dos príncipes estrangeiros se avistavam previamente com ele, antes de serem recebidos oficialmente pelo soberano. Era diplomata hábil e por mais de uma vez conseguiu evitar a guerra. Gozava de tanta confiança junto do rei, que não só se permitia fazer-lhe reparos sobre a indumentária descuidada, mas também sobre a sua vida privada que, como se sabe, deixava ainda mais a desejar. ;O tempo que sobrava a este homem da corte, dos seus negócios e orações, de acudir aos pobres, remir cativos ou libertar escravos, empregava-o em honrar com a sua arte as relíquias dos santos. Atribuem-se-lhe os relicários feitos para S. Germano de Paris, S. Piat, S. Severino, S. Martinho, Santa Comba e Santa Genoveva. Diz-se que decorou também com trabalhos de ourivesaria o túmulo de S. Dinis. Além disso, fundou mosteiros, entre os quais um perto de Solignac em Limousin, outro dedicado a S. Martinho de Noyon e ainda outro a seis milhas de Arrás, numa colina que depois se chamou Monte de Santo Elói (Santo Elígio). ;Em 639, morto o rei, demitiu-se de todos os cargos, para entrar na vida eclesiástica, tendo sido ordenado sacerdote por Deodato, Bispo de Mans. Foi sagrado Bispo em Ruão, no dia 14 de maio de 641, e ocupou desde então a Sé Episcopal de Noyon. Foi grande organizador, apóstolo cheio de zelo, sabedoria e bondade. A sua atividade irradiou para Flandres, Holanda e até, segundo se conta, para a Suécia e Dinamarca. ;Faleceu no ano de 659 com 71 anos de idade. ;Santo Elígio, rogai por nós!",
+		"tituloOracao": "",
+        "oracao": "",
+        "video": 
+            {
+                "descricao": "",
+                "dataPublicacao": "",
+                "videoId": "",
+                "videoFoto": ""
+            },			
+        "bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/gTzSXjL/banner-Santo-Eligio.jpg",
+		"bannerSantoDia": "https://i.ibb.co/MZWqwJs/banner-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/j6D1nxK/foto-Santo-Eligio.jpg",	
+		"celebracao": "Celebração: 01 de Dezembro.",		
+		"dataCelebracao": "01/12"
+	},
+	{
 		"id": 115,
 		"titulo": "São Francisco Antônio Fasani",
 		"historia": "O santo de hoje nasceu em Lucera (Itália), a 6 de agosto de 1681, e lá morreu a 29 de novembro de 1742. Foi beatificado no dia 15 de abril de 1951 e canonizado a 13 de abril de 1986 pelo Papa João Paulo II. Fez os estudos no convento dos Frades Menores Conventuais. Sentindo o chamamento divino, ingressou no noviciado da mesma Ordem. Fez a profissão em 1696 e a 19 de setembro de 1705 recebeu a Ordenação Sacerdotal. Doutorou-se em Teologia e tornou-se exímio pregador e diretor de almas. Exerceu os cargos de Superior do convento de Lucera e de Ministro Provincial. ;'Ele fez do amor, que nos foi ensinado por Cristo, o parâmetro fundamental da sua existência. O critério basilar do seu pensamento e da sua ação. O vértice supremo das suas aspirações', afirmou o Papa João Paulo II a respeito de São Fasani. ;São Fasani apresenta-se a nós, de modo especial, como modelo perfeito de Sacerdote e Pastor de almas. Por mais de 35 anos, no início do século XVIII, São Francisco Fasani dedicou-se, em Lucera, e também nos territórios ao redor, às mais diversificadas formas de ministério e do apostolado sacerdotal. ;Verdadeiro amigo do seu povo, ele foi para todos irmão e pai, eminente mestre de vida, por todos procurado como conselheiro iluminado e prudente, guia sábio e seguro nos caminhos do Espírito, defensor dos humildes e dos pobres. Disto é testemunho o reverente e afetuoso título com que o saudaram os seus contemporâneos e que ainda hoje é familiar ao povo de Lucera: ele, outrora como hoje, é sempre para eles o 'Pai Mestre'. ;Como Religioso, foi um verdadeiro 'ministro' no sentido franciscano, ou seja, o servo de todos os frades: caridoso e compreensivo, mas santamente exigente quanto à observância da Regra, e de modo particular em relação à prática da pobreza, dando ele mesmo incensurável exemplo de regular observância e de austeridade de vida. São Francisco Antônio Fasani, rogai por nós!",
