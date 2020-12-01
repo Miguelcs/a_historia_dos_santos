@@ -1761,8 +1761,10 @@
 			},
 		"bannerSanto": "https://i.ibb.co/c87gSLV/banner-Sao-Francisco-Xavier.jpg",
 		"bannerOracao": "https://i.ibb.co/SyTCgtH/banner-Sao-Francisco-Xavier-oracao.jpg",
+		"bannerSantoDia": "https://i.ibb.co/RHRP9zp/banner-Sao-Francisco-Xavier-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/D8N07hH/foto-Sao-Francisco-Xavier.jpg",
-		"celebracao": "Celebração: 03 de Dezembro."	
+		"celebracao": "Celebração: 03 de Dezembro.",
+		"dataCelebracao": "03/12"
 	},
 	{
 		"id": 7,
