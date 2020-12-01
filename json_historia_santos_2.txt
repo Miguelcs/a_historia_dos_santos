@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 117,
+		"titulo": "São Cromácio",
+		"historia": "Hoje a Igreja nos apresenta São Cromácio, Bispo de Aquiléia (Itália). Esta cidade da Europa, por um tempo foi muito importante para o Império Romano, que a tinha como centro político e principalmente para o Cristianismo, pois São Jerônimo a chamou: 'Comunidade de santos'. Neste contexto que, no século IV, Cromácio aparece como pertencente do Clero de Aquiléia e ajudante fiel do Bispo Valeriano. Cromácio nasceu em Aquiléia no ano 345. ;São Cromácio colaborou na organização da diocese e na luta contra o Arianismo, que semeava a mentira em que Jesus Cristo seria criatura escolhida, e não Deus. A casa de São Cromácio era centro de atividade espiritual, de estudo, oração e encontro de amigos sacerdotes e leigos, dispostos a cresceram para Deus. Quando Valeriano morreu, todos – Clero e o povo – não tiveram dúvida em aclamar Cromácio para Bispo de Aquiléia. Isto em 388. ;Como Bispo, foi santo e sábio pastor, culto, enérgico na defesa da doutrina e incansável na evangelização dos povos, o próprio São Cromácio se destacou como pregador e escritor, além de cooperar para que São Jerônimo e Rufino trabalhassem cada um na sua tradução das Sagradas Escrituras. São Cromácio faleceu em sua cidade – Aquiléia – no ano de 408, local que jamais esqueceu deste santo Bispo. ;São Cromácio, rogai por nós!",
+		"tituloOracao": "",
+        "oracao": "",
+        "video": 
+            {
+                "descricao": "",
+                "dataPublicacao": "",
+                "videoId": "",
+                "videoFoto": ""
+            },				
+        "bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/Pc2WdMs/banner-Sao-Cromacio.jpg",
+		"bannerSantoDia": "https://i.ibb.co/34WNdjq/banner-Sao-Cromacio-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/LzpjyCT/foto-Sao-Cromacio.jpg",	
+		"celebracao": "Celebração: 02 de Dezembro.",		
+		"dataCelebracao": "02/12"
+	},
+	{
 		"id": 116,
 		"titulo": "Santo Elígio",
 		"historia": "Santo Elígio nasceu em Limoges no ano de 588, de nobre família galo-romana, exerceu várias profissões e chegou a Bispo. ;Elígio (também conhecido pelo nome de Elói) que em Paris tinha trabalhado como aprendiz junto com o superintendente de confecções de moedas reais, empenhou-se tanto e com tamanha honestidade que, com o precioso metal (ouro) que lhe foi fornecido para fazer um trono para o rei Clotário II, ele fez dois tronos, isso valeu-lhe a promoção de diretor da casa da moeda e ourives do rei. Ainda existem muitas moedas assinadas por Elígio e sabe-se que, em determinada altura, também cunhou moedas em Marselha. ;No tempo de Dagoberto II, filho e sucessor de Clotário II, Elígio foi um dos conselheiros mais influentes do rei. Diz-se que os enviados dos príncipes estrangeiros se avistavam previamente com ele, antes de serem recebidos oficialmente pelo soberano. Era diplomata hábil e por mais de uma vez conseguiu evitar a guerra. Gozava de tanta confiança junto do rei, que não só se permitia fazer-lhe reparos sobre a indumentária descuidada, mas também sobre a sua vida privada que, como se sabe, deixava ainda mais a desejar. ;O tempo que sobrava a este homem da corte, dos seus negócios e orações, de acudir aos pobres, remir cativos ou libertar escravos, empregava-o em honrar com a sua arte as relíquias dos santos. Atribuem-se-lhe os relicários feitos para S. Germano de Paris, S. Piat, S. Severino, S. Martinho, Santa Comba e Santa Genoveva. Diz-se que decorou também com trabalhos de ourivesaria o túmulo de S. Dinis. Além disso, fundou mosteiros, entre os quais um perto de Solignac em Limousin, outro dedicado a S. Martinho de Noyon e ainda outro a seis milhas de Arrás, numa colina que depois se chamou Monte de Santo Elói (Santo Elígio). ;Em 639, morto o rei, demitiu-se de todos os cargos, para entrar na vida eclesiástica, tendo sido ordenado sacerdote por Deodato, Bispo de Mans. Foi sagrado Bispo em Ruão, no dia 14 de maio de 641, e ocupou desde então a Sé Episcopal de Noyon. Foi grande organizador, apóstolo cheio de zelo, sabedoria e bondade. A sua atividade irradiou para Flandres, Holanda e até, segundo se conta, para a Suécia e Dinamarca. ;Faleceu no ano de 659 com 71 anos de idade. ;Santo Elígio, rogai por nós!",
