@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 118,
+		"titulo": "São João Damasceno",
+		"historia": "Lembramos São João Damasceno, um santo Padre e Doutor da Igreja de Cristo. Nasceu em 675, em Damasco (Síria) num período em que o Cristianismo tinha uma certa liberdade, tanto assim que o pai de João era muito cristão e amigo dos Sarracenos, que naquela época eram senhores do país. Esta estima estendia-se também ao filho. Os raros talentos e merecimentos deste levaram o Califa a distingui-lo com a sua confiança e nomeá-lo prefeito (mansur) de Damasco. ;João Damasceno ainda jovem e ajudante do pai gozava de muitos privilégios financeiros, mas ao crescer no amor ao Cristo pobre, deu atenção a Palavra que mostra a dificuldade dos ricos (apegados) para entrarem no Reino dos Céus. Assim, num impulso para a santidade, renunciou todos os bens e deu aos pobres. Preferiu São João uma vida de maus tratos ao se entregar as 'delícias venenosas' do pecado. ;Retirou-se para um convento de São Sabas perto de Jerusalém e passou a viver na humildade, caridade e alegria. Escreveu inúmeras obras tratando de vários assuntos sobre teologia, dogmática, apologética e outros campos que fizeram de São João digno do título de Doutor da Igreja. Com escritos defendeu principalmente a Igreja contra os iconoclastas, que condenavam o uso de imagens nas Igrejas. ;Certa vez, os hereges prenderam São João e cortaram-lhe a mão direita a fim de não mais escrever, mas por intervenção de Nossa Senhora foi curado. Seu amor a Mãe de Jesus foi tão concreto que foi São João quem tornou presente a doutrina sobre a Imaculada Conceição, Maternidade divina, Virgindade perpétua e Assunção de corpo e alma de Maria. Este filho predileto da Mãe faleceu em 749, quase centenário. ;Foi declarado Doutor da Igreja pelo Papa Leão XIII em 1890. ;São João Damasceno, rogai por nós!",
+		"tituloOracao": "",
+        "oracao": "",
+        "video": 
+            {
+                "descricao": "",
+                "dataPublicacao": "",
+                "videoId": "",
+                "videoFoto": ""
+            },
+        "bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/Dr2DCJ5/banner-Sao-Joao-Damasceno.jpg",
+		"bannerSantoDia": "https://i.ibb.co/JmR0XxM/banner-Sao-Joao-Damasceno-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/JHqqmzW/foto-Sao-Joao-Damasceno.jpg",	
+		"celebracao": "Celebração: 04 de Dezembro.",		
+		"dataCelebracao": "04/12"
+	},
+	{
 		"id": 117,
 		"titulo": "São Cromácio",
 		"historia": "Hoje a Igreja nos apresenta São Cromácio, Bispo de Aquiléia (Itália). Esta cidade da Europa, por um tempo foi muito importante para o Império Romano, que a tinha como centro político e principalmente para o Cristianismo, pois São Jerônimo a chamou: 'Comunidade de santos'. Neste contexto que, no século IV, Cromácio aparece como pertencente do Clero de Aquiléia e ajudante fiel do Bispo Valeriano. Cromácio nasceu em Aquiléia no ano 345. ;São Cromácio colaborou na organização da diocese e na luta contra o Arianismo, que semeava a mentira em que Jesus Cristo seria criatura escolhida, e não Deus. A casa de São Cromácio era centro de atividade espiritual, de estudo, oração e encontro de amigos sacerdotes e leigos, dispostos a cresceram para Deus. Quando Valeriano morreu, todos – Clero e o povo – não tiveram dúvida em aclamar Cromácio para Bispo de Aquiléia. Isto em 388. ;Como Bispo, foi santo e sábio pastor, culto, enérgico na defesa da doutrina e incansável na evangelização dos povos, o próprio São Cromácio se destacou como pregador e escritor, além de cooperar para que São Jerônimo e Rufino trabalhassem cada um na sua tradução das Sagradas Escrituras. São Cromácio faleceu em sua cidade – Aquiléia – no ano de 408, local que jamais esqueceu deste santo Bispo. ;São Cromácio, rogai por nós!",
