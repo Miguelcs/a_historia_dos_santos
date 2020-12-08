@@ -4,7 +4,7 @@
 		"historia": "'Porei ódio entre ti e a mulher, entre a tua escendência e a dela. Esta te ferirá a cabeça, e tu ferirás o calcanhar'. (Gn 3, 15). Se por causa de Eva o pecado entrou no mundo, é por causa de Maria que o perdão e a salvação se estabelecerá. Reconhecida pela Igreja de Cristo como sendo sem pecado desde sua concepção, Nossa Senhora da Imaculada Conceição não se refere apenas à Concepção de Jesus, porém, a sua própria concepção, que foi sem pecado, sendo ela preservada pela onipotência de Deus. ;Em 1854, o Papa Pio IX proclamou: 'Por uma graça e favor singular de Deus onipotente e em previsão dos méritos de Jesus Cristo, Salvador do gênero humano, a bem-aventurada Virgem Maria foi preservada intacta de toda a mancha do pecado original no primeiro instante da sua conceição'.",
 		"tituloOracao": "Oração a Imaculada Conceição",
 		"oracao": "Virgem Santíssima, que fostes concebida sem o pecado original e por isto merecestes o título de Nossa Senhora da Imaculada Conceição e por terdes evitado todos os outros pecados, o Anjo Gabriel vos saudou com as belas palavras: 'Ave Maria, cheia de graça'. Nós vos pedimos que nos alcanceis do vosso divino Filho o auxílio necessário para vencermos as tentações e evitarmos os pecados e, já que vós chamamos de Mãe, atendei-nos com carinho maternal e  ajudai-nos a viver como dignos filhos vossos. Nossa Senhora da Imaculada Conceição, rogai por nós.",
-		"videoId": "1R0nFWUoAIY"	
+		"videoId": "1R0nFWUoAIY",
 		"bannerOracao": "https://i.ibb.co/2cCjgCM/banner-Nossa-Senhora-da-Imaculada-Conceicao-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/Pxvp29y/banner-Nossa-Senhora-da-Imaculada-Conceicao.png",
 		"bannerSantoDia": "https://i.ibb.co/wY3F8J9/banner-Nossa-Senhora-da-Imaculada-Conceicao-Santo-do-dia.png",
