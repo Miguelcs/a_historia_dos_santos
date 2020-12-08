@@ -7,7 +7,7 @@
 		"videoId": "1R0nFWUoAIY",
 		"bannerOracao": "https://i.ibb.co/2cCjgCM/banner-Nossa-Senhora-da-Imaculada-Conceicao-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/Pxvp29y/banner-Nossa-Senhora-da-Imaculada-Conceicao.png",
-		"bannerSantoDia": "https://i.ibb.co/wY3F8J9/banner-Nossa-Senhora-da-Imaculada-Conceicao-Santo-do-dia.png",
+		"bannerSantoDia": "https://i.ibb.co/r4VQD07/banner-NS-Imaculada-Conceicao-Santo-do-dia-Novo.png",
 		"foto": "https://i.ibb.co/Gnj6vrj/foto-Nossa-Senhora-da-Imaculada-Conceicao.png",				
 		"dataCelebracao": "08/12"	
 	}
