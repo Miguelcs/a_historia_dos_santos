@@ -23,5 +23,18 @@
 		"bannerSanto": "https://i.ibb.co/Pxvp29y/banner-Nossa-Senhora-da-Imaculada-Conceicao.png",
 		"bannerSantoDia": "https://i.ibb.co/r4VQD07/banner-NS-Imaculada-Conceicao-Santo-do-dia-Novo.png",
 		"foto": "https://i.ibb.co/Gnj6vrj/foto-Nossa-Senhora-da-Imaculada-Conceicao.png"
+	},
+	{
+		"id": 4,
+		"titulo": "São Januário (San Gennaro)",
+		"historia": "São Januário, também conhecido como San Gennaro, viveu no fim do século III, em uma época de perseguição ao Cristianismo. Januário foi martirizado testemunhando sua fé, na época do Imperador Diocleciano. ;Era considero um bom homem, cheio de fé e muito caridoso. Por isso foi eleito Bispo de Benevento, próximo a Nápoles, onde estão guardados seu corpo e sangue.",
+		"tituloOracao": "Oração à São Januário",
+		"oracao": "Deus eterno e todo-poderoso, que a vossos pastores associastes São Januário, a quem destes a graça de lutar pela justiça até a morte. Concedei-nos, por sua intercessão, suportar por vosso amor as adversidades e correr ao encontro de vós que sois a nossa vida. Por Cristo nosso Senhor. Amém!",
+		"videoId": "2923DFS3e-w",
+		"bannerOracao": "https://i.ibb.co/Pt9fTVm/banner-Sao-Januario-Oracao.png",
+		"bannerSanto": "https://i.ibb.co/qJRM0Q5/banner-Sao-Januario.png",
+		"bannerSantoDia": "https://i.ibb.co/3h4qcBy/banner-Sao-Januario-Santo-do-dia.png",
+		"foto": "https://i.ibb.co/4fjcJB5/foto-Sao-Januario.png",	
+		"celebracao": "Celebração: 19 de Setembro."
 	}
 ]
