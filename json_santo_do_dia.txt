@@ -33,7 +33,7 @@
 		"videoId": "2923DFS3e-w",
 		"bannerOracao": "https://i.ibb.co/Pt9fTVm/banner-Sao-Januario-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/qJRM0Q5/banner-Sao-Januario.png",
-		"bannerSantoDia": "https://i.ibb.co/3h4qcBy/banner-Sao-Januario-Santo-do-dia.png",
+		"bannerSantoDia": "https://i.ibb.co/hm2kmzx/banner-Sao-Juan-Diego-Cuauhtlatoatzin-Santo-do-dia-Novo.png",
 		"foto": "https://i.ibb.co/4fjcJB5/foto-Sao-Januario.png",	
 		"celebracao": "Celebração: 19 de Setembro."
 	}
