@@ -1,4 +1,17 @@
 [	
+	{
+		"id": 120,
+		"titulo": "São Juan Diego Cuauhtlatoatzin",
+		"historia": "Os registros oficiais narram que Juan Diego, para nós João Diego, nasceu em 1474 na Calpulli, ou melhor, no bairro de Tlayacac ao norte da atual Cidade do México. Era um índio nativo, que antes de ser batizado tinha o nome de Cuauhtlatoatzin, traduzido como 'águia que fala' ou 'aquele que fala como águia'. ;Era um índio pobre, pertencia a mais baixa casta do Império Azteca, sem ser, entretanto, um escravo. Dedicava-se ao difícil trabalho no campo e à fabricação de esteiras. Possuía um pedaço de terra, onde vivia feliz com a esposa, numa pequena casa, mas não tinha filhos. ;Atraído pela doutrina dos padres franciscanos que chegaram ao México em 1524, se converteu e foi batizado, junto como sua esposa. Receberam o nome cristão de João Diego e Maria Lúcia, respectivamente. Era um homem dedicado, religioso, que sempre se retirava para as orações contemplativas e penitências. Costumava caminhar de sua vila à Cidade do México, a quatorze milhas de distância, para aprender a Palavra de Cristo. Andava descalço e vestia, nas manhãs frias, uma roupa de tecido grosso de fibra de cactos como um manto, chamado tilma ou ayate, como todos de sua classe social. ;A esposa, Maria Lúcia, ficou doente e faleceu em 1529. Ele, então, foi morar com seu tio, diminuindo a distância da igreja para nove milhas. Fazia esse percurso todo sábado e domingo, saindo bem cedo, antes do amanhecer. Durante uma de suas idas à igreja, no dia 9 de dezembro de 1531, por volta de três horas e meia, entre a vila e a montanha, ocorreu à primeira aparição de Nossa Senhora de Guadalupe, num lugar hoje chamado 'Capela do Cerrinho', onde a Virgem Maria o chamou em sua língua nativa, nahuatl, dizendo: 'Joãozinho, João Dieguito', 'o mais humilde de meus filhos', 'meu filho caçula', 'meu queridinho'. ;A Virgem o encarregou de pedir ao bispo, o franciscano João de Zumárraga, para construir uma igreja no lugar da aparição. Como o bispo não se convenceu, ela sugeriu que João Diego insistisse. No dia seguinte, domingo, voltou a falar com o bispo, que pediu provas concretas sobre a aparição. ;Na terça-feira, 12 de dezembro, João Diego estava indo à cidade quando a Virgem apareceu e o consolou. Em seguida, pediu que ele colhesse flores para ela no alto da colina de Tepeyac. Apesar do frio, ele encontrou lindas flores, que colheu, colocou no seu manto e levou para Nossa Senhora. Ela disse que as entregasse ao bispo como prova da aparição. Diante do bispo, Juan Diego abriu sua túnica, as flores caíram e no tecido apareceu impressa a imagem de Nossa Senhora de Guadalupe. Tinha, então, cinquenta e sete anos. ;Após o milagre de Guadalupe, foi morar numa sala ao lado da capela que acolheu a sagrada imagem, depois de ter passado seus negócios e propriedades ao seu tio. Dedicou o resto de sua vida propagando as aparições aos seus conterrâneos nativos, que se convertiam. Ele amou, profundamente, a santa eucaristia, e obteve uma especial permissão do bispo para receber a comunhão três vezes na semana, um acontecimento bastante raro naqueles dias. ;Juan Diego faleceu no dia 30 de maio de 1548, aos setenta e quatro anos, de morte natural. ;O papa João Paulo II, durante sua canonização em 2002, designou a festa litúrgica para 9 de dezembro, dia da primeira aparição, e louvou São Juan Diego, pela sua simples fé nutrida pelo catecismo, como um modelo de humildade para todos nós. ;São Juan Diego, rogai por nós! ;Padre Luizinho, Comunidade Canção Nova.",
+		"tituloOracao": "",
+        "oracao": "",
+        "videoId": "",
+        "bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/r3SCLkx/banner-Sao-Juan-Diego-Cuauhtlatoatzin.jpg",
+		"bannerSantoDia": "https://i.ibb.co/hm2kmzx/banner-Sao-Juan-Diego-Cuauhtlatoatzin-Santo-do-dia-Novo.png",
+		"foto": "https://i.ibb.co/N9pWzn5/foto-Sao-Juan-Diego-Cuauhtlatoatzin.jpg",	
+		"celebracao": "Celebração: 09 de Dezembro."
+	},
 	{		
 		"id": 3,
 		"titulo": "Nossa Senhora da Imaculada Conceição",
@@ -9,7 +22,6 @@
 		"bannerOracao": "https://i.ibb.co/2cCjgCM/banner-Nossa-Senhora-da-Imaculada-Conceicao-Oracao.png",
 		"bannerSanto": "https://i.ibb.co/Pxvp29y/banner-Nossa-Senhora-da-Imaculada-Conceicao.png",
 		"bannerSantoDia": "https://i.ibb.co/r4VQD07/banner-NS-Imaculada-Conceicao-Santo-do-dia-Novo.png",
-		"foto": "https://i.ibb.co/Gnj6vrj/foto-Nossa-Senhora-da-Imaculada-Conceicao.png",				
-		"dataCelebracao": "08/12"	
+		"foto": "https://i.ibb.co/Gnj6vrj/foto-Nossa-Senhora-da-Imaculada-Conceicao.png"
 	}
 ]
