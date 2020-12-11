@@ -1,5 +1,25 @@
 [	
 	{
+		"id": 122,
+		"titulo": "São Dâmaso",
+		"historia": "Ocupou a Sé de Roma de 366 a 384. Foi natural, ou pelo menos originário, da antiga Hispânia. O Livro Pontifical, não muito posterior, dá-o como hispanus. Seu pai e uma irmã ao menos, Santa Irene, viveram também em Roma. Lá, S. Dâmaso erigiu uma Basílica a S. Lourenço, que recebeu o cognome de in Damaso. ;Viveu num período de grande agitação para a Igreja. No tempo de seu Pontificado, era Bispo de Milão o grande Santo Ambrósio e São Jerônimo punha sua formidável inteligência ao serviço da Igreja. São Dâmaso teve que enfrentar um cisma causado por um antipapa, isto no início do seu Pontificado. Infelizmente este não consistiu no único problema para Dâmaso, já que teve de combater o Arianismo, que negava a consubstancialidade de Cristo com o Pai. Sendo ele Papa, chegou quase a extinguir-se a heresia ariana. O Imperador Teodósio, se não encontrou nele um indomável mestre de moral como Santo Ambrósio, encontrou um Papa que afirmou sempre, com serena firmeza, a 'autoridade da Sé Apostólica'. Dâmaso fez de tudo pela unidade da Igreja, e para deixar claro o Primado do Papa, pois foi o próprio Cristo quem quis: 'E eu te declaro: tu és Pedro, e sobre esta pedra edificarei a minha Igreja; as portas do inferno não prevalecerão contra ela' (Mt 16,18). ;O Papa Dâmaso esteve no II Concílio Ecumênico onde aconteceu a definição dogmática sobre a Divindade do Espírito Santo. Foi ele quem encarregou São Jerônimo na tradução da Bíblia da língua original para o latim, língua oficial da Igreja. Conhecido como o 'Papa das Catacumbas', São Dâmaso foi responsável pela zelosa restauração das catacumbas dos mártires. Em Roma, conseguiu separar Estado e Paganismo. A sua obra foi paciente e oculta, mas não medíocre nem definhante. Soube ligar à Sé apostólica todas as Igrejas e obteve do poder civil o maior respeito. ;São Dâmaso, o Papa mais notável do século IV, veio a falecer em 384. Na chamada Cripta dos Papas, por ele explorada nas Catacumbas de S. Calisto, no fim de uma longa inscrição, escreveu: 'Aqui eu, Dâmaso, desejaria mandar sepultar os meus restos, mas tenho medo de perturbar as piedosas cinzas dos santos'. Humildade e discrição de um Papa verdadeiramente santo, que de fato preparou para si a sepultura longe, num local solitário, à margem da Via Ardeatina. ;São Dâmaso, rogai por nós!",
+		"tituloOracao": "",
+        "oracao": "",
+        "video": 
+            {
+                "descricao": "",
+                "dataPublicacao": "",
+                "videoId": "",
+                "videoFoto": ""
+            },
+        "bannerOracao": "",
+		"bannerSanto": "https://i.ibb.co/RSd9GR9/banner-Sao-Damaso.jpg",
+		"bannerSantoDia": "https://i.ibb.co/DrSY7KN/banner-Santo-do-dia-Novo.png",
+		"foto": "https://i.ibb.co/fGR1MD8/foto-Sao-Damaso.jpg",	
+		"celebracao": "Celebração: 11 de Dezembro.",		
+		"dataCelebracao": "11/12"
+	},
+	{
 		"id": 121,
 		"titulo": "São Melquíades",
 		"historia": "Hoje nos deixamos atingir pela santidade de vida de um Papa que buscou no Pastor Eterno e Universal toda a graça que necessitava para ser fiel num tempo de transição da Igreja. São Melquíades, de origem africana, fez parte do Clero Romano, até que em 310 faleceu o Papa Eusébio e foi eleito sucessor de São Pedro. ;No período de seu governo, Melquíades sofreu com a perseguição aos cristãos pelo Imperador Máximo. Esta perseguição só teve um descanso quando Constantino venceu Máximo na histórica batalha em Roma (312) a qual atribuiu ao Deus dos cristãos. Com isto, surgiu o Edito de Milão em 313, concedendo a liberdade religiosa; assim, São Melquíades passou do Papa da perseguição para o Papa da liberdade dos cristãos. ;Durante os quatro anos de seu Pontificado, as piores ameaças nasceram no interior da Igreja com os hereges. São Melquíades foi grande defensor da Fé, por isso combateu principalmente o Donatismo, que contestava a legitimação da eleição dos ministros de Deus e fanaticamente se substituía a qualquer autoridade. ;Aproveitou Melquíades, a liberdade religiosa para organizar as sedes paroquiais em Roma e recuperar os bens da Igrejas perdidos durante a perseguição. São Melquíades através da Eucaristia semeou a unidade da Igreja de Roma com as demais igrejas. Entrou no céu em 314 e foi enterrado na Via Ápia, no cemitério de Calisto. Do Doutor Santo Agostinho, São Melquíades recebeu o seguinte reconhecimento: 'Verdadeiro filho da paz, verdadeiro pai dos cristãos'. ;São Melquíades, rogai por nós!",
@@ -14,7 +34,7 @@
             },
         "bannerOracao": "",
 		"bannerSanto": "https://i.ibb.co/9vRwKFP/banner-Sao-Melquiades.jpg",
-		"bannerSantoDia": "https://i.ibb.co/4TWkM7K/banner-Sao-Melquiades-Santo-do-dia-Novo.png",
+		"bannerSantoDia": "https://i.ibb.co/CnXsw9d/banner-Sao-Melquiades-Santo-do-dia-Novo.png",
 		"foto": "https://i.ibb.co/XW2V5s4/foto-Sao-Melquiades.jpg",	
 		"celebracao": "Celebração: 10 de Dezembro.",		
 		"dataCelebracao": "10/12"
