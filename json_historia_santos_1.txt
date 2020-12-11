@@ -1544,9 +1544,11 @@
 				"videoFoto": "https://img.youtube.com/vi/7wX_OT0yLpo/hqdefault.jpg"
 			},
 		"bannerSanto": "https://i.ibb.co/r0fZSJw/banner-Santo-Ambrosio.jpg",
+		"bannerSantoDia": "https://i.ibb.co/4dF5k3q/banner-Sao-Martinho-de-Dume-Santo-do-dia.png",
 		"bannerOracao": "https://i.ibb.co/XCqcbMK/banner-Santo-Ambrosio-Oracao.jpg",
 		"foto": "https://i.ibb.co/yfhzvvp/foto-Santo-Ambrosio.jpg",
-		"celebracao": "Celebração: 07 de dezembro."	
+		"celebracao": "Celebração: 07 de dezembro.",
+		"dataCelebracao": "07/12"
 	},
 	{
 		"id": 19,
@@ -1689,8 +1691,10 @@
 			},
 		"bannerSanto": "https://i.ibb.co/M8TptcZ/banner-Nossa-Senhora-de-Guadalupe.jpg",
 		"bannerOracao": "https://i.ibb.co/sRZGrZs/banner-Nossa-Senhora-de-Guadalupe-Oracao.jpg",
+		"bannerSantoDia": "https://i.ibb.co/CsKyB1t/banner-Nossa-Senhora-de-Guadalupe-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/gRMYf1p/foto-Nossa-Senhora-de-Guadalupe.jpg",
-		"celebracao": "Celebração: 12 de Dezembro."	
+		"celebracao": "Celebração: 12 de Dezembro.",
+		"dataCelebracao": "12/12"
 	},
 	{
 		"id": 11,
@@ -1781,8 +1785,10 @@
 			},
 		"bannerSanto": "https://i.ibb.co/YTwjrtz/banner-Santa-Luzia.jpg",
 		"bannerOracao": "https://i.ibb.co/PcGhz7X/banner-Santa-Luzia-Oracao.jpg",
+		"bannerSantoDia": "https://i.ibb.co/BGtFQ5T/banner-Santa-Luzia-Santo-do-dia.png",
 		"foto": "https://i.ibb.co/TtkB0Qx/foto-Santa-Luzia.jpg",
-		"celebracao": "Celebração: 13 de Dezembro."	
+		"celebracao": "Celebração: 13 de Dezembro.",
+		"dataCelebracao": "13/12"
 	},
 	{
 		"id": 6,
